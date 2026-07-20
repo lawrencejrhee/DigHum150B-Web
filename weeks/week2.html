@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="Week 2 of DigHum 150B: Lawrence Rhee introduces Tableau, the data-visualization tool used throughout the class, and sets up a humanities visual analysis.">
-  <title>Week 2: Tableau — Lawrence Rhee</title>
+  <title>Week 2: Tableau · Lawrence Rhee</title>
   <link rel="stylesheet" href="../assets/styles.css">
 </head>
 <body>
@@ -137,55 +137,67 @@
 
       <h2>The analysis</h2>
       <p>
-        For the humanities side, I'm starting with <strong>global literacy
-        rates over time</strong> — the share of people who can read and write,
-        tracked by country across the last two centuries. It's "humanities
-        broadly construed" in the way the assignment invites: literacy is the
-        precondition for basically everything the humanities studies, and the
-        long climb from a literate few to a literate majority is one of the
-        bigger stories in human culture. The data is clean and public, from
-        <a href="https://ourworldindata.org/literacy" target="_blank" rel="noopener">Our
-        World in Data</a>, which makes it a good first dataset to learn Tableau
-        on.
+        For the humanities component of this project, I am focusing on global
+        literacy rates over time. The dataset tracks the percentage of people
+        who can read and write across different countries over the past two
+        centuries. This topic fits the assignment's broad definition of the
+        humanities because literacy is a foundation for nearly every field
+        within the discipline. The historical shift from literacy being limited
+        to a small portion of the population to becoming common among the
+        majority represents one of the most significant developments in human
+        culture.
       </p>
 
       <p>
-        My plan is to build up through the chart types above: a line chart of
-        literacy over time for a few countries, a scatter of literacy against
-        year to see the overall arc, clusters to see whether countries fall into
-        natural "early / late" groups, and then a small dashboard and story to
-        tie it together. The interactive version will live right here once the
-        workbook is done.
+        The data comes from <a href="https://ourworldindata.org/literacy" target="_blank" rel="noopener">Our
+        World in Data</a> and is both public and relatively clean, making it a
+        practical first dataset for learning Tableau. It provides enough
+        historical and geographic variation to support several forms of analysis
+        without requiring extensive data preparation.
+      </p>
+
+      <p>
+        My plan is to develop the project using the chart types described above.
+        I will begin with a line chart comparing literacy rates over time in
+        several countries. I will then create a scatter plot showing literacy
+        against year to examine the broader historical pattern. Clustering will
+        help determine whether countries form natural groups based on earlier or
+        later literacy development. Finally, I will combine these visualizations
+        in a small dashboard and story that presents the findings as a connected
+        argument. The completed interactive version will be embedded here once
+        the Tableau workbook is finished.
       </p>
 
       <figure class="media">
-        <!-- Once the Tableau Public viz is published, replace the placeholder
-             below with the embed. Tableau gives you the code under
-             Share → Embed Code; paste the <iframe> here, e.g.:
+        <!-- Starting point: a static chart built from the Our World in Data
+             figures (data saved in assets/data/cross-country-literacy.csv).
+             To swap in your own interactive Tableau viz later, publish the
+             workbook to Tableau Public, then Share → Embed Code and replace
+             this <img> with the <iframe>, e.g.:
              <iframe src="https://public.tableau.com/views/WORKBOOK/SHEET?:embed=y&:showVizHome=no"
                      title="Global literacy over time" allowfullscreen loading="lazy"></iframe>
         -->
-        <div class="viz-placeholder">
-          <p><strong>Interactive Tableau visualization coming here.</strong><br>
-             I'm building the workbook in Tableau Public and will embed the live,
-             interactive version on this page once it's published.</p>
-        </div>
-        <figcaption>The finished Tableau viz — line chart, scatter, and clusters
-          for global literacy — will be embedded here.</figcaption>
+        <img src="../assets/images/literacy-line.svg"
+             alt="Line chart of literacy rates from 1820 to 2024 for the World, Brazil, China, and India. All climb steeply toward near-universal literacy: the World from about 12% in 1820 to 88% in 2024, India from about 6% in 1901 to 78%, China from about 48% in 1950 to 97%, and Brazil from about 35% in 1900 to 95%.">
+        <figcaption>A first look at changes in global literacy over time, based
+          on data from Our World in Data. The visualization provides a
+          foundation for examining different metrics.</figcaption>
       </figure>
 
       <h2>First reflections on the tool</h2>
       <p>
-        Even before the analysis is finished, a few things about Tableau stand
-        out. The drag-and-drop model makes it genuinely fast to try a question
-        and throw it away if it's boring, which encourages exploring. But it
-        also hides a lot: Tableau makes a chart look authoritative and polished
-        the moment you drop a field, even when the underlying data is thin or
-        the comparison is unfair. For humanities work that's the thing to stay
-        honest about — a clean-looking chart is still an argument, and the tool
-        won't flag a weak one for you. That tension between how easy it is and
-        how careful you still have to be is what I want to keep testing across
-        the rest of these weekly projects.
+        Even before completing the analysis, several things about Tableau stand
+        out. Its drag and drop interface makes it easy to test a question
+        quickly and abandon it if the results are not useful, which encourages
+        experimentation. At the same time, the tool can conceal important
+        limitations. Tableau can make a visualization appear polished and
+        authoritative as soon as fields are added, even when the dataset is
+        limited or the comparison is misleading. For humanities research, this
+        is an important issue to keep in mind. A clean chart is still making an
+        argument, and the software will not identify a weak argument on its own.
+        The tension between Tableau's ease of use and the level of critical
+        judgment it still requires is something I want to continue examining
+        throughout the rest of these weekly projects.
       </p>
 
       <hr>

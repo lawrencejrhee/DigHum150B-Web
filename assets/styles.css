@@ -1,6 +1,6 @@
 /* ==========================================================================
    Lawrence Rhee: DigHum 150B weekly-project site
-   A modern "analytical / dashboard" look — deliberately distinct from the
+   A modern "analytical / dashboard" look, deliberately distinct from the
    DigHum 150A archival-paper site. Cool palette, sans + monospace type,
    hairline rules, graph-paper motifs, dashboard-tile cards. Light/dark aware.
    ========================================================================== */
@@ -102,7 +102,7 @@ hr {
   margin: 2.5rem 0;
 }
 
-/* Monospace eyebrow/kicker — the signature "data" label */
+/* Monospace eyebrow/kicker: the signature "data" label */
 .kicker {
   font-family: var(--mono);
   font-size: 0.72rem;
