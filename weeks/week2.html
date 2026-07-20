@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Week 2 of DigHum 150B: Lawrence Rhee introduces Tableau, the data-visualization tool used throughout the class, and sets up a humanities visual analysis.">
+  <title>Week 2: Tableau — Lawrence Rhee</title>
+  <link rel="stylesheet" href="../assets/styles.css">
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="brand" href="../index.html">Lawrence Rhee</a>
+      <nav aria-label="Site">
+        <a href="../index.html">Home</a>
+        <a href="week2.html" aria-current="page">Week 2</a>
+        <a href="week3.html">Week 3</a>
+        <a href="week4.html">Week 4</a>
+        <a href="week5.html">Week 5</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main">
+    <article class="post wrap">
+      <header class="post-header">
+        <p class="kicker">Week 2 · Weekly Project · Due July 26, 2026</p>
+        <h1>Getting Started with Tableau</h1>
+      </header>
+
+      <aside class="prompt">
+        <p class="prompt-label">The assignment</p>
+        <p>Choose one data visualization tool you learn in the week and do a
+           visual analysis on a humanities topic you like (broadly construed).
+           This week I'm working with Tableau.</p>
+      </aside>
+
+      <dl class="meta">
+        <dt>Tool</dt>
+        <dd>Tableau (Tableau Public)</dd>
+        <dt>Topic</dt>
+        <dd>Global literacy over time</dd>
+      </dl>
+
+      <h2>Why Tableau this week</h2>
+      <p>
+        Tableau is the tool we return to most often in this class, so it was a
+        natural choice for the first weekly project. It is a data visualization
+        platform that allows users to connect a spreadsheet or database and
+        create charts by dragging fields onto a workspace rather than writing
+        code. For example, placing one field on the Columns shelf and another on
+        the Rows shelf prompts Tableau to generate a visualization
+        automatically.
+      </p>
+
+      <p>
+        That accessibility is one of Tableau's main strengths. Instead of
+        spending most of my time troubleshooting a plotting library, I can focus
+        on interpreting the data and developing stronger questions. Since the
+        purpose of the weekly project is to explore a humanities question rather
+        than demonstrate technical programming skills, Tableau offers the right
+        balance between ease of use and analytical flexibility.
+      </p>
+
+      <p>
+        I am using <a href="https://public.tableau.com/" target="_blank" rel="noopener">Tableau
+        Public</a>, the free version of the software. Its main limitation is that
+        all visualizations are published online. For this project, however, that
+        is useful because it allows me to embed an interactive chart directly
+        into the class website.
+      </p>
+
+      <h2>The chart types we use in class</h2>
+      <p>
+        Over the term we build up the same core set of views in Tableau. Here's
+        my running glossary of them, in roughly the order we learned them, and
+        the kind of humanities question each one is good at answering.
+      </p>
+
+      <ul class="concept-list">
+        <li>
+          <span class="term">Line charts</span>
+          <p>Track how a value changes over time. In humanities research, this
+             usually means examining change across years or decades, such as
+             publication counts, literacy rates, or word frequencies. These
+             charts are especially useful when the main story is the overall
+             trend.</p>
+        </li>
+        <li>
+          <span class="term">Pie charts</span>
+          <p>Show how a whole is divided into parts at a specific moment. For
+             example, they can illustrate what percentage of a collection is
+             poetry rather than prose or how a corpus is distributed across
+             different languages. They work best when there are only a few
+             categories.</p>
+        </li>
+        <li>
+          <span class="term">Scatter plots</span>
+          <p>Place two measurements on the x and y axes to identify possible
+             relationships. A researcher might compare a text's length with its
+             publication year, using one dot for each work. This makes
+             correlations, patterns, and outliers easier to recognize.</p>
+        </li>
+        <li>
+          <span class="term">Clusters</span>
+          <p>Allow Tableau to group points on a scatter plot into segments that
+             display similar characteristics. This can reveal patterns that were
+             not selected in advance, such as natural groupings among authors,
+             artifacts, regions, or texts.</p>
+        </li>
+        <li>
+          <span class="term">Dashboards</span>
+          <p>Combine several visualizations on one screen and allow them to
+             interact. For example, clicking a section of a pie chart might
+             filter the information shown in a line chart. Dashboards are useful
+             when readers should be able to explore the data rather than simply
+             view a fixed result.</p>
+        </li>
+        <li>
+          <span class="term">Stories</span>
+          <p>Arrange dashboards and individual visualizations into an ordered
+             sequence with captions. They provide a guided walkthrough of the
+             analysis and help present an argument step by step, which closely
+             reflects how humanities research often communicates findings.</p>
+        </li>
+      </ul>
+
+      <p>
+        What I like about that progression is that it mirrors how you'd actually
+        reason about a humanities dataset: start by seeing the trend (line),
+        break down the composition (pie), test for a relationship (scatter),
+        let the data suggest groupings (clusters), then assemble it into
+        something a reader can explore (dashboard) and follow (story).
+      </p>
+
+      <h2>The analysis</h2>
+      <p>
+        For the humanities side, I'm starting with <strong>global literacy
+        rates over time</strong> — the share of people who can read and write,
+        tracked by country across the last two centuries. It's "humanities
+        broadly construed" in the way the assignment invites: literacy is the
+        precondition for basically everything the humanities studies, and the
+        long climb from a literate few to a literate majority is one of the
+        bigger stories in human culture. The data is clean and public, from
+        <a href="https://ourworldindata.org/literacy" target="_blank" rel="noopener">Our
+        World in Data</a>, which makes it a good first dataset to learn Tableau
+        on.
+      </p>
+
+      <p>
+        My plan is to build up through the chart types above: a line chart of
+        literacy over time for a few countries, a scatter of literacy against
+        year to see the overall arc, clusters to see whether countries fall into
+        natural "early / late" groups, and then a small dashboard and story to
+        tie it together. The interactive version will live right here once the
+        workbook is done.
+      </p>
+
+      <figure class="media">
+        <!-- Once the Tableau Public viz is published, replace the placeholder
+             below with the embed. Tableau gives you the code under
+             Share → Embed Code; paste the <iframe> here, e.g.:
+             <iframe src="https://public.tableau.com/views/WORKBOOK/SHEET?:embed=y&:showVizHome=no"
+                     title="Global literacy over time" allowfullscreen loading="lazy"></iframe>
+        -->
+        <div class="viz-placeholder">
+          <p><strong>Interactive Tableau visualization coming here.</strong><br>
+             I'm building the workbook in Tableau Public and will embed the live,
+             interactive version on this page once it's published.</p>
+        </div>
+        <figcaption>The finished Tableau viz — line chart, scatter, and clusters
+          for global literacy — will be embedded here.</figcaption>
+      </figure>
+
+      <h2>First reflections on the tool</h2>
+      <p>
+        Even before the analysis is finished, a few things about Tableau stand
+        out. The drag-and-drop model makes it genuinely fast to try a question
+        and throw it away if it's boring, which encourages exploring. But it
+        also hides a lot: Tableau makes a chart look authoritative and polished
+        the moment you drop a field, even when the underlying data is thin or
+        the comparison is unfair. For humanities work that's the thing to stay
+        honest about — a clean-looking chart is still an argument, and the tool
+        won't flag a weak one for you. That tension between how easy it is and
+        how careful you still have to be is what I want to keep testing across
+        the rest of these weekly projects.
+      </p>
+
+      <hr>
+      <nav class="week-nav" aria-label="Between weeks">
+        <a href="../index.html"><span aria-hidden="true">←</span> All weeks</a>
+        <a class="spacer" href="week3.html">Week 3 <span aria-hidden="true">→</span></a>
+      </nav>
+    </article>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <p>Hand-built with HTML &amp; CSS for <em>DigHum 150B</em>, UC Berkeley,
+         Summer 2026.</p>
+      <p><a href="mailto:lawrencejrhee@gmail.com">lawrencejrhee@gmail.com</a></p>
+    </div>
+  </footer>
+</body>
+</html>
