@@ -361,6 +361,10 @@ article.post { padding-top: 2.5rem; }
 
 .post-header { margin-bottom: 1.5rem; }
 
+/* Opt-in centered article header */
+.post-header.centered { text-align: center; }
+.post-header.centered h1 { margin-inline: auto; max-width: 28ch; }
+
 /* Spec-table-style fact list (Tool / Topic / Status) */
 dl.meta {
   display: grid;

@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Week 3 of DigHum 150B: Lawrence Rhee's weekly data-visualization project. Coming August 2026.">
-  <title>Week 3 · Lawrence Rhee</title>
+  <meta name="description" content="Week 3 of DigHum 150B: Lawrence Rhee uses Voyant Tools to trace the shift from I to we across 60 US presidential inaugural addresses, 1789 to 2025.">
+  <title>Week 3: Voyant · Lawrence Rhee</title>
   <link rel="stylesheet" href="../assets/styles.css">
 </head>
 <body>
@@ -25,28 +25,191 @@
 
   <main id="main">
     <article class="post wrap">
-      <header class="post-header">
+      <header class="post-header centered">
         <p class="kicker">Week 3 · Weekly Project · Due August 2, 2026</p>
-        <h1>Week 3 <span class="badge">Upcoming</span></h1>
+        <h1>From "I" to "We": The Evolution of Inaugural Rhetoric</h1>
       </header>
 
       <aside class="prompt">
         <p class="prompt-label">The assignment</p>
         <p>Choose one data visualization tool you learn in the week and do a
            visual analysis on a humanities topic you like (broadly construed).
-           Due 11:59&nbsp;PM on Sunday, August 2, 2026.</p>
+           This week I am working with Voyant Tools.</p>
       </aside>
 
+      <dl class="meta">
+        <dt>Tool</dt>
+        <dd>Voyant Tools</dd>
+        <dt>Topic</dt>
+        <dd>Pronoun use in US presidential inaugural addresses</dd>
+        <dt>Corpus</dt>
+        <dd>All 60 addresses, 1789 to 2025</dd>
+      </dl>
+
+      <h2>Why Voyant this week</h2>
       <p>
-        I'll fill this in during Week 3, once I know which visualization tool
-        we're covering and have picked a humanities topic to pair with it. This
-        page is just the placeholder for now.
+        Voyant Tools is a text analysis environment that runs in the browser. A
+        user uploads a document or a collection of documents, and Voyant
+        produces a set of linked visualizations from them, including word
+        clouds, frequency tables, collocation views, and trend lines across a
+        corpus. Nothing is installed and no code is written, which makes it a
+        practical tool for working with literary and historical texts.
       </p>
 
-      <div class="viz-placeholder">
-        <p><strong>Week 3 project coming soon.</strong><br>
-           Tool and topic to be decided during the week of July 27.</p>
-      </div>
+      <p>
+        I chose Voyant over the other tools covered this week because my
+        question is about language rather than about numbers. Datawrapper and
+        Infogram expect a table of values as their input. Voyant expects the
+        text itself, which means the analysis can begin from the documents
+        rather than from a spreadsheet that someone has already summarized. For
+        a question about how presidents write, that distinction matters.
+      </p>
+
+      <p>
+        The specific feature I am relying on is the Trends panel. Voyant orders
+        the documents in a corpus and plots the relative frequency of chosen
+        terms across that sequence. Because the inaugural addresses are dated
+        and evenly spaced through American history, the document sequence is
+        also a timeline, and a frequency trend across documents becomes a
+        historical argument.
+      </p>
+
+      <h2>The corpus, and why all of it</h2>
+      <p>
+        The corpus is the complete set of United States presidential inaugural
+        addresses, from George Washington in 1789 through 2025. That is 60
+        addresses and roughly 141,000 words. The texts come from the C-Span
+        inaugural address corpus compiled by Kathleen Ahrens and distributed
+        with the Natural Language Toolkit, and each address is stored as its own
+        file named by year so that Voyant reads them in chronological order.
+      </p>
+
+      <p>
+        The decision to use every address rather than a selection is deliberate.
+        A sample invites the question of why those particular documents were
+        chosen, and any pattern found in a sample can be an artifact of the
+        selection rather than a property of the tradition. Because the inaugural
+        address is a fixed and continuous genre, the full population is small
+        enough to analyze completely. Whatever trend appears cannot be explained
+        by which speeches were included, because none were left out.
+      </p>
+
+      <h2>Why pronouns rather than content words</h2>
+      <p>
+        The second choice is which words to track, and this one requires more
+        justification. It would be natural to search for words such as war,
+        economy, or freedom. The difficulty is that content words move with
+        events. The word war becomes frequent when there is a war, and its rise
+        and fall describes American history rather than American rhetoric. A
+        chart of content words mostly tells us what was happening at the time,
+        which is something we already know from other sources.
+      </p>
+
+      <p>
+        Function words behave differently. Pronouns such as I, my, we, and our
+        appear in every address regardless of subject matter, because they are
+        part of the grammar of speaking rather than part of any particular
+        topic. This is the same reasoning that leads stylometric research to use
+        function words for authorship attribution: they are largely independent
+        of what a text is about, so variation in them reflects how the writer is
+        positioned rather than what the writer is discussing.
+      </p>
+
+      <p>
+        That is what makes the comparison worth charting. If first person plural
+        pronouns rise while first person singular pronouns stay flat, the
+        explanation cannot simply be that the topics changed. It suggests that
+        the speaker's relationship to the audience changed, from a president
+        describing his own intentions to a president speaking on behalf of a
+        collective.
+      </p>
+
+      <h2>The analysis</h2>
+      <p>
+        Counting the corpus directly, at a rate of occurrences per 10,000 words,
+        the pattern is clear. In the addresses from 1789 to 1828 the word we
+        appears about 40 times per 10,000 words. In the addresses from 1989
+        onward it appears about 277 times, an increase of roughly seven times.
+        Over the same period the word I barely moves, going from about 74 to
+        about 68. The plural pronoun our follows we upward, from about 118 to
+        about 268.
+      </p>
+
+      <p>
+        A second pattern appears alongside it. Average sentence length falls
+        steadily across the corpus, from about 62 words per sentence in
+        Washington's first address to about 17 in the most recent ones. The
+        inaugural address becomes both more collective and more plainly spoken
+        over the same two centuries, which suggests these are two aspects of a
+        single change in how presidents address the public.
+      </p>
+
+      <p>
+        To test whether the pronoun trend is really about rhetoric rather than
+        about circumstances, the chart below also tracks the content word war.
+        It behaves exactly as a content word should. Instead of a trend it
+        produces isolated spikes: Madison in 1813 at about 124 occurrences per
+        10,000 words, Lincoln in 1865 at about 171, Harding in 1921 at about 42,
+        and Roosevelt in 1945 at about 36. Between those peaks it sits near
+        zero.
+      </p>
+
+      <p>
+        The more interesting detail is where the spikes are absent. Lincoln's
+        first inaugural in 1861 uses war only about 6 times per 10,000 words,
+        and Roosevelt's third inaugural in 1941 does not use the word at all.
+        These are the two most famous moments of national foreboding in American
+        history, and in both cases the inaugural address is nearly silent about
+        war. The reason is chronological: inaugurals are delivered in January or
+        March, and in both cases the war had not yet begun. Fort Sumter was
+        still weeks away in 1861, and Pearl Harbor was still more than ten
+        months away in 1941. The spikes appear in 1865 and 1945 instead, when each war was
+        ending.
+      </p>
+
+      <p>
+        This is what makes the control useful. The word war does not simply
+        track events, it tracks the position of the speech relative to those
+        events, which shows that the inaugural address is a retrospective genre
+        rather than a predictive one. A content word measures circumstance that
+        precisely. The pronouns do something different: we climbs steadily
+        across the same two centuries without regard to which wars were being
+        fought, which is the behavior of a word that reflects stance rather than
+        subject.
+      </p>
+
+      <figure class="media">
+        <iframe src="https://voyant.lincsproject.ca/tool/Trends/?corpus=1db87be0d9f3674a3ce1e2d9216a2af0&amp;query=we&amp;query=i&amp;query=war&amp;stopList=none&amp;docIndex=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59"
+                title="Voyant Trends: relative frequency of we, I, and war across 60 US presidential inaugural addresses, 1789 to 2025"
+                allowfullscreen loading="lazy"></iframe>
+        <figcaption>Relative frequency of first person singular, first person
+          plural, and a content word control across the full corpus of
+          inaugural addresses, built in Voyant Tools. The chart is interactive:
+          hovering a point shows the address and its frequency, and terms can be
+          added or removed from the panel below the graph.</figcaption>
+      </figure>
+
+      <h2>First reflections on the tool</h2>
+      <p>
+        Voyant is unusually fast for a first pass at a corpus. Uploading 60
+        documents and getting a set of linked views takes about a minute, and
+        the Trends panel answers a question about word use across two centuries
+        almost immediately. For exploratory work that speed is valuable, because
+        it makes it cheap to abandon a question that turns out to be
+        uninteresting.
+      </p>
+
+      <p>
+        The limitation is that Voyant counts words without understanding them.
+        It does not distinguish the we that means the administration from the we
+        that means the nation, and both are counted the same way. It also treats
+        every document as an equal unit even though the addresses range from 135
+        words to more than 8,000. The tool can show that a pattern exists, but
+        deciding what the pattern means is still an interpretive act that
+        belongs to the reader rather than to the software. That is a version of
+        the same tension I noticed with Tableau in Week 2, and it seems to be a
+        general feature of these tools rather than a quirk of any one of them.
+      </p>
 
       <hr>
       <nav class="week-nav" aria-label="Between weeks">
