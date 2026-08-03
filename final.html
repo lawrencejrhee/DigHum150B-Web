@@ -89,7 +89,7 @@
       <h2>Convergence, measured two ways</h2>
       <p>
         Small multiples can be cherry picked, so the claim needs a measurement
-        that uses every country at once. The top panel below measures how far
+        that uses every country at once. The chart below measures how far
         each country's dietary composition sits from the global average, then
         averages that distance: it falls about 23 percent between 1961 and 2023
         on the balanced panel of 133 countries present in every year. Because a
@@ -102,12 +102,12 @@
       </p>
 
       <figure class="media">
-        <img src="assets/images/final-convergence.svg"
-             alt="Two aligned charts covering 1961 to 2023. The top chart shows dietary dissimilarity between countries falling steadily by two independent measures. The bottom chart shows the daily calorie supply of the best and worst fed countries, with a wide gap between them persisting across the entire period.">
-        <figcaption>Top: dietary dissimilarity between countries, 1961 to 2023,
-          by two independent methods. Bottom: daily calorie supply of the
-          highest and lowest country in each year. Diets converge in kind while
-          the gap in quantity persists.</figcaption>
+        <div class="flourish-embed flourish-chart" data-src="visualisation/29872820"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/29872820/thumbnail" width="100%" alt="Line chart of dietary dissimilarity between countries from 1961 to 2023, falling steadily by three independent measures." /></noscript></div>
+        <figcaption>Dietary dissimilarity between countries, 1961 to 2023, by
+          three independent measures, built in Flourish. The two distance
+          methods track each other almost exactly, and the balanced panel rules
+          out changes in which countries report. Interactive: hover a line for
+          the value in any year.</figcaption>
       </figure>
 
       <p>
@@ -124,7 +124,7 @@
 
       <h2>The unequal portion</h2>
       <p>
-        The bottom panel is the necessary correction to the story above, and
+        The chart below is the necessary correction to the story above, and
         the reason this page is not titled "the world now eats alike." In 1961
         the best fed country had 3.0 times the daily calorie supply of the
         worst fed; in 2023 the ratio was still 2.2. Composition converged far
@@ -133,6 +133,14 @@
         consumption is somewhat smaller than the supply gap shown, a caveat
         printed on the chart itself rather than hidden here.
       </p>
+
+      <figure class="media">
+        <img src="assets/images/final-calorie-gap.svg"
+             alt="Chart of daily calorie supply from 1961 to 2023 showing the best fed and worst fed country in each year. The best fed country stays near or above 3,500 calories while the worst fed stays below 2,100. The ratio between them narrows from 3.0 to 1 in 1961 to 2.2 to 1 in 2023 but the gap never closes.">
+        <figcaption>Daily calorie supply of the highest and lowest country in
+          each year. The band between them narrows slowly and never closes:
+          diets converge in kind while the gap in quantity persists.</figcaption>
+      </figure>
 
       <h2>Why this is a humanities question</h2>
       <p>
@@ -201,15 +209,16 @@
         each figure are in <code>assets/data/final/</code>.
       </p>
 
-      <!-- To replace the static figures with interactive Flourish versions:
-           1. flourish.studio -> new visualization
-           2. For the plates: "Bar chart (stacked)" template, upload
-              assets/data/final/plates.csv
-           3. For convergence: "Line chart" template, upload
-              assets/data/final/convergence.csv (and anchor-distances.csv
-              for the directional view; calorie-gap.csv for the gap band)
-           4. Publish, copy the iframe embed code, and replace the
-              corresponding <img> figure above.
+      <!-- Remaining Flourish swaps:
+           1. Plates: "Bar chart (stacked)" template, upload
+              assets/data/final/plates.csv, Labels = A, Values = C-G,
+              Grid of charts = B. Publish and replace the final-plates.svg
+              figure above with the embed.
+           2. Optional: calorie gap as a Flourish line chart from
+              assets/data/final/calorie-gap.csv (Values = B and D), replacing
+              the final-calorie-gap.svg figure.
+           3. Optional: anchor-distances.csv as a fourth chart for the
+              directional finding.
       -->
 
       <hr>
