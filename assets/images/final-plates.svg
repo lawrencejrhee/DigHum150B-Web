@@ -1,0 +1,182 @@
+<svg viewBox="0 0 800 640" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Small multiple chart of twelve countries, each showing its dietary composition as two horizontal stacked bars, one for 1961 and one for the most recent year, 2023 for all countries except Japan which ends in 2022. In 1961 the bars differ sharply between countries; staple plants dominate Asian and African plates while Western plates already show large shares of oils, sugar, meat and dairy. By 2023 nearly every plate has shifted toward the Western pattern and the bars look far more alike.">
+<style>
+ .bg{fill:#ffffff}.t{fill:#0f141c;font:700 17px system-ui,-apple-system,Segoe UI,sans-serif}
+ .sub{fill:#586170;font:12.5px system-ui,-apple-system,Segoe UI,sans-serif}
+ .cty{fill:#0f141c;font:600 12px system-ui,-apple-system,Segoe UI,sans-serif}
+ .yr{fill:#8b94a3;font:10px system-ui,-apple-system,Segoe UI,sans-serif}
+ .lg{fill:#586170;font:11px system-ui,-apple-system,Segoe UI,sans-serif}
+ .src{fill:#8b94a3;font:11px system-ui,-apple-system,Segoe UI,sans-serif}
+ @media (prefers-color-scheme:dark){.bg{fill:#0f141c}.t{fill:#e7eef7}.sub{fill:#94a1b2}
+ .cty{fill:#e7eef7}.yr{fill:#6b7688}.lg{fill:#94a1b2}.src{fill:#6b7688}}
+</style>
+<rect class="bg" x="0" y="0" width="800" height="640" rx="10"/>
+<text class="t" x="20" y="30">Twelve plates, then and now</text>
+<text class="sub" x="20" y="50">Share of daily calories by food group, 1961 (top bar) and the latest year, 2023 or 2022 (bottom bar)</text>
+<rect x="20" y="62" width="10" height="10" rx="2" fill="#8a7a4e"/>
+<text class="lg" x="34" y="71">Staple plants</text>
+<rect x="156.6" y="62" width="10" height="10" rx="2" fill="#e0862b"/>
+<text class="lg" x="170.6" y="71">Oils and sugar</text>
+<rect x="301.4" y="62" width="10" height="10" rx="2" fill="#d1477a"/>
+<text class="lg" x="315.4" y="71">Meat, dairy, eggs</text>
+<rect x="470.79999999999995" y="62" width="10" height="10" rx="2" fill="#12a594"/>
+<text class="lg" x="484.79999999999995" y="71">Fruits and vegetables</text>
+<rect x="673.0" y="62" width="10" height="10" rx="2" fill="#8b94a3"/>
+<text class="lg" x="687.0" y="71">Alcohol and other</text>
+<text class="cty" x="16" y="110">United States</text>
+<text class="yr" x="14" y="138">1961</text>
+<rect x="46.0" y="122" width="38.2" height="24" fill="#8a7a4e"/>
+<rect x="84.2" y="122" width="53.1" height="24" fill="#e0862b"/>
+<rect x="137.2" y="122" width="40.8" height="24" fill="#d1477a"/>
+<rect x="178.0" y="122" width="7.3" height="24" fill="#12a594"/>
+<rect x="185.3" y="122" width="6.7" height="24" fill="#8b94a3"/>
+<text class="yr" x="14" y="174">2023</text>
+<rect x="46.0" y="158" width="36.5" height="24" fill="#8a7a4e"/>
+<rect x="82.5" y="158" width="59.1" height="24" fill="#e0862b"/>
+<rect x="141.5" y="158" width="35.7" height="24" fill="#d1477a"/>
+<rect x="177.3" y="158" width="8.3" height="24" fill="#12a594"/>
+<rect x="185.6" y="158" width="6.4" height="24" fill="#8b94a3"/>
+<text class="cty" x="212" y="110">United Kingdom</text>
+<text class="yr" x="210" y="138">1961</text>
+<rect x="242.0" y="122" width="43.9" height="24" fill="#8a7a4e"/>
+<rect x="285.9" y="122" width="50.1" height="24" fill="#e0862b"/>
+<rect x="336.0" y="122" width="39.5" height="24" fill="#d1477a"/>
+<rect x="375.5" y="122" width="5.1" height="24" fill="#12a594"/>
+<rect x="380.6" y="122" width="7.4" height="24" fill="#8b94a3"/>
+<text class="yr" x="210" y="174">2023</text>
+<rect x="242.0" y="158" width="49.2" height="24" fill="#8a7a4e"/>
+<rect x="291.2" y="158" width="42.9" height="24" fill="#e0862b"/>
+<rect x="334.1" y="158" width="34.6" height="24" fill="#d1477a"/>
+<rect x="368.6" y="158" width="7.7" height="24" fill="#12a594"/>
+<rect x="376.3" y="158" width="11.7" height="24" fill="#8b94a3"/>
+<text class="cty" x="408" y="110">France</text>
+<text class="yr" x="406" y="138">1961</text>
+<rect x="438.0" y="122" width="54.1" height="24" fill="#8a7a4e"/>
+<rect x="492.1" y="122" width="31.9" height="24" fill="#e0862b"/>
+<rect x="524.0" y="122" width="36.5" height="24" fill="#d1477a"/>
+<rect x="560.5" y="122" width="8.0" height="24" fill="#12a594"/>
+<rect x="568.6" y="122" width="15.4" height="24" fill="#8b94a3"/>
+<text class="yr" x="406" y="174">2023</text>
+<rect x="438.0" y="158" width="42.4" height="24" fill="#8a7a4e"/>
+<rect x="480.4" y="158" width="46.0" height="24" fill="#e0862b"/>
+<rect x="526.4" y="158" width="36.0" height="24" fill="#d1477a"/>
+<rect x="562.5" y="158" width="8.1" height="24" fill="#12a594"/>
+<rect x="570.6" y="158" width="13.4" height="24" fill="#8b94a3"/>
+<text class="cty" x="604" y="110">Japan</text>
+<text class="yr" x="602" y="138">1961</text>
+<rect x="634.0" y="122" width="98.2" height="24" fill="#8a7a4e"/>
+<rect x="732.2" y="122" width="24.0" height="24" fill="#e0862b"/>
+<rect x="756.2" y="122" width="12.8" height="24" fill="#d1477a"/>
+<rect x="769.0" y="122" width="5.4" height="24" fill="#12a594"/>
+<rect x="774.4" y="122" width="5.6" height="24" fill="#8b94a3"/>
+<text class="yr" x="602" y="174">2022</text>
+<rect x="634.0" y="158" width="57.4" height="24" fill="#8a7a4e"/>
+<rect x="691.4" y="158" width="44.9" height="24" fill="#e0862b"/>
+<rect x="736.4" y="158" width="29.1" height="24" fill="#d1477a"/>
+<rect x="765.5" y="158" width="7.1" height="24" fill="#12a594"/>
+<rect x="772.6" y="158" width="7.4" height="24" fill="#8b94a3"/>
+<text class="cty" x="16" y="242">South Korea</text>
+<text class="yr" x="14" y="270">1961</text>
+<rect x="46.0" y="254" width="126.7" height="24" fill="#8a7a4e"/>
+<rect x="172.7" y="254" width="6.8" height="24" fill="#e0862b"/>
+<rect x="179.5" y="254" width="3.3" height="24" fill="#d1477a"/>
+<rect x="182.8" y="254" width="4.4" height="24" fill="#12a594"/>
+<rect x="187.2" y="254" width="4.8" height="24" fill="#8b94a3"/>
+<text class="yr" x="14" y="306">2023</text>
+<rect x="46.0" y="290" width="49.0" height="24" fill="#8a7a4e"/>
+<rect x="95.0" y="290" width="55.3" height="24" fill="#e0862b"/>
+<rect x="150.3" y="290" width="23.5" height="24" fill="#d1477a"/>
+<rect x="173.9" y="290" width="9.2" height="24" fill="#12a594"/>
+<rect x="183.1" y="290" width="8.9" height="24" fill="#8b94a3"/>
+<text class="cty" x="212" y="242">China</text>
+<text class="yr" x="210" y="270">1961</text>
+<rect x="242.0" y="254" width="123.5" height="24" fill="#8a7a4e"/>
+<rect x="365.5" y="254" width="9.9" height="24" fill="#e0862b"/>
+<rect x="375.4" y="254" width="4.8" height="24" fill="#d1477a"/>
+<rect x="380.3" y="254" width="6.8" height="24" fill="#12a594"/>
+<rect x="387.1" y="254" width="0.9" height="24" fill="#8b94a3"/>
+<text class="yr" x="210" y="306">2023</text>
+<rect x="242.0" y="290" width="73.4" height="24" fill="#8a7a4e"/>
+<rect x="315.4" y="290" width="21.6" height="24" fill="#e0862b"/>
+<rect x="337.0" y="290" width="26.3" height="24" fill="#d1477a"/>
+<rect x="363.3" y="290" width="19.1" height="24" fill="#12a594"/>
+<rect x="382.4" y="290" width="5.6" height="24" fill="#8b94a3"/>
+<text class="cty" x="408" y="242">Brazil</text>
+<text class="yr" x="406" y="270">1961</text>
+<rect x="438.0" y="254" width="82.4" height="24" fill="#8a7a4e"/>
+<rect x="520.4" y="254" width="39.2" height="24" fill="#e0862b"/>
+<rect x="559.5" y="254" width="15.4" height="24" fill="#d1477a"/>
+<rect x="574.9" y="254" width="6.9" height="24" fill="#12a594"/>
+<rect x="581.8" y="254" width="2.2" height="24" fill="#8b94a3"/>
+<text class="yr" x="406" y="306">2023</text>
+<rect x="438.0" y="290" width="49.2" height="24" fill="#8a7a4e"/>
+<rect x="487.2" y="290" width="48.4" height="24" fill="#e0862b"/>
+<rect x="535.6" y="290" width="35.1" height="24" fill="#d1477a"/>
+<rect x="570.7" y="290" width="7.5" height="24" fill="#12a594"/>
+<rect x="578.2" y="290" width="5.8" height="24" fill="#8b94a3"/>
+<text class="cty" x="604" y="242">Mexico</text>
+<text class="yr" x="602" y="270">1961</text>
+<rect x="634.0" y="254" width="95.2" height="24" fill="#8a7a4e"/>
+<rect x="729.2" y="254" width="27.6" height="24" fill="#e0862b"/>
+<rect x="756.8" y="254" width="15.7" height="24" fill="#d1477a"/>
+<rect x="772.5" y="254" width="4.8" height="24" fill="#12a594"/>
+<rect x="777.3" y="254" width="2.7" height="24" fill="#8b94a3"/>
+<text class="yr" x="602" y="306">2023</text>
+<rect x="634.0" y="290" width="63.2" height="24" fill="#8a7a4e"/>
+<rect x="697.2" y="290" width="38.2" height="24" fill="#e0862b"/>
+<rect x="735.4" y="290" width="29.2" height="24" fill="#d1477a"/>
+<rect x="764.6" y="290" width="10.1" height="24" fill="#12a594"/>
+<rect x="774.7" y="290" width="5.3" height="24" fill="#8b94a3"/>
+<text class="cty" x="16" y="374">Egypt</text>
+<text class="yr" x="14" y="402">1961</text>
+<rect x="46.0" y="386" width="106.1" height="24" fill="#8a7a4e"/>
+<rect x="152.1" y="386" width="22.1" height="24" fill="#e0862b"/>
+<rect x="174.2" y="386" width="6.9" height="24" fill="#d1477a"/>
+<rect x="181.1" y="386" width="10.1" height="24" fill="#12a594"/>
+<rect x="191.2" y="386" width="0.8" height="24" fill="#8b94a3"/>
+<text class="yr" x="14" y="438">2023</text>
+<rect x="46.0" y="422" width="96.6" height="24" fill="#8a7a4e"/>
+<rect x="142.6" y="422" width="22.7" height="24" fill="#e0862b"/>
+<rect x="165.3" y="422" width="12.3" height="24" fill="#d1477a"/>
+<rect x="177.5" y="422" width="13.6" height="24" fill="#12a594"/>
+<rect x="191.1" y="422" width="0.9" height="24" fill="#8b94a3"/>
+<text class="cty" x="212" y="374">India</text>
+<text class="yr" x="210" y="402">1961</text>
+<rect x="242.0" y="386" width="109.4" height="24" fill="#8a7a4e"/>
+<rect x="351.4" y="386" width="25.2" height="24" fill="#e0862b"/>
+<rect x="376.6" y="386" width="6.3" height="24" fill="#d1477a"/>
+<rect x="382.9" y="386" width="4.0" height="24" fill="#12a594"/>
+<rect x="386.9" y="386" width="1.1" height="24" fill="#8b94a3"/>
+<text class="yr" x="210" y="438">2023</text>
+<rect x="242.0" y="422" width="85.3" height="24" fill="#8a7a4e"/>
+<rect x="327.3" y="422" width="33.3" height="24" fill="#e0862b"/>
+<rect x="360.6" y="422" width="15.2" height="24" fill="#d1477a"/>
+<rect x="375.8" y="422" width="9.1" height="24" fill="#12a594"/>
+<rect x="384.9" y="422" width="3.1" height="24" fill="#8b94a3"/>
+<text class="cty" x="408" y="374">Nigeria</text>
+<text class="yr" x="406" y="402">1961</text>
+<rect x="438.0" y="386" width="96.5" height="24" fill="#8a7a4e"/>
+<rect x="534.5" y="386" width="33.1" height="24" fill="#e0862b"/>
+<rect x="567.6" y="386" width="3.4" height="24" fill="#d1477a"/>
+<rect x="570.9" y="386" width="9.3" height="24" fill="#12a594"/>
+<rect x="580.2" y="386" width="3.8" height="24" fill="#8b94a3"/>
+<text class="yr" x="406" y="438">2023</text>
+<rect x="438.0" y="422" width="97.8" height="24" fill="#8a7a4e"/>
+<rect x="535.8" y="422" width="33.2" height="24" fill="#e0862b"/>
+<rect x="569.0" y="422" width="3.8" height="24" fill="#d1477a"/>
+<rect x="572.8" y="422" width="9.1" height="24" fill="#12a594"/>
+<rect x="581.9" y="422" width="2.1" height="24" fill="#8b94a3"/>
+<text class="cty" x="604" y="374">Senegal</text>
+<text class="yr" x="602" y="402">1961</text>
+<rect x="634.0" y="386" width="98.8" height="24" fill="#8a7a4e"/>
+<rect x="732.8" y="386" width="33.5" height="24" fill="#e0862b"/>
+<rect x="766.4" y="386" width="9.9" height="24" fill="#d1477a"/>
+<rect x="776.3" y="386" width="1.9" height="24" fill="#12a594"/>
+<rect x="778.2" y="386" width="1.8" height="24" fill="#8b94a3"/>
+<text class="yr" x="602" y="438">2023</text>
+<rect x="634.0" y="422" width="94.1" height="24" fill="#8a7a4e"/>
+<rect x="728.1" y="422" width="35.7" height="24" fill="#e0862b"/>
+<rect x="763.8" y="422" width="8.4" height="24" fill="#d1477a"/>
+<rect x="772.2" y="422" width="6.6" height="24" fill="#12a594"/>
+<rect x="778.8" y="422" width="1.2" height="24" fill="#8b94a3"/>
+<text class="src" x="20" y="626">Data: FAO food balance sheets via Our World in Data. Shares of daily calorie supply.</text>
+</svg>

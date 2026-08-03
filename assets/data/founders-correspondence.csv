@@ -1,0 +1,2620 @@
+source,target,letters,source_gender,target_gender
+"Adams, John","Adams, Abigail Smith",657,M,F
+"Heath, William","Washington, George",618,M,M
+"Jefferson, Thomas","Madison, James",612,M,M
+"Madison, James","Jefferson, Thomas",595,M,M
+"Monroe, James","Madison, James",584,M,M
+"Gallatin, Albert","Jefferson, Thomas",564,M,M
+"Knox, Henry","Washington, George",480,M,M
+"Adams, Abigail Smith","Adams, John",430,F,M
+"Hamilton, Alexander","Washington, George",425,M,M
+"Madison, James","Monroe, James",418,M,M
+"Jefferson, Thomas","Gallatin, Albert",404,M,M
+"Washington, George","Heath, William",372,M,M
+"Williams, Jonathan Jr.","Franklin, Benjamin",356,M,M
+"Claiborne, William C. C.","Madison, James",344,M,M
+"Jefferson, Thomas","Washington, George",337,M,M
+"Washington, George","Hancock, John",323,M,M
+"Short, William","Jefferson, Thomas",321,M,M
+"Pickering, Timothy","Washington, George",312,M,M
+"Monroe, James","Jefferson, Thomas",298,M,M
+"Hamilton, Alexander","McHenry, James",296,M,M
+"Dearborn, Henry","Jefferson, Thomas",292,M,M
+"Greene, Nathanael","Washington, George",290,M,M
+"Jefferson, George","Jefferson, Thomas",290,M,M
+"Adams, John","Adams, John Quincy",280,M,M
+"Randolph, Edmund","Washington, George",278,M,M
+"Adams, John Quincy","Adams, John",275,M,M
+"McHenry, James","Hamilton, Alexander",275,M,M
+"Jefferson, Thomas","Jefferson, George",266,M,M
+"Adams, Abigail Smith","Adams, John Quincy",264,F,M
+"Smith, Robert","Jefferson, Thomas",260,M,M
+"Washington, George","Hamilton, Alexander",251,M,M
+"Dumas, Charles-Guillaume-Frédéric","Franklin, Benjamin",248,M,M
+"Washington, George","Knox, Henry",246,M,M
+"Adams, John Quincy","Adams, Abigail Smith",243,M,F
+"Peyton, Bernard","Jefferson, Thomas",241,M,M
+"Adams, Louisa Catherine Johnson","Adams, John Quincy",238,F,M
+"Adams, John Quincy","Adams, Thomas Boylston",234,M,M
+"Washington, George","Jefferson, Thomas",225,M,M
+"Jefferson, Thomas","Short, William",223,M,M
+"Jefferson, Thomas","Randolph, Thomas Mann",223,M,M
+"Coxe, Tench","Hamilton, Alexander",223,M,M
+"Adams, John Quincy","Adams, Louisa Catherine Johnson",217,M,F
+"Lincoln, Benjamin","Washington, George",214,M,M
+"Adams, John","President of Congress,",214,M,NA
+"Madison, James","Gallatin, Albert",213,M,M
+"Sullivan, John","Washington, George",211,M,M
+"Jefferson, Thomas","Monroe, James",210,M,M
+"Lafayette, Marie-Joseph-Paul-Yves-Roch-Gilbert du Motier marquis de","Washington, George",200,M,M
+"Washington, George","Clinton, George",197,M,M
+"Jefferson, Thomas","Jefferson,",197,M,M
+"Erving, George W.","Madison, James",195,M,M
+"Gallatin, Albert","Madison, James",194,M,M
+"Barnes, John","Jefferson, Thomas",193,M,M
+"Adams, John","Jefferson, Thomas",191,M,M
+"Washington, George","Trumbull, Jonathan Sr.",188,M,M
+"Washington, George","Lincoln, Benjamin",186,M,M
+"Van der Kemp, François Adriaan","Adams, John",185,M,M
+"Adams, Abigail Smith","Cranch, Mary Smith",182,F,F
+"Adams, John","United States Senate,",180,M,M
+"Hancock, John","Washington, George",178,M,M
+"Clinton, George","Washington, George",178,M,M
+"Schuyler, Philip","Washington, George",177,M,M
+"Washington, George","Greene, Nathanael",176,M,M
+"Washington, George","Pickering, Timothy",174,M,M
+"Washington, George","Board of War,",172,M,NA
+"McHenry, James","Washington, George",171,M,M
+"Bourne, Sylvanus","Madison, James",170,M,M
+"Jefferson, Thomas","Barnes, John",169,M,M
+"Adams, Louisa Catherine Johnson","Adams, John",166,F,M
+"Jarvis, William","Madison, James",166,M,M
+"Jefferson, Thomas","Dearborn, Henry",164,M,M
+"Pickering, Timothy","Adams, John",163,M,M
+"Washington, George","Huntington, Samuel",162,M,M
+"Rochambeau, Jean-Baptiste Donatien de Vimeur comte de","Washington, George",162,M,M
+"Coxe, Tench","Madison, James",162,M,M
+"Trumbull, Jonathan Sr.","Washington, George",160,M,M
+"Livingston, William","Washington, George",159,M,M
+"Howe, Robert","Washington, George",158,M,M
+"Olney, Jeremiah","Hamilton, Alexander",157,M,M
+"Washington, George","Gates, Horatio",156,M,M
+"Washington, George","Sullivan, John",156,M,M
+"Washington, George","McDougall, Alexander",152,M,M
+"Gates, Horatio","Washington, George",149,M,M
+"Ellery, William","Hamilton, Alexander",149,M,M
+"Adams, John","Jay, John",147,M,M
+"Washington, George","United States Senate,",147,M,M
+"Lear, Tobias","Washington, George",146,M,M
+"Adams, John","Huntington, Samuel",143,M,M
+"Madison, James","Randolph, Edmund",143,M,M
+"Jefferson, Thomas","Gibson, Patrick",143,M,M
+"Washington, George","Putnam, Israel",142,M,M
+"Jefferson, Thomas","Adams, John",142,M,M
+"Gavino, John","Madison, James",142,M,M
+"Lee, William","Madison, James",142,M,M
+"Jefferson, Thomas","Peyton, Bernard",142,M,M
+"Washington, George","Livingston, William",140,M,M
+"Adams, John","Rush, Benjamin",140,M,M
+"Huntington, Samuel","Washington, George",139,M,M
+"Rush, Benjamin","Adams, John",138,M,M
+"Latrobe, Benjamin Henry","Jefferson, Thomas",138,M,M
+"Claiborne, William C. C.","Jefferson, Thomas",137,M,M
+"Cabell, Joseph Carrington","Jefferson, Thomas",137,M,M
+"McHenry, James","Adams, John",136,M,M
+"Jay, John","Washington, George",136,M,M
+"Washington, George","McHenry, James",136,M,M
+"Washington, George","Rochambeau, Jean-Baptiste Donatien de Vimeur comte de",136,M,M
+"Adams, John","Van der Kemp, François Adriaan",136,M,M
+"United States House of Representatives,","Adams, John",136,NA,M
+"Washington, George","Pearce, William",136,M,M
+"Washington, George","Jay, John",134,M,M
+"Adams, John","Pickering, Timothy",133,M,M
+"Washington, George","Laurens, Henry",132,M,M
+"Washington, George","Lafayette, Marie-Joseph-Paul-Yves-Roch-Gilbert du Motier marquis de",132,M,M
+"King, Rufus","Madison, James",132,M,M
+"Pinkney, William","Madison, James",131,M,M
+"Gibson, Patrick","Jefferson, Thomas",131,M,M
+"Franklin, Benjamin","Franklin, Deborah",129,M,F
+"Wayne, Anthony","Washington, George",129,M,M
+"Washington, George","Morris, Robert",129,M,M
+"Morris, Robert","Washington, George",128,M,M
+"Vergennes, Charles Gravier comte de","Franklin, Benjamin",128,M,M
+"Washington, George","United States Congress,",128,M,M
+"Livingston, Robert R.","Madison, James",128,M,M
+"Jones, Joseph","Madison, James",127,M,M
+"Peabody, Elizabeth Smith Shaw","Adams, Abigail Smith",126,F,F
+"Peters, Richard","Washington, George",125,M,M
+"Washington, George","Biddle, Clement",124,M,M
+"Randolph, Edmund","Madison, James",124,M,M
+"Armstrong, John","Madison, James",124,M,M
+"McDougall, Alexander","Washington, George",123,M,M
+"Dumas, Charles William Frederic","Adams, John",122,M,M
+"Adams, John","Warren, James",121,M,M
+"Pendleton, Edmund","Madison, James",121,M,M
+"Dumas, Charles William Frederic","Jefferson, Thomas",121,M,M
+"Adams, John","Boston Patriot,",121,M,M
+"Madison, James","Madison, James Sr.",120,M,M
+"Washington, George","Schuyler, Philip",120,M,M
+"Graham, John","Madison, James",120,M,M
+"Reibelt, J. Phillipe","Jefferson, Thomas",120,M,M
+"Cranch, Mary Smith","Adams, Abigail Smith",119,F,F
+"Laurens, Henry","Washington, George",119,M,M
+"Joy, George","Madison, James",119,M,M
+"Lafayette, Marie-Joseph-Paul-Yves-Roch-Gilbert du Motier marquis de","Jefferson, Thomas",118,M,M
+"Jones, William","Madison, James",118,M,M
+"Pinckney, Charles","Madison, James",117,M,M
+"Stirling, Lord (né William Alexander)","Washington, George",116,M,M
+"Putnam, Israel","Washington, George",116,M,M
+"Peale, Charles Willson","Jefferson, Thomas",116,M,M
+"Maury, James","Madison, James",114,M,M
+"Pearce, William","Washington, George",114,M,M
+"Coxe, Tench","Jefferson, Thomas",113,M,M
+"Cathcart, James Leander","Madison, James",113,M,M
+"Eustis, William","Madison, James",113,M,M
+"Washington, George","Howe, Robert",112,M,M
+"Dawson, John","Madison, James",112,M,M
+"Wolcott, Oliver Jr.","Hamilton, Alexander",112,M,M
+"Maxwell, William","Washington, George",111,M,M
+"Dallas, Alexander J.","Madison, James",111,M,M
+"Parsons, Samuel Holden","Washington, George",110,M,M
+"Tallmadge, Benjamin","Washington, George",110,M,M
+"Hamilton, Alexander","Hamilton, Elizabeth",109,M,F
+"Jefferson, Thomas","United States Congress,",109,M,M
+"Jefferson, Thomas","Smith, Robert",109,M,M
+"Merry, Anthony","Madison, James",109,M,M
+"Williams, Jonathan Jr.","American Commissioners,",108,M,M
+"Simpson, James","Madison, James",108,M,M
+"Williams, Jonathan Jr.","Lee, Arthur",107,M,M
+"Vaughan, John","Jefferson, Thomas",107,M,M
+"Franklin, Benjamin","Vergennes, Charles Gravier comte de",105,M,M
+"Jefferson, Thomas","Eppes, John Wayles",105,M,M
+"Trist, Nicholas P.","Madison, James",105,M,M
+"Washington, George","Stirling, Lord (né William Alexander)",104,M,M
+"Reed, Joseph","Washington, George",104,M,M
+"Hamilton, Alexander","Lincoln, Benjamin",104,M,M
+"Wolcott, Oliver Jr.","Adams, John",104,M,M
+"Adams, John","McHenry, James",104,M,M
+"Stoddert, Benjamin","Adams, John",103,M,M
+"Adams, John","Waterhouse, Benjamin",102,M,M
+"Adams, John","Stoddert, Benjamin",102,M,M
+"Washington, George","Reed, Joseph",101,M,M
+"Jenings, Edmund","Adams, John",101,M,M
+"Smith, William Stephens","Hamilton, Alexander",101,M,M
+"Washington, George","Randolph, Edmund",100,M,M
+"Humphreys, David","Jefferson, Thomas",100,M,M
+"Washington, George","Lear, Tobias",99,M,M
+"Steuben, Friedrich Wilhelm Ludolf Gerhard Augustin Baron [von]","Washington, George",98,M,M
+"Lincoln, Benjamin","Hamilton, Alexander",98,M,M
+"Adams, John","Wolcott, Oliver Jr.",98,M,M
+"Jefferson, Thomas","United States Senate,",97,M,M
+"Franklin, Benjamin","Strahan, William",96,M,M
+"Washington, George","Wayne, Anthony",96,M,M
+"Bondfield, John","Franklin, Benjamin",96,M,M
+"Biddle, Clement","Washington, George",96,M,M
+"Adams, John","Franklin, Benjamin",96,M,M
+"Limozin, André","Jefferson, Thomas",96,M,M
+"Lear, Tobias","Hamilton, Alexander",96,M,M
+"Jefferson, Thomas","Jay, John",95,M,M
+"Jefferson, Thomas","Brockenbrough, Arthur S.",95,M,M
+"Hartley, David","Franklin, Benjamin",94,M,M
+"Madison, James","Pendleton, Edmund",94,M,M
+"Pichon, Louis-André","Madison, James",94,M,M
+"Morris, Gouverneur","Washington, George",93,M,M
+"Smith, Samuel","Jefferson, Thomas",93,M,M
+"Armstrong, John Jr.","Madison, James",92,M,M
+"Jones, John Paul","Franklin, Benjamin",91,M,M
+"Virginia Delegates,","Harrison, Benjamin",91,M,M
+"Williams, Jonathan Jr.","Deane, Silas",90,M,M
+"Jay, John","Adams, John",89,M,M
+"Adams, Abigail Smith","Welsh, Harriet",89,F,F
+"Jefferson, Thomas","Randolph, Thomas Mann Jr.",88,M,M
+"Washington, George","Robert Cary & Company,",87,M,M
+"Sartine, Antoine-Raymond-Gualbert-Gabriel de","Franklin, Benjamin",87,M,M
+"Huntington, Samuel","Jefferson, Thomas",87,M,M
+"Brockenbrough, Arthur S.","Jefferson, Thomas",87,M,M
+"Warren, James","Adams, John",86,M,M
+"Lee, Henry Jr.","Washington, George",85,M,M
+"Adams, Abigail Smith","Adams, Thomas Boylston",85,F,M
+"Hamilton, Alexander","Wolcott, Oliver Jr.",85,M,M
+"Cooper, Thomas","Jefferson, Thomas",85,M,M
+"Adams, Louisa Catherine Johnson","Adams, Charles Francis",85,F,M
+"Jefferson, Thomas","Harrison, Benjamin",84,M,M
+"Board of War,","Washington, George",84,NA,M
+"Brillon de Jouy, Anne-Louise Boivin d’Hardancourt","Franklin, Benjamin",84,F,M
+"Parker, James","Franklin, Benjamin",83,M,M
+"Lee, Henry","Washington, George",83,M,M
+"Lee, Henry","Madison, James",83,M,M
+"Adams, Louisa Catherine Johnson","Adams, George Washington",83,F,M
+"Randolph, Edmund","Hamilton, Alexander",82,M,M
+"Adams, Thomas Boylston","Shaw, William Smith",82,M,M
+"Jefferson, Thomas","Eppes, Francis",81,M,M
+"Scott, Charles","Washington, George",81,M,M
+"Adams, John","Jenings, Edmund",81,M,M
+"Washington, George","La Luzerne, Anne-César chevalier de",81,M,M
+"King, Rufus","Hamilton, Alexander",81,M,M
+"Whipple, Joseph","Hamilton, Alexander",81,M,M
+"Bacon, Edmund","Jefferson, Thomas",81,M,M
+"Eppes, John Wayles","Jefferson, Thomas",80,M,M
+"Lear, Tobias","Madison, James",80,M,M
+"Jefferson, Thomas","Peale, Charles Willson",80,M,M
+"Madison, James","Trist, Nicholas P.",80,M,M
+"Lee, Arthur","Franklin, Benjamin",79,M,M
+"Washington, George","Clinton, James",79,M,M
+"Washington, George","Maxwell, William",79,M,M
+"Digges, Thomas","Franklin, Benjamin",79,M,M
+"Mazzei, Philip","Jefferson, Thomas",79,M,M
+"Madison, James","Washington, George",79,M,M
+"Barclay, Thomas","Jefferson, Thomas",79,M,M
+"Granger, Gideon","Jefferson, Thomas",79,M,M
+"Jefferson, Thomas","Peyton, Craven",79,M,M
+"Madison, James","Congress,",79,M,M
+"Adams, John Quincy","Adams, George Washington",79,M,M
+"Washington, George","Washington, Lund",78,M,M
+"Mifflin, Thomas","Washington, George",78,M,M
+"Franklin, Benjamin","Adams, John",78,M,M
+"Morris, Robert","Hamilton, Alexander",78,M,M
+"Adams, John","Tudor, William Sr.",78,M,M
+"LeRoy, Jean Baptiste","Franklin, Benjamin",77,M,M
+"Adams, Abigail Smith","Peabody, Elizabeth Smith Shaw",77,F,F
+"Hamilton, Alexander","Williams, Otho H.",77,M,M
+"Adams, Abigail Smith","Shaw, William Smith",77,F,M
+"St. Clair, Arthur","Washington, George",76,M,M
+"Adams, John","Gerry, Elbridge",76,M,M
+"Dana, Francis","Adams, John",76,M,M
+"Hamilton, Alexander","Coxe, Tench",76,M,M
+"Anonymous,","Jefferson, Thomas",76,M,M
+"Yznardy, Josef","Madison, James",76,M,M
+"Adams, Thomas Boylston","Adams, Abigail Smith",75,M,F
+Unknown,"Madison, James",75,M,M
+"Washington, George","Dinwiddie, Robert",74,M,M
+"Bache, Richard","Franklin, Benjamin",74,M,M
+"Williams, Otho H.","Hamilton, Alexander",74,M,M
+"Harrison, Benjamin","Virginia Delegates,",74,M,M
+"Hamilton, Alexander","Olney, Jeremiah",74,M,M
+"Jefferson, Thomas","Jefferson, Thomas",73,M,M
+"Appleton, Thomas","Jefferson, Thomas",73,M,M
+"Jefferson, Thomas","Vaughan, John",73,M,M
+"Taylor, James","Madison, James",73,M,M
+"Madison, James","Dallas, Alexander J.",73,M,M
+"Wagner, Jacob","Madison, James",73,M,M
+"Randolph, Thomas Mann","Jefferson, Thomas",72,M,M
+"Washington, George","Dayton, Elias",72,M,M
+"Smallwood, William","Washington, George",72,M,M
+"Dumas, C. W. F.","Adams, John",72,M,M
+"Wolcott, Oliver Jr.","Washington, George",72,M,M
+"Lear, Tobias","Jefferson, Thomas",72,M,M
+"Du Pont de Nemours, Pierre Samuel","Jefferson, Thomas",72,M,M
+"Jefferson, Thomas","Bacon, Edmund",72,M,M
+"Dinwiddie, Robert","Washington, George",71,M,M
+"Gerry, Elbridge","Adams, John",71,M,M
+"Gordon, William","Washington, George",71,M,M
+"Clinton, James","Washington, George",71,M,M
+"Dumas, Charles-Guillaume-Frédéric","American Commissioners,",71,M,M
+"Hamilton, Alexander","Stevens, Ebenezer",71,M,M
+"Munroe, Thomas","Jefferson, Thomas",71,M,M
+"Turreau de Garambouville, Louis-Marie","Madison, James",71,M,M
+"Barbeu-Dubourg, Jacques","Franklin, Benjamin",70,M,M
+"Washington, George","Tallmadge, Benjamin",70,M,M
+"Jefferson, Thomas","Lafayette, Marie-Joseph-Paul-Yves-Roch-Gilbert du Motier marquis de",70,M,M
+"Jefferson, Thomas","Nicholas, Wilson Cary",70,M,M
+"Adams, Abigail Smith","Adams, Louisa Catherine Johnson",70,F,F
+"Kirkpatrick, William","Madison, James",70,M,M
+"Washington, Lund","Washington, George",69,M,M
+"Page, John","Jefferson, Thomas",69,M,M
+"Dumas, Charles-Guillaume-Frédéric","Lee, Arthur",69,M,M
+"Washington, George","Boudinot, Elias",69,M,M
+"Bondfield, John","Adams, John",69,M,M
+"Washington, George","Madison, James",69,M,M
+"Jefferson, Martha (Martha Jefferson Randolph)","Jefferson, Thomas",69,M,M
+"Hamilton, Alexander","Smith, William Stephens",69,M,M
+"Jefferson, Thomas","Cabell, Joseph Carrington",69,M,M
+"Randolph, Edmund","Jefferson, Thomas",68,M,M
+"Forman, David","Washington, George",68,M,M
+"Lovell, James","Adams, John",68,M,M
+"Washington, George","Stuart, David",68,M,M
+"Dufief, Nicolas Gouin","Jefferson, Thomas",68,M,M
+"Franklin, Benjamin","Mecom, Jane",67,M,F
+"Warren, Mercy Otis","Adams, Abigail Smith",67,F,F
+"Lee, Charles","Washington, George",67,M,M
+"Washington, George","St. Clair, Arthur",67,M,M
+"La Luzerne, Anne-César chevalier de","Washington, George",67,M,M
+"Adams, John","Livingston, Robert R.",67,M,M
+"Seton, William","Hamilton, Alexander",67,M,M
+"Hamilton, Alexander","Ellery, William",67,M,M
+"Skipwith, Fulwar","Madison, James",67,M,M
+"Franklin, Benjamin","Hewson, Mary Stevenson",66,M,F
+"Adams, Abigail Smith","Tufts, Cotton",66,F,M
+"Hamilton, Alexander","Seton, William",66,M,M
+"Short, William","Hamilton, Alexander",66,M,M
+"Hamilton, Alexander","Jefferson, Thomas",66,M,M
+"Eaton, William","Madison, James",66,M,M
+"Yrujo, Carlos Martínez de","Madison, James",66,M,M
+"Gelston, David","Jefferson, Thomas",66,M,M
+"Hamilton, Alexander","Hodgdon, Samuel",65,M,M
+"Stuart, David","Washington, George",65,M,M
+"Cathalan, Stephen Jr.","Jefferson, Thomas",65,M,M
+"Patterson, Robert","Jefferson, Thomas",65,M,M
+"Nicholas, Wilson Cary","Jefferson, Thomas",65,M,M
+"Adams, Louisa Catherine Johnson","Adams, Abigail Smith",65,F,F
+"Lafayette, Marie-Joseph-Paul-Yves-Roch-Gilbert du Motier marquis de","Franklin, Benjamin",64,M,M
+"Humphreys, David","Washington, George",64,M,M
+"Madison, James","Armstrong, John",64,M,M
+"Arnold, Benedict","Washington, George",63,M,M
+"Dumas, Charles-Guillaume-Frédéric","Adams, John",63,M,M
+"Cabell, William H.","Jefferson, Thomas",63,M,M
+"Hamilton, Alexander","Ogden, Aaron",63,M,M
+"Moylan, Stephen","Washington, George",62,M,M
+"Morris, Robert","Franklin, Benjamin",62,M,M
+"Tatham, William","Jefferson, Thomas",62,M,M
+"Adams, John","United States Congress,",62,M,M
+"Thornton, William","Washington, George",62,M,M
+"Gerry, Elbridge","Madison, James",62,M,M
+"Davis, George","Madison, James",62,M,M
+"Dickinson, Philemon","Washington, George",61,M,M
+"Washington, George","Smallwood, William",61,M,M
+"Boudinot, Elias","Washington, George",61,M,M
+"Trumbull, John","Jefferson, Thomas",61,M,M
+"Carmichael, William","Jefferson, Thomas",61,M,M
+"Jefferson, Thomas","Limozin, André",61,M,M
+"Adams, Thomas Boylston","Adams, John Quincy",61,M,M
+"Hamilton, Alexander","Swan, Caleb",61,M,M
+"Washington, George","Parsons, Samuel Holden",60,M,M
+"Washington, George","Lee, Henry Jr.",60,M,M
+"Schuyler, Philip","Hamilton, Alexander",60,M,M
+"Jefferson, Thomas","Carmichael, William",60,M,M
+"Peyton, Craven","Jefferson, Thomas",60,M,M
+"Lincoln, Levi","Jefferson, Thomas",60,M,M
+"Warden, David Bailie","Jefferson, Thomas",60,M,M
+"Adams, John","Adams, George Washington",60,M,M
+"Stewart, Robert","Washington, George",59,M,M
+"Dayton, Elias","Washington, George",59,M,M
+"Lovell, James","Adams, Abigail Smith",59,M,F
+"Hamilton, Alexander","Pickering, Timothy",59,M,M
+"Pickering, Timothy","Hamilton, Alexander",59,M,M
+"Hammond, George","Jefferson, Thomas",59,M,M
+"Ogden, Aaron","Hamilton, Alexander",59,M,M
+"Rodney, Caesar Augustus","Jefferson, Thomas",59,M,M
+"Cabell, Joseph C.","Madison, James",59,M,M
+"Lee, Richard Henry","Washington, George",58,M,M
+"Washington, George","Forman, David",58,M,M
+"Jefferson, Thomas","Steuben, Friedrich Wilhelm Ludolf Gerhard Augustin Baron [von]",58,M,M
+"Madison, James","Livingston, Robert R.",58,M,M
+"Duportail, Antoine-Jean-Louis Le Bègue de Presle","Washington, George",57,M,M
+"Smith, William Stephens","Washington, George",57,M,M
+"Jay, John","Jefferson, Thomas",57,M,M
+"Muter, George","Jefferson, Thomas",57,M,M
+"Knox, Henry","Lear, Tobias",57,M,M
+"Rush, Richard","Madison, James",57,M,M
+"Tufts, Cotton","Adams, John",56,M,M
+"Jay, John","Hamilton, Alexander",56,M,M
+"Hazen, Moses","Washington, George",56,M,M
+"Willink, Wilhem & Jan (business)","Adams, John",56,M,M
+"Jefferson, Thomas","Senate,",56,M,M
+"Foronda, Valentin de","Madison, James",56,M,M
+"Stephen, Adam","Washington, George",55,M,M
+"Robert Cary & Company,","Washington, George",55,M,M
+"Spotswood, Alexander","Washington, George",55,M,M
+"Hamilton, Alexander","Morris, Robert",55,M,M
+"Carrington, Edward","Madison, James",55,M,M
+"Jefferson, Thomas","Hamilton, Alexander",55,M,M
+"Leiper, Thomas","Jefferson, Thomas",55,M,M
+"Adams, Thomas Boylston","Adams, John",55,M,M
+"Appleton, Thomas","Madison, James",55,M,M
+"Madison, James","Pinkney, William",55,M,M
+"Erskine, David Montague","Madison, James",55,M,M
+"Hewson, Mary Stevenson","Franklin, Benjamin",54,F,M
+"Washington, George","Arnold, Benedict",54,M,M
+"Hand, Edward","Washington, George",54,M,M
+"Jay, John","Franklin, Benjamin",54,M,M
+"Thaxter, John","Adams, Abigail Smith",54,M,F
+"Jefferson, Thomas","Muter, George",54,M,M
+"Madison, James (Reverend)","Madison, James",54,M,M
+"Jefferson, Thomas","Latrobe, Benjamin Henry",54,M,M
+"Hamilton, Alexander","Rice, Nathan",54,M,M
+"Duane, William","Jefferson, Thomas",54,M,M
+"Madison, James","Cutts, Richard",54,M,M
+"Washington, George","Lee, Henry",53,M,M
+"Ward, Artemas","Washington, George",53,M,M
+"Neufville, Jean de & Fils (business)","Franklin, Benjamin",53,M,M
+"Steuben, Friedrich Wilhelm Ludolf Gerhard Augustin Baron [von]","Jefferson, Thomas",53,M,M
+"Barclay, Thomas","Adams, John",53,M,M
+"Morris, Gouverneur","Jefferson, Thomas",53,M,M
+"Delany, Sharp","Hamilton, Alexander",53,M,M
+"Adams, John","Marshall, John",53,M,M
+"Franklin, Benjamin","Dumas, Charles-Guillaume-Frédéric",52,M,M
+"Vaughan, Benjamin","Franklin, Benjamin",52,M,M
+"Staphorst, Nicolaas & Jacob van (business)","Adams, John",52,M,M
+"Lafayette, Marie-Joseph-Paul-Yves-Roch-Gilbert du Motier marquis de","Madison, James",52,M,M
+"Jefferson, Thomas","Trumbull, John",52,M,M
+"Commissioners for the District of Columbia,","Washington, George",52,NA,M
+"Genet, Edmond Charles","Jefferson, Thomas",52,M,M
+"Washington, George","Thornton, William",52,M,M
+"Washington, George","Moylan, Stephen",51,M,M
+"Washington, George","Steuben, Friedrich Wilhelm Ludolf Gerhard Augustin Baron [von]",51,M,M
+"Jefferson, Thomas","Huntington, Samuel",51,M,M
+"Randolph, Thomas Mann Jr.","Jefferson, Thomas",51,M,M
+"Hamilton, Alexander","Delany, Sharp",51,M,M
+"Jefferson, Thomas","Hammond, George",51,M,M
+"Swan, Caleb","Hamilton, Alexander",51,M,M
+"Claiborne, William Charles Coles","Madison, James",51,M,M
+"Franklin, Benjamin","Galloway, Joseph",50,M,M
+"Washington, George","Peters, Richard",50,M,M
+"Jefferson, Thomas","Page, John",50,M,M
+"Franklin, Benjamin","Hartley, David",50,M,M
+"Adams, John","Adams, Thomas Boylston",50,M,M
+"Adams, John","Adams, Charles",50,M,M
+"Malcom, William","Washington, George",50,M,M
+"Bondfield, John","Jefferson, Thomas",50,M,M
+"Rush, Richard","Adams, John",50,M,M
+"Adams, John","Rush, Richard",50,M,M
+"Franklin, Benjamin","Franklin, William",49,M,M
+"Fairfax, Bryan","Washington, George",49,M,M
+"Franklin, Benjamin","Williams, Jonathan Jr.",49,M,M
+"Cooke, Nicholas","Washington, George",49,M,M
+"Washington, George","Cooke, Nicholas",49,M,M
+"Washington, George","Lee, Charles",49,M,M
+"Claiborne, Richard","Jefferson, Thomas",49,M,M
+"Hamilton, Alexander","King, Rufus",49,M,M
+"Whitting, Anthony","Washington, George",49,M,M
+"Taylor, Hubbard","Madison, James",49,M,M
+"Scott, Gustavus","Washington, George",49,M,M
+"Wilkinson, James","Jefferson, Thomas",49,M,M
+"Clark, Daniel","Madison, James",49,M,M
+"Gray, Vincent","Madison, James",49,M,M
+"Jefferson, Thomas","Jones & Howell,",49,M,M
+"Gilmer, Francis Walker","Jefferson, Thomas",49,M,M
+"Crowninshield, Benjamin W.","Madison, James",49,M,M
+"Adams, Abigail Smith","Warren, Mercy Otis",48,F,F
+"Huntington, Jedediah","Washington, George",48,M,M
+"Digges, Thomas","Adams, John",48,M,M
+"Schuyler, Philip John","Washington, George",48,M,M
+"Maury, James","Jefferson, Thomas",48,M,M
+"Muse, Battaile","Washington, George",48,M,M
+"Smith, William Stephens","Adams, John",48,M,M
+"Cunningham, William","Adams, John",48,M,M
+"Parker, Thomas","Hamilton, Alexander",48,M,M
+"Barnet, Isaac Cox","Madison, James",48,M,M
+"Jefferson, Thomas","Cooper, Thomas",48,M,M
+"Harris, Levett","Madison, James",48,M,M
+"Adams, John","Adams, Louisa Catherine Johnson",48,M,F
+"Wharton, Samuel","Franklin, Benjamin",47,M,M
+"Washington, George","Johnson, Thomas",47,M,M
+"Ingenhousz, Jan","Franklin, Benjamin",47,M,M
+"Thaxter, John","Adams, John",47,M,M
+"Washington, George","Morris, Gouverneur",47,M,M
+"Carmichael, William","Franklin, Benjamin",47,M,M
+"Jefferson, Thomas","Randolph, Edmund",47,M,M
+"Hubbard, Nicholas","Hamilton, Alexander",47,M,M
+"Van Staphorst, Jacob","Hamilton, Alexander",47,M,M
+"Willink, Jan","Hamilton, Alexander",47,M,M
+"Willink, Wilhelm","Hamilton, Alexander",47,M,M
+"Hamilton, Alexander","Pinckney, Charles Cotesworth",47,M,M
+"Jefferson, Thomas","Dufief, Nicolas Gouin",47,M,M
+"Vanderhorst, Elias","Madison, James",47,M,M
+"Jefferson, Thomas","Gelston, David",47,M,M
+"Madison, James","Merry, Anthony",47,M,M
+"Tufts, Cotton","Adams, Abigail Smith",46,M,F
+"Cooper, Samuel","Franklin, Benjamin",46,M,M
+"Hamilton, Alexander","Jay, John",46,M,M
+"Bondfield, John","American Commissioners,",46,M,M
+"Franklin, Benjamin","Sartine, Antoine-Raymond-Gualbert-Gabriel de",46,M,M
+"Gates, Horatio","Jefferson, Thomas",46,M,M
+"Van Staphorst, Nicholaas","Hamilton, Alexander",46,M,M
+"Washington, George","Whitting, Anthony",46,M,M
+"Jefferson, Thomas","Patterson, Robert",46,M,M
+"Newton, Thomas","Madison, James",46,M,M
+"Jefferson, Thomas","Yancey, Joel",46,M,M
+"Hall, David","Franklin, Benjamin",45,M,M
+"Knox, Henry","Adams, John",45,M,M
+"Deane, Silas","Franklin, Benjamin",45,M,M
+"Washington, George","Sheldon, Elisha",45,M,M
+"Brodhead, Daniel","Washington, George",45,M,M
+"Washington, George","Washington, George Augustine",45,M,M
+"Alexander, William Lord Stirling","Washington, George",45,M,M
+"Newenham, Edward","Washington, George",45,M,M
+"Washington, George","Washington, Bushrod",45,M,M
+"Jefferson, Thomas","Stuart, Archibald",45,M,M
+"Willink, Jan","Adams, John",45,M,M
+"Willink, Wilhelm","Adams, John",45,M,M
+"Jefferson, Thomas","Pinckney, Thomas",45,M,M
+"Clinton, DeWitt","Madison, James",45,M,M
+"Woodford, William","Washington, George",44,M,M
+"Warren, Mercy Otis","Adams, John",44,F,M
+"Adams, John","Adams, John",44,M,M
+"Washington, George","Wadsworth, Jeremiah",44,M,M
+"Shreve, Israel","Washington, George",44,M,M
+"Washington, George","Scott, Charles",44,M,M
+"Washington, George","Hazen, Moses",44,M,M
+"Bondfield, John","Lee, Arthur",44,M,M
+"Washington, George","Clinton, Henry",44,M,M
+"Hodgson, William","Franklin, Benjamin",44,M,M
+"Paine, Thomas","Jefferson, Thomas",44,M,M
+"Washington, George","Commissioners for the District of Columbia,",44,M,NA
+"Lambert, William","Jefferson, Thomas",44,M,M
+"Yznardi, Joseph Sr.","Jefferson, Thomas",44,M,M
+"Adams, John Quincy","Madison, James",44,M,M
+"Willis, William","Madison, James",44,M,M
+"Smith, Samuel","Madison, James",44,M,M
+"Dougherty, Joseph","Jefferson, Thomas",44,M,M
+"Madison, James","Allen, William",44,M,M
+"Norris, Isaac","Franklin, Benjamin",43,M,M
+"Johnson, Thomas","Washington, George",43,M,M
+"Washington, George","Howe, William",43,M,M
+"Clinton, Henry","Washington, George",43,M,M
+"Phillips, William","Washington, George",43,M,M
+"Madison, James","Jones, Joseph",43,M,M
+"Barlow, Joel","Jefferson, Thomas",43,M,M
+"Madison, James","King, Rufus",43,M,M
+"Pinckney, Charles","Jefferson, Thomas",43,M,M
+"Hamilton, Alexander","Short, William",43,M,M
+"Shaw, William Smith","Adams, Abigail Smith",43,M,F
+"Jefferson, Thomas","Oldham, James",43,M,M
+"Jefferson, Thomas","Hay, George",43,M,M
+"Latrobe, Benjamin Henry","Madison, James",43,M,M
+"Madison, James","Rush, Richard",43,M,M
+"Washington, George","Washington, John Augustine",42,M,M
+"Varnum, James Mitchell","Washington, George",42,M,M
+"Eppes, Francis","Jefferson, Thomas",42,M,M
+"Muhlenberg, Peter","Washington, George",42,M,M
+"Bland, Theodorick","Washington, George",42,M,M
+"Coffyn, Francis","Franklin, Benjamin",42,M,M
+"Shaw, Elizabeth Smith","Adams, Abigail Smith",42,F,F
+"Franklin, Benjamin","Jones, John Paul",42,M,M
+"Smith, John","Jefferson, Thomas",42,M,M
+"Paradise, Lucy Ludwell","Jefferson, Thomas",42,F,M
+"Jefferson, Thomas","Brown, James",42,M,M
+"Wistar, Caspar","Jefferson, Thomas",42,M,M
+"Pinckney, Thomas","Jefferson, Thomas",42,M,M
+"Jefferson, Thomas","Genet, Edmond Charles",42,M,M
+"Newton, Thomas","Jefferson, Thomas",42,M,M
+"Humphreys, David","Madison, James",42,M,M
+"Jefferson, Thomas","Dinsmore, James",42,M,M
+"Madison, James","Senate,",42,M,M
+"Boylston, Ward Nicholas","Adams, John",42,M,M
+"Madison, James","Cabell, Joseph C.",42,M,M
+"Franklin, Benjamin","Collinson, Peter",41,M,M
+"Ward, Joseph","Adams, John",41,M,M
+"Bayley, Jacob","Washington, George",41,M,M
+"Grand, Rodolphe-Ferdinand","Franklin, Benjamin",41,M,M
+"Lee, Arthur","Adams, John",41,M,M
+"Washington, George","Duportail, Antoine-Jean-Louis Le Bègue de Presle",41,M,M
+"Hamilton, Alexander","Knox, Henry",41,M,M
+"Jefferson, Thomas","Wood, James",41,M,M
+"Cutting, John Brown","Jefferson, Thomas",41,M,M
+"Livingston, Robert R.","Jefferson, Thomas",41,M,M
+"Washington, George Augustine","Washington, George",41,M,M
+"Madison, James","Coxe, Tench",41,M,M
+"Jefferson, Thomas","Lyle, James",41,M,M
+"Ellicott, Andrew","Jefferson, Thomas",41,M,M
+"Jefferson, Thomas","Wistar, Caspar",41,M,M
+"Stevens, Ebenezer","Hamilton, Alexander",41,M,M
+"Adams, John Quincy","Shaw, William Smith",41,M,M
+"Madison, James","Claiborne, William C. C.",41,M,M
+"Jefferson, Thomas","Munroe, Thomas",41,M,M
+"Dearborn, Henry","Madison, James",41,M,M
+"Carey, Mathew","Madison, James",41,M,M
+"Coolidge, Ellen Wayles Randolph","Jefferson, Thomas",41,F,M
+"Crawford, William Harris","Madison, James",41,M,M
+"Coles, Edward","Madison, James",41,M,M
+"Madison, James","Peyton, Bernard",41,M,M
+"Collinson, Peter","Franklin, Benjamin",40,M,M
+"Washington, George","Woodford, William",40,M,M
+"Cranch, Richard","Adams, John",40,M,M
+"Franklin, Benjamin","Bache, Richard",40,M,M
+"Adams, John","Warren, Mercy Otis",40,M,F
+"Washington, George","Adams, John",40,M,M
+"Washington, George","Dickinson, Philemon",40,M,M
+"Morris, Gouverneur","Hamilton, Alexander",40,M,M
+"Jefferson, Thomas","County Lieutenants,",40,M,M
+"Washington, George","Hanson, John",40,M,M
+"Rush, Benjamin","Jefferson, Thomas",40,M,M
+"Hamilton, Alexander","Van Staphorst, Nicholaas",40,M,M
+"Hamilton, Alexander","Willink, Jan",40,M,M
+"Hamilton, Alexander","Willink, Wilhelm",40,M,M
+"Hamilton, Alexander","Adams, John",40,M,M
+"Jefferson, Thomas","Eppes, Mary Jefferson",40,M,F
+"Carey, Mathew","Jefferson, Thomas",40,M,M
+"Jefferson, Thomas","Leitch, James",40,M,M
+"Franklin, William","Franklin, Benjamin",39,M,M
+"Washington, George","Lee, Richard Henry",39,M,M
+"Howe, William","Washington, George",39,M,M
+"Washington, George","Henry, Patrick",39,M,M
+"Clark, John Jr.","Washington, George",39,M,M
+"Washington, George","Huntington, Jedediah",39,M,M
+"Williams, Jonathan Jr.","Adams, John",39,M,M
+"Lee, William","Jefferson, Thomas",39,M,M
+"Washington, George","Skinner, Abraham",39,M,M
+"Jefferson, Thomas","Smith, Samuel",39,M,M
+"Jackson, William","Washington, George",39,M,M
+"Madison, James","Pinckney, Charles",39,M,M
+"Otis, Samuel Allyne","Adams, John",39,M,M
+"Appleton, Nathaniel","Hamilton, Alexander",39,M,M
+"Hamilton, Alexander","Hubbard, Nicholas",39,M,M
+"Hamilton, Alexander","Van Staphorst, Jacob",39,M,M
+"Jefferson, Thomas","Leiper, Thomas",39,M,M
+"Jefferson, Thomas","House of Representatives,",39,M,NA
+"Adams, Abigail Smith","Johnson, Catherine Nuth",39,F,F
+"Jackson, John G.","Madison, James",39,M,M
+"Jefferson, Thomas","Lincoln, Levi",39,M,M
+"Smith, Robert","Madison, James",39,M,M
+"Yancey, Joel","Jefferson, Thomas",39,M,M
+"Jefferson, Thomas","Girardin, Louis Hue",39,M,M
+"Washington, George","Stephen, Adam",38,M,M
+"Armstrong, John","Washington, George",38,M,M
+"Washington, George","Boucher, Jonathan",38,M,M
+"Henry, Patrick","Washington, George",38,M,M
+"Wickes, Lambert","Franklin, Benjamin",38,M,M
+"Franklin, Benjamin","Jay, John",38,M,M
+"Washington, George","Spotswood, Alexander",38,M,M
+"Washington, George","Malcom, William",38,M,M
+"Dumas, Charles William Frederic","First Joint Commission at Paris,",38,M,M
+"Franklin, Benjamin","Schweighauser, John Daniel",38,M,M
+"Irvine, William","Washington, George",38,M,M
+"Board of Trade,","Jefferson, Thomas",38,NA,M
+"Jefferson, Thomas","Dumas, Charles William Frederic",38,M,M
+"Washington, Bushrod","Washington, George",38,M,M
+"Jefferson, Thomas","Appleton, Thomas",38,M,M
+"Tudor, William Sr.","Adams, John",38,M,M
+"Hamilton, Alexander","Randolph, Edmund",38,M,M
+"Nourse, Joseph","Hamilton, Alexander",38,M,M
+"Hamtramck, John F.","Hamilton, Alexander",38,M,M
+"Wilkinson, James","Hamilton, Alexander",38,M,M
+"Jefferson, Thomas","Smith, Samuel Harrison",38,M,M
+"Waterhouse, Benjamin","Jefferson, Thomas",38,M,M
+"Madison, James","Pichon, Louis-André",38,M,M
+"Oldham, James","Jefferson, Thomas",38,M,M
+"Jefferson, Thomas","Reibelt, J. Phillipe",38,M,M
+"Adams, John","Taylor, John",38,M,M
+"Graham, George","Madison, James",38,M,M
+"Franklin, Benjamin","Colden, Cadwallader",37,M,M
+"Washington, George","Fairfax, George William",37,M,M
+"Adams, John","Tufts, Cotton",37,M,M
+"Varick, Richard","Washington, George",37,M,M
+"Kéralio, Agathon Guynement chevalier de","Franklin, Benjamin",37,M,M
+"Stark, John","Washington, George",37,M,M
+"Hay, Udny","Washington, George",37,M,M
+"Dalton, Tristram","Adams, John",37,M,M
+"Jefferson, Thomas","Lewis, Nicholas",37,M,M
+"Jefferson, Thomas","Livingston, Robert R.",37,M,M
+"Adams, John","Willink, Wilhelm",37,M,M
+"Adams, John","Smith, William Stephens",37,M,M
+"Carroll, Daniel","Madison, James",37,M,M
+"Coxe, Tench","Adams, John",37,M,M
+"Hodgdon, Samuel","Hamilton, Alexander",37,M,M
+"Thornton, William","Jefferson, Thomas",37,M,M
+"Briggs, Isaac","Jefferson, Thomas",37,M,M
+"Montgomery, Robert","Madison, James",37,M,M
+"Jefferson, Thomas","Duane, William",37,M,M
+"Jefferson, Thomas","Claiborne, William C. C.",37,M,M
+"Hay, George","Jefferson, Thomas",37,M,M
+"Spafford, Horatio Gates","Jefferson, Thomas",37,M,M
+"Jefferson, Thomas","Rodney, Caesar Augustus",37,M,M
+"Madison, James","Everett, Edward",37,M,M
+"Franklin, Benjamin","Cushing, Thomas",36,M,M
+"Lee, William","Franklin, Benjamin",36,M,M
+"Adams, John","Dana, Francis",36,M,M
+"Livingston, Robert R.","Washington, George",36,M,M
+"Adams, John","Lovell, James",36,M,M
+"Washington, George","Estaing, Charles-Hector Théodat comte d’",36,M,M
+"Adams, Abigail Smith","Smith, Abigail Amelia Adams",36,F,F
+"Jefferson, Thomas","Davies, William",36,M,M
+"Adams, John","Willink, Wilhem & Jan (business)",36,M,M
+"Jefferson, Thomas","Taylor, John",36,M,M
+"Hopkinson, Francis","Jefferson, Thomas",36,M,M
+"Adams, John","Willink, Jan",36,M,M
+"Currie, James","Jefferson, Thomas",36,M,M
+"Smith, William Stephens","Adams, Abigail Smith",36,M,F
+"Allibone, William","Hamilton, Alexander",36,M,M
+"Pinckney, Charles Cotesworth","Hamilton, Alexander",36,M,M
+"Toulmin, Harry","Madison, James",36,M,M
+"Marshall, John","Adams, John",36,M,M
+"Forbes, John M.","Madison, James",36,M,M
+"Clinton, DeWitt","Jefferson, Thomas",36,M,M
+"Mitchell, John","Madison, James",36,M,M
+"Pedersen, Peder","Madison, James",36,M,M
+"Delaplaine, Joseph","Jefferson, Thomas",36,M,M
+"Jefferson, Thomas","Milligan, Joseph",36,M,M
+"Cazenove, Anthony Charles","Madison, James",36,M,M
+"Dandridge, Bartholomew Jr.","Washington, George",35,M,M
+"Smith, Isaac Sr.","Adams, John",35,M,M
+"Washington, George","Mifflin, Thomas",35,M,M
+"Washington, George","Bland, Theodorick",35,M,M
+"Wickes, Lambert","American Commissioners,",35,M,M
+"Wickes, Lambert","Deane, Silas",35,M,M
+"Wickes, Lambert","Lee, Arthur",35,M,M
+"Washington, George","Armand Tuffin, Charles marquis de La Rouërie",35,M,M
+"Nicola, Lewis","Washington, George",35,M,M
+"Lafayette, Marie-Joseph-Paul-Yves-Roch-Gilbert du Motier marquis de","Adams, John",35,M,M
+"Knox, Henry","Hamilton, Alexander",35,M,M
+"Hamilton, Alexander","Wadsworth, Jeremiah",35,M,M
+"Adams, John","McKean, Thomas",35,M,M
+"Davies, William","Jefferson, Thomas",35,M,M
+"Livingston, Robert R.","Franklin, Benjamin",35,M,M
+"Madison, James Sr.","Madison, James",35,M,M
+"White, Alexander","Washington, George",35,M,M
+"Smith, William Stephens","Jefferson, Thomas",35,M,M
+"Jefferson, Thomas","Morris, Gouverneur",35,M,M
+"Washington, George","Anderson, James",35,M,M
+"Wichelhausen, Frederick Jacob","Madison, James",35,M,M
+"Madison, James","Yrujo, Carlos Martínez de",35,M,M
+"Milligan, Joseph","Jefferson, Thomas",35,M,M
+"Johnson, Richard M.","Madison, James",35,M,M
+"Fairfax, George William","Washington, George",34,M,M
+"Mercer, Hugh","Washington, George",34,M,M
+"Boucher, Jonathan","Washington, George",34,M,M
+"Wythe, George","Jefferson, Thomas",34,M,M
+"Williams, Jonathan Sr.","Franklin, Benjamin",34,M,M
+"Custis, John Parke","Washington, George",34,M,M
+"Grayson, William","Washington, George",34,M,M
+"Stoddert, Benjamin","Washington, George",34,M,M
+"Washington, George","Fitzgerald, John",34,M,M
+"Franklin, Benjamin","Lee, Arthur",34,M,M
+"Lee, Charles","Adams, John",34,M,M
+"Adams, Abigail Smith","Lovell, James",34,F,M
+"Lee, William","Adams, John",34,M,M
+"Washington, George","Smith, William Stephens",34,M,M
+"Vergennes, Charles Gravier comte de","Adams, John",34,M,M
+"Washington, George","Schuyler, Philip John",34,M,M
+"La Lande & Fynje, de (business)","Adams, John",34,M,M
+"Adams, John","Dumas, C. W. F.",34,M,M
+"Jefferson, Thomas","Currie, James",34,M,M
+"Jefferson, Thomas","Humphreys, David",34,M,M
+"Fenwick, Joseph","Jefferson, Thomas",34,M,M
+"Washington, George","Scott, Gustavus",34,M,M
+"Tousard, Lewis","Hamilton, Alexander",34,M,M
+"Jefferson, Thomas","Du Pont de Nemours, Pierre Samuel",34,M,M
+"Jefferson, Thomas","Granger, Gideon",34,M,M
+"Austin, David","Jefferson, Thomas",34,M,M
+"Savage, William","Madison, James",34,M,M
+"Lincoln, Levi","Madison, James",34,M,M
+"Madison, James","Jones, William",34,M,M
+"Wirt, William","Jefferson, Thomas",34,M,M
+"Madison, James","Eustis, William",34,M,M
+"Franklin, Benjamin","Jackson, Richard",33,M,M
+"Washington, George","Stewart, Robert",33,M,M
+"Washington, George","Glover, John",33,M,M
+"Washington, George","Ward, Artemas",33,M,M
+"Putnam, Rufus","Washington, George",33,M,M
+"Washington, George","McKean, Thomas",33,M,M
+"Washington, George","Shreve, Israel",33,M,M
+"Willett, Marinus","Washington, George",33,M,M
+"Adams, John","Dumas, Charles William Frederic",33,M,M
+"Washington, George","Rochambeau, Comte de",33,M,M
+"Anderson, James","Washington, George",33,M,M
+"Adams, John","Staphorst, Nicolaas & Jacob van (business)",33,M,M
+"Derieux, Justin Pierre Plumard","Jefferson, Thomas",33,M,M
+"Corbin, Francis","Madison, James",33,M,M
+"Adams, Charles","Adams, John",33,M,M
+"Rivardi, John J. U.","Hamilton, Alexander",33,M,M
+"Rice, Nathan","Hamilton, Alexander",33,M,M
+"Gelston, David","Madison, James",33,M,M
+"Trist, Elizabeth House","Jefferson, Thomas",33,F,M
+"Williams, Robert","Jefferson, Thomas",33,M,M
+"Jefferson, Thomas","Coolidge, Ellen Wayles Randolph",33,M,F
+"Strahan, William","Franklin, Benjamin",32,M,M
+"Mason, George","Washington, George",32,M,M
+"Franklin, Deborah","Franklin, Benjamin",32,F,M
+"Trumbull, John","Adams, John",32,M,M
+"Tudor, William","Adams, John",32,M,M
+"Moylan, James","Franklin, Benjamin",32,M,M
+"Sartine, Antoine-Raymond-Gualbert-Gabriel de","Adams, John",32,M,M
+"Landais, Pierre","Franklin, Benjamin",32,M,M
+"Lee, Henry","Hamilton, Alexander",32,M,M
+"Jefferson, Thomas","Mazzei, Philip",32,M,M
+"Hamilton, Alexander","Schuyler, Philip",32,M,M
+"Washington, George","Muse, Battaile",32,M,M
+"Adams, Abigail Smith","Jefferson, Thomas",32,F,M
+"Jones, John Paul","Jefferson, Thomas",32,M,M
+"Jefferson, Thomas","Carey, Mathew",32,M,M
+"Jefferson, Thomas","Barton, Benjamin Smith",32,M,M
+"Hamilton, Alexander","President and Directors of the Bank of the United States,",32,M,NA
+"Jefferson, Thomas","Thornton, William",32,M,M
+"Wagner, Jacob","Jefferson, Thomas",32,M,M
+"Madison, James","Erving, George W.",32,M,M
+"Madison, James","Adams, John Quincy",32,M,M
+"Baker, John Martin","Madison, James",32,M,M
+"Hamilton, Paul","Madison, James",32,M,M
+"Madison, James","Coles, Edward",32,M,M
+"Adams, John","Boylston, Ward Nicholas",32,M,M
+"Dunglison, Robley","Madison, James",32,M,M
+"Madison, James","Cocke, John Hartwell",32,M,M
+"Washington, John Augustine","Washington, George",31,M,M
+"Glover, John","Washington, George",31,M,M
+"Lee, Richard Henry","Jefferson, Thomas",31,M,M
+"Washington, George","Hand, Edward",31,M,M
+"Washington, George","Varnum, James Mitchell",31,M,M
+"Bondfield, John","First Joint Commission at Paris,",31,M,M
+"Sartine, Antoine-Raymond-Gualbert-Gabriel de","American Commissioners,",31,M,M
+"Sartine, Antoine-Raymond-Gualbert-Gabriel de","Lee, Arthur",31,M,M
+"Washington, George","Greene, William",31,M,M
+"Smith, Abigail Amelia Adams","Norton, Elizabeth Cranch",31,F,F
+"Bache, Benjamin Franklin","Franklin, Benjamin",31,M,M
+"Jefferson, Thomas","Board of Trade,",31,M,NA
+"Board of War,","Jefferson, Thomas",31,NA,M
+"Washington, George","Lee, Thomas Sim",31,M,M
+"Washington, George","Alexander, William Lord Stirling",31,M,M
+"Jameson, David","Madison, James",31,M,M
+"Washington, George","Lewis, Robert",31,M,M
+"Jefferson, Thomas","Derieux, Justin Pierre Plumard",31,M,M
+"Lee, Charles","Hamilton, Alexander",31,M,M
+"Washington, George","Wolcott, Oliver Jr.",31,M,M
+"Cushing, Hannah Phillips","Adams, Abigail Smith",31,F,F
+"Jackson, Daniel","Hamilton, Alexander",31,M,M
+"O’Brien, Richard","Madison, James",31,M,M
+"Lehré, Thomas","Jefferson, Thomas",31,M,M
+"Madison, James","United States Congress,",31,M,M
+"Jefferson, Thomas","Cocke, John Hartwell",31,M,M
+"Adams, John Quincy","Smith, John Adams",31,M,M
+"Mecom, Jane","Franklin, Benjamin",30,F,M
+"Williams, Jonathan","Adams, John",30,M,M
+"McKean, Thomas","Washington, George",30,M,M
+"Hamilton, Alexander","Clinton, George",30,M,M
+"Carrington, Edward","Washington, George",30,M,M
+"Ambler, Jacquelin","Madison, James",30,F,M
+"Carleton, Guy","Washington, George",30,M,M
+"Washington, George","Carleton, Guy",30,M,M
+"Cosway, Maria","Jefferson, Thomas",30,F,M
+"Madison, James","Lee, Henry",30,M,M
+"Vaughan, Benjamin","Jefferson, Thomas",30,M,M
+"Lee, Richard Bland","Madison, James",30,M,M
+"Washington, George","Senate,",30,M,M
+"Cutting, Nathaniel","Jefferson, Thomas",30,M,M
+"Hamilton, Alexander","Harrison, Richard",30,M,M
+"Hamilton, Alexander","Appleton, Nathaniel",30,M,M
+"Jefferson, Thomas","Remsen, Henry",30,M,M
+"Barton, Benjamin Smith","Jefferson, Thomas",30,M,M
+"Sullivan, James","Jefferson, Thomas",30,M,M
+"Williams, Jonathan","Jefferson, Thomas",30,M,M
+"Hamilton, Alexander","Parker, Thomas",30,M,M
+"Jones & Howell,","Jefferson, Thomas",30,M,M
+"Anonymous,","Madison, James",30,M,M
+"Jefferson, Thomas","Ritchie, Thomas",30,M,M
+"Cocke, John Hartwell","Jefferson, Thomas",30,M,M
+"Franklin, Benjamin","Washington, George",29,M,M
+"Baldwin, Loammi","Washington, George",29,M,M
+"Franklin, Benjamin","Morris, Robert",29,M,M
+"Adams, John","Trumbull, John",29,M,M
+"La Rochefoucauld, Louis-Alexandre duc de La Roche-Guyon et de","Franklin, Benjamin",29,M,M
+"Jefferson, Thomas","Wythe, George",29,M,M
+"Washington, George","Livingston, Robert R.",29,M,M
+"Sheldon, Elisha","Washington, George",29,M,M
+"Smith, Samuel","Washington, George",29,M,M
+"Washington, George","Muhlenberg, Peter",29,M,M
+"Lee, Thomas Sim","Washington, George",29,M,M
+"Adams, John","Vergennes, Charles Gravier comte de",29,M,M
+"Duane, James","Washington, George",29,M,M
+"Barbour, James","Jefferson, Thomas",29,M,M
+"Lee, Henry","Jefferson, Thomas",29,M,M
+"Wilkinson, James","Madison, James",29,M,M
+"Adams, Abigail Smith","Adams, Abigail Smith",29,F,F
+"Hamilton, Alexander","Willing, Thomas",29,M,M
+"Hamilton, Alexander","Lee, Charles",29,M,M
+"Ellicott, Andrew","Madison, James",29,M,M
+"Heath, William","Hamilton, Alexander",29,M,M
+"Hull, William","Madison, James",29,M,M
+"Hamilton, Alexander","Jackson, Daniel",29,M,M
+"Smith, Samuel Harrison","Jefferson, Thomas",29,M,M
+"Barbour, James","Madison, James",29,M,M
+"Jefferson, Thomas","Wirt, William",29,M,M
+"Adams, John","Carey, Mathew",29,M,M
+"Parker, Daniel","Madison, James",29,M,M
+"Hatch, Frederick Winslow","Jefferson, Thomas",29,M,M
+"Fairfax, William","Washington, George",28,M,M
+"Fitzhugh, William","Washington, George",28,M,M
+"Crawford, William","Washington, George",28,M,M
+"Patterson, John","Washington, George",28,M,M
+"Adams, John","Adams, Samuel",28,M,M
+"Franklin, Benjamin","Cooper, Samuel",28,M,M
+"Bache, Sarah Franklin","Franklin, Benjamin",28,F,M
+"Washington, George","Irvine, William",28,M,M
+"Committee for Foreign Affairs,","Franklin, Benjamin",28,M,M
+"Morgan, Daniel","Washington, George",28,M,M
+"Lafayette, Marie-Joseph-Paul-Yves-Roch-Gilbert du Motier marquis de","Hamilton, Alexander",28,M,M
+"Van Schaick, Goose","Washington, George",28,M,M
+"Jefferson, Thomas","Virginia Assembly,",28,M,M
+"Humphreys, David","Pickering, Timothy",28,M,M
+"Mercer, John Francis","Madison, James",28,M,M
+"Jefferson, Thomas","Jefferson, Mary",28,M,F
+"Jefferson, Thomas","Adams, Abigail Smith",28,M,F
+"Donald, Alexander","Jefferson, Thomas",28,M,M
+"Adams, John","Cunningham, William",28,M,M
+"Ball, Burgess","Washington, George",28,M,M
+"Rush, Benjamin","Madison, James",28,M,M
+"Barnes, Joseph","Jefferson, Thomas",28,M,M
+"Carrington, Edward","Hamilton, Alexander",28,M,M
+"Adams, John","Madison, James",28,M,M
+"Callender, James Thomson","Jefferson, Thomas",28,M,M
+"Hall, Josias Carvel","Hamilton, Alexander",28,M,M
+"Nicholas, Wilson Cary","Madison, James",28,M,M
+"Rodney, Caesar A.","Jefferson, Thomas",28,M,M
+"Lewis, Meriwether","Jefferson, Thomas",28,M,M
+"Thornton, Edward","Madison, James",28,M,M
+"Rodney, Caesar A.","Madison, James",28,M,M
+"Randolph, Thomas Eston","Jefferson, Thomas",28,M,M
+"Madison, James","House of Representatives,",28,M,NA
+"Adams, John","Smith, John Adams",28,M,M
+"Warden, David Bailie","Madison, James",28,M,M
+"Van der Kemp, François Adriaan","Jefferson, Thomas",28,M,M
+"Adams, Charles Francis","Adams, John",28,M,M
+"Jefferson, Thomas","Laval, John",28,M,M
+"Adams, John","Cranch, Richard",27,M,M
+"Washington, George","Custis, John Parke",27,M,M
+"Weedon, George","Washington, George",27,M,M
+"Franklin, Benjamin","Brillon de Jouy, Anne-Louise Boivin d’Hardancourt",27,M,F
+"Jones, John Paul","Adams, John",27,M,M
+"Scull, Peter","Washington, George",27,M,M
+"Wadsworth, Jeremiah","Washington, George",27,M,M
+"Thomson, Charles","Jefferson, Thomas",27,M,M
+"Pickering, Timothy","Jefferson, Thomas",27,M,M
+"Washington, George","Humphreys, David",27,M,M
+"King, Rufus","Adams, John",27,M,M
+"Adams, John","Van Staphorst, Jacob",27,M,M
+"Jefferson, Thomas","Cathalan, Stephen Jr.",27,M,M
+"Jefferson, Thomas","Knox, Henry",27,M,M
+"Jefferson, Thomas","Paine, Thomas",27,M,M
+"Hamilton, Alexander","Lear, Tobias",27,M,M
+"Brown, James","Jefferson, Thomas",27,M,M
+"Hamilton, Alexander","Wilkinson, James",27,M,M
+"Adams, John","Monroe, James",27,M,M
+"Adams, John Quincy","Johnson, Louisa Catherine",27,M,F
+"Hoops, Adam Jr.","Hamilton, Alexander",27,M,M
+"Taylor, Timothy","Hamilton, Alexander",27,M,M
+"Gibson & Jefferson,","Jefferson, Thomas",27,M,M
+"Adams, John","Dexter, Samuel",27,M,M
+"de Lormerie, Louis Philippe Gallot","Jefferson, Thomas",27,M,M
+"Fox, Robert W.","Madison, James",27,M,M
+"Burwell, William Armistead","Jefferson, Thomas",27,M,M
+"Forrest, Richard","Madison, James",27,M,M
+"Wheaton, Joseph","Madison, James",27,M,M
+"Garrett, Alexander","Jefferson, Thomas",27,M,M
+"Washington, George","Fairfax, Bryan",26,M,M
+"Carroll, Daniel","Washington, George",26,M,M
+"Adams, John","Tudor, William",26,M,M
+"Izard, Ralph","Franklin, Benjamin",26,M,M
+"Washington, George","Mease, James",26,M,M
+"Adams, John","Lafayette, Marie-Joseph-Paul-Yves-Roch-Gilbert du Motier marquis de",26,M,M
+"Washington, George","Hay, Udny",26,M,M
+"Franklin, Benjamin","Landais, Pierre",26,M,M
+"Mazzei, Philip","Madison, James",26,M,M
+"Washington, George","Tilghman, Tench",26,M,M
+"Jefferson, Thomas","Gates, Horatio",26,M,M
+"Virginia Delegates,","Jefferson, Thomas",26,M,M
+"Weedon, George","Jefferson, Thomas",26,M,M
+"Neufville, Jean de & Fils (business)","Adams, John",26,M,M
+"Olney, Jeremiah","Washington, George",26,M,M
+"Grasse-Tilly, François-Joseph-Paul comte de","Washington, George",26,M,M
+"Barclay, Thomas","Franklin, Benjamin",26,M,M
+"Madison, James","Maury, James",26,M,M
+"Hamilton, Alexander","Chaloner, John",26,M,M
+"Hamilton, Alexander","Madison, James",26,M,M
+"Gerry, Elbridge","Jefferson, Thomas",26,M,M
+"Adams, John","Van Staphorst, Nicholaas",26,M,M
+"Skipwith, Fulwar","Jefferson, Thomas",26,M,M
+"Giles, William Branch","Jefferson, Thomas",26,M,M
+"Madison, James","Lear, Tobias",26,M,M
+"Viar, José (Joseph) Ignacio de","Jefferson, Thomas",26,M,M
+"Jaudenes, Joseph de","Jefferson, Thomas",26,M,M
+"Jefferson, Thomas","Rush, Benjamin",26,M,M
+"Johnson, Louisa Catherine","Adams, John Quincy",26,F,M
+"North, William","Hamilton, Alexander",26,M,M
+"Hamilton, Alexander","Hamtramck, John F.",26,M,M
+"Whelen, Israel","Madison, James",26,M,M
+"Jefferson, Thomas","Randolph, Thomas Jefferson",26,M,M
+"Bailey, Theodorus","Jefferson, Thomas",26,M,M
+"Hollins, John","Jefferson, Thomas",26,M,M
+"Graham, John","Jefferson, Thomas",26,M,M
+"Yancey, Charles","Jefferson, Thomas",26,M,M
+"Jefferson, Thomas","Randolph, Thomas Eston",26,M,M
+"Adams, John Quincy","Adams, Charles Francis",26,M,M
+"Jefferson, Thomas","Robertson, Archibald",26,M,M
+"Tudor, William Jr.","Adams, John",26,M,M
+"Carlyle, John","Washington, George",25,M,M
+"Washington, George","Franklin, Benjamin",25,M,M
+"Galloway, Joseph","Franklin, Benjamin",25,M,M
+"Washington, George","Armstrong, John",25,M,M
+"Franklin, Benjamin","Barbeu-Dubourg, Jacques",25,M,M
+"Washington, George","Morgan, Daniel",25,M,M
+"Washington, George","Gordon, William",25,M,M
+"Adams, Abigail Smith","Thaxter, John",25,F,M
+"Vergennes, Charles Gravier comte de","American Commissioners,",25,M,M
+"Lee, Arthur","Deane, Silas",25,M,M
+"Laurens, John","Washington, George",25,M,M
+"Blaine, Ephraim","Washington, George",25,M,M
+"Adams, John","Genet, Edmé Jacques",25,M,M
+"Washington, George","Brodhead, Daniel",25,M,M
+"Torris, John","Franklin, Benjamin",25,M,M
+"Franklin, Benjamin","Hodgson, William",25,M,M
+"Mazzei, Philip","Adams, John",25,M,M
+"Armand Tuffin, Charles marquis de La Rouërie","Washington, George",25,M,M
+"Washington, George","Grasse-Tilly, François-Joseph-Paul comte de",25,M,M
+"Franklin, Benjamin","Livingston, Robert R.",25,M,M
+"Watkins, Thomas G.","Jefferson, Thomas",25,M,M
+"Van Staphorst, Nicolaas","Adams, John",25,M,M
+"Langdon, John","Jefferson, Thomas",25,M,M
+"Van Staphorst, Jacob","Adams, John",25,M,M
+"Hawkins, Benjamin","Jefferson, Thomas",25,M,M
+"Deakins, William Jr.","Washington, George",25,M,M
+"Short, William","Jay, John",25,M,M
+"Lear, Tobias","Knox, Henry",25,M,M
+"Hamilton, Alexander","Huntington, Jedediah",25,M,M
+"Jefferson, Thomas","Coxe, Tench",25,M,M
+"Adams, Thomas Boylston","Cranch, William",25,M,M
+"Jefferson, Thomas","Ternant, Jean Baptiste",25,M,M
+"Mease, James","Jefferson, Thomas",25,M,M
+"Washington, George","Washington, William Augustine",25,M,M
+"Adams, Thomas Boylston","Pitcairn, Joseph",25,M,M
+"Madison, James","Gelston, David",25,M,M
+"Claxton, Thomas","Jefferson, Thomas",25,M,M
+"Thornton, William","Madison, James",25,M,M
+"Bulkeley, Thomas","Madison, James",25,M,M
+"Mason, John","Madison, James",25,M,M
+"Dinsmore, James","Jefferson, Thomas",25,M,M
+"Ingersoll, Charles Jared","Madison, James",25,M,M
+"Ewell, Thomas Beale","Jefferson, Thomas",25,M,M
+"Jefferson, Thomas","Gilmer, Francis Walker",25,M,M
+"Gelone, J. Louis Fernagus De","Jefferson, Thomas",25,M,M
+"Carter, Landon","Washington, George",24,M,M
+"Alexander, William","Franklin, Benjamin",24,M,M
+"Washington, George","Bouquet, Henry",24,M,M
+"Capel & Osgood Hanbury,","Washington, George",24,M,M
+"Priestley, Joseph","Franklin, Benjamin",24,M,M
+"Sullivan, James","Adams, John",24,M,M
+"Livingston, Henry Beekman","Washington, George",24,M,M
+"Lovell, James","Franklin, Benjamin",24,M,M
+"Pulaski, Casimir","Washington, George",24,M,M
+"Potter, James","Washington, George",24,M,M
+"Adams, John","Laurens, Henry",24,M,M
+"Moylan, James","Adams, John",24,M,M
+"Tilghman, Tench","Washington, George",24,M,M
+"Sartine, Antoine-Raymond-Gualbert-Gabriel de","First Joint Commission at Paris,",24,M,M
+"Greene, William","Washington, George",24,M,M
+"Estaing, Charles-Hector Théodat comte d’","Washington, George",24,M,M
+"Jefferson, Thomas","Rittenhouse, David",24,M,M
+"Washington, George","Washington, William",24,M,M
+"Jefferson, Thomas","Clark, George Rogers",24,M,M
+"Washington, George","Mercer, John Francis",24,M,M
+"Church, William Singleton","Adams, John",24,M,M
+"Maxwell, James","Jefferson, Thomas",24,M,M
+"Muter, George","Muter, George",24,M,M
+"Greene, Nathanael","Jefferson, Thomas",24,M,M
+"Taylor, John","Jefferson, Thomas",24,M,M
+"Ross, David","Jefferson, Thomas",24,M,M
+"Shaffer, John","Franklin, Benjamin",24,M,M
+"Chaloner, John","Hamilton, Alexander",24,M,M
+"Jefferson, Thomas","Bondfield, John",24,M,M
+"Cutting, John Brown","Adams, John",24,M,M
+"Spaight, Richard Dobbs","Washington, George",24,M,M
+"Lewis, Robert","Washington, George",24,M,M
+"Delamotte,","Jefferson, Thomas",24,M,M
+"Smith, Thomas","Hamilton, Alexander",24,M,M
+"Johnson, Joshua","Jefferson, Thomas",24,M,M
+"Jefferson, Thomas","Hylton, Daniel L.",24,M,M
+"Madison, James","Madison, Dolley Payne Todd",24,M,F
+"Hamilton, Alexander","Read, James",24,M,M
+"Law, Thomas","Jefferson, Thomas",24,M,M
+"Murray, William Vans","Madison, James",24,M,M
+"Mason, John Thomson","Jefferson, Thomas",24,M,M
+"Jarvis, William","Jefferson, Thomas",24,M,M
+"Williams, Robert","Madison, James",24,M,M
+"Barlow, Joel","Madison, James",24,M,M
+"Jefferson, Thomas","Harrison, Samuel Jordan",24,M,M
+"Carey, Mathew","Adams, John",24,M,M
+"Adams, John","Johnson, Alexander Bryan",24,M,M
+"Ticknor, George","Jefferson, Thomas",24,M,M
+"Duponceau, Peter Stephen","Jefferson, Thomas",24,M,M
+"Laval, John","Jefferson, Thomas",24,M,M
+"Madison, James","Van Buren, Martin",24,M,M
+"Thompson, Jonathan","Jefferson, Thomas",24,M,M
+"Logan, James","Franklin, Benjamin",23,M,M
+"Washington, George","Fitzhugh, William",23,M,M
+"Bouquet, Henry","Washington, George",23,M,M
+"Jefferson, Thomas","Cabell, William H.",23,M,M
+"Adams, Samuel","Adams, John",23,M,M
+"Cooper, Samuel","Adams, John",23,M,M
+"Lincoln, Benjamin","Adams, John",23,M,M
+"Thomson, Charles","Washington, George",23,M,M
+"Chaumont,","Franklin, Benjamin",23,M,M
+"Vergennes, Charles Gravier comte de","Lee, Arthur",23,M,M
+"Washington, George","Van Schaick, Goose",23,M,M
+"Jones, John Paul","American Commissioners,",23,M,M
+"Jones, John Paul","Lee, Arthur",23,M,M
+"Jones, Joseph","Washington, George",23,M,M
+"Washington, George","Potter, James",23,M,M
+"Moylan, James","American Commissioners,",23,M,M
+"Moylan, James","Lee, Arthur",23,M,M
+"Hamilton, Alexander","Greene, Nathanael",23,M,M
+"Washington, George","Stark, John",23,M,M
+"Wadsworth, Jeremiah","Hamilton, Alexander",23,M,M
+"Newenham, Sir Edward","Franklin, Benjamin",23,M,M
+"Jefferson, Thomas","Board of War,",23,M,NA
+"Nesbitt, Jonathan","Franklin, Benjamin",23,M,M
+"Campbell, Arthur","Jefferson, Thomas",23,M,M
+"Carr, Peter","Jefferson, Thomas",23,M,M
+"Hanson, Samuel (of Samuel)","Washington, George",23,M,M
+"Hollis, Thomas Brand","Adams, John",23,M,M
+"Rutledge, John Jr.","Jefferson, Thomas",23,M,M
+"Mason, John","Jefferson, Thomas",23,M,M
+"Jefferson, Thomas","Willink, Van Staphorst & Hubbard",23,M,M
+"Hamilton, Alexander","Whipple, Joseph",23,M,M
+"Cranch, William","Adams, John",23,M,M
+"Macon, Nathaniel","Jefferson, Thomas",23,M,M
+"Bentley, William C.","Hamilton, Alexander",23,M,M
+"Hamilton, Alexander","Miller, James",23,M,M
+"Madison, James","Cathcart, James Leander",23,M,M
+"Taylor, Robert","Madison, James",23,M,M
+"Madison, James","Harrison, Richard",23,M,M
+"Leonard, John","Madison, James",23,M,M
+"Madison, James","Graham, John",23,M,M
+"Bowdoin, James","Madison, James",23,M,M
+"Rhea, John","Jefferson, Thomas",23,M,M
+"McMahon, Bernard","Jefferson, Thomas",23,M,M
+"Adams, Abigail Smith","De Windt, Caroline Amelia Smith",23,F,F
+"Jefferson, Thomas","Thweatt, Archibald",23,M,M
+"Johnson, Chapman","Jefferson, Thomas",23,M,M
+"Meigs, Josiah","Madison, James",23,M,M
+"Mayo, Frederick A.","Jefferson, Thomas",23,M,M
+"Washington, George","Washington, Samuel",22,M,M
+"Craik, James","Washington, George",22,M,M
+"Stewart, Walter","Washington, George",22,M,M
+"Washington, George","Mercer, James",22,M,M
+"Massachusetts Council,","Washington, George",22,M,M
+"Pendleton, Edmund","Jefferson, Thomas",22,M,M
+"Washington, George","Baylor, George",22,M,M
+"Washington, George","Weare, Meshech",22,M,M
+"Pennsylvania Council of Safety,","Washington, George",22,NA,M
+"Washington, George","Weedon, George",22,M,M
+"Bingham, William","Franklin, Benjamin",22,M,M
+"Committee for Foreign Affairs,","American Commissioners,",22,M,M
+"Committee for Foreign Affairs,","Lee, Arthur",22,M,M
+"Hamilton, Alexander","Morris, Gouverneur",22,M,M
+"Ogden, Matthias","Washington, George",22,M,M
+"Laurens, Henry","Franklin, Benjamin",22,M,M
+"Adams, John","Lee, Arthur",22,M,M
+"Washington, George","Beatty, John",22,M,M
+"Pettit, Charles","Washington, George",22,M,M
+"Mitchell, John","Washington, George",22,M,M
+"Hamilton, Alexander","Lee, Henry",22,M,M
+"Jefferson, Thomas","Lee, Henry",22,M,M
+"Jefferson, Thomas","Weedon, George",22,M,M
+"Jefferson, Thomas","Newton, Thomas",22,M,M
+"McKean, Thomas","Jefferson, Thomas",22,M,M
+"Jones, William","Jefferson, Thomas",22,M,M
+"Jefferson, Thomas","Hopkinson, Francis",22,M,M
+"Jefferson, Thomas","Stockdale, John",22,M,M
+"Washington, William Augustine","Washington, George",22,M,M
+"Madison, James","Madison, Ambrose",22,M,M
+"Stuart, Archibald","Jefferson, Thomas",22,M,M
+"Washington, George","Peter, Thomas",22,M,M
+"White, Alexander","Madison, James",22,M,M
+"Sedgwick, Theodore","Hamilton, Alexander",22,M,M
+"Bourne, Sylvanus","Jefferson, Thomas",22,M,M
+"Jefferson, Thomas","Barlow, Joel",22,M,M
+"Lyle, James","Jefferson, Thomas",22,M,M
+"Burr, Aaron","Jefferson, Thomas",22,M,M
+"Hamilton, Alexander","Hoops, Adam Jr.",22,M,M
+"Cathalan, Stephen","Madison, James",22,M,M
+"Lemaire, Etienne","Jefferson, Thomas",22,M,M
+"Cathalan, Stephen Jr.","Madison, James",22,M,M
+"Auldjo, Thomas","Madison, James",22,M,M
+"Jackson, John George","Madison, James",22,M,M
+"Hening, William Waller","Jefferson, Thomas",22,M,M
+"Patterson, Robert","Madison, James",22,M,M
+"Tatham, William","Madison, James",22,M,M
+"Rush, Richard","Jefferson, Thomas",22,M,M
+"Madison, James","Dunglison, Robley",22,M,M
+"Cocke, John Hartwell","Madison, James",22,M,M
+Unknown,"Franklin, Benjamin",21,M,M
+"Washington, George","Mercer, Hugh",21,M,M
+"Valentine, Joseph","Washington, George",21,M,M
+"Washington, George","Bassett, Burwell",21,M,M
+"Todd, Anthony","Franklin, Benjamin",21,M,M
+"Hopkinson, Francis","Franklin, Benjamin",21,M,M
+"Cushing, Thomas","Franklin, Benjamin",21,M,M
+"Hutton, James","Franklin, Benjamin",21,M,M
+"Madison, James","Bradford, William",21,M,M
+"Newton, Thomas Jr.","Washington, George",21,M,M
+"Washington, George","Newton, Thomas Jr.",21,M,M
+"Washington, George","Massachusetts General Court,",21,M,M
+"McIntosh, Lachlan","Washington, George",21,M,M
+"Anonymous,","Washington, George",21,M,M
+"Bowdoin, James","Washington, George",21,M,M
+"Jefferson, Thomas","Pendleton, Edmund",21,M,M
+"Sewall, David","Adams, John",21,M,M
+"Dumas, Charles-Guillaume-Frédéric","Deane, Silas",21,M,M
+"Fitzgerald, John","Washington, George",21,M,M
+"Harvie, John","Jefferson, Thomas",21,M,M
+"Washington, George","Nelson, Thomas Jr.",21,M,M
+"Lee, Richard Henry","Adams, John",21,M,M
+"Measam, George","Washington, George",21,M,M
+"L’Enfant, Pierre Charles","Washington, George",21,M,M
+"Williams, Otho Holland","Washington, George",21,M,M
+"Washington, George","Mathews, John",21,M,M
+"Pinckney, Charles Cotesworth","Washington, George",21,M,M
+"Harrison, Benjamin","Jefferson, Thomas",21,M,M
+"Chastellux, François-Jean de Beauvoir marquis de","Washington, George",21,M,M
+"Washington, George","Chastellux, François-Jean de Beauvoir marquis de",21,M,M
+"Jefferson, Thomas","Ross, David",21,M,M
+"Hylton, Daniel L.","Jefferson, Thomas",21,M,M
+"Hamilton, Alexander","Church, John B.",21,M,M
+"Livingston, Robert R.","Adams, John",21,M,M
+"Adams, John","La Lande & Fynje, de (business)",21,M,M
+"Adams, Abigail Smith","Greenleaf, Lucy Cranch",21,F,F
+"Nicholas, George","Madison, James",21,M,M
+"Powel, Samuel","Washington, George",21,M,M
+"Washington, George","Powel, Samuel",21,M,M
+"Randolph, Edmund","Virginia Delegates,",21,M,M
+"Jefferson, Thomas","Cutting, John Brown",21,M,M
+"Hamilton, Alexander","Sedgwick, Theodore",21,M,M
+"Jefferson, Thomas","Van Staphorst & Hubbard,",21,M,M
+"Jordan, Meletiah","Hamilton, Alexander",21,M,M
+"Washington, Harriot","Washington, George",21,M,M
+"Jefferson, Thomas","Viar, José (Joseph) Ignacio de",21,M,M
+"Murray, William Vans","Adams, John",21,M,M
+"Pickering, Timothy","Dandridge, Bartholomew Jr.",21,M,M
+"Hamilton, Alexander","Tousard, Lewis",21,M,M
+"Dunbar, William","Jefferson, Thomas",21,M,M
+"Tazewell, Littleton W.","Jefferson, Thomas",21,M,M
+"Jefferson, Thomas","Waterhouse, Benjamin",21,M,M
+"Logan, George","Jefferson, Thomas",21,M,M
+"Jefferson, Thomas","Lewis, Meriwether",21,M,M
+"Anderson, Joseph","Jefferson, Thomas",21,M,M
+"Tufts, Turell","Madison, James",21,M,M
+"Söderström, Richard","Madison, James",21,M,M
+"Worthington, Thomas","Jefferson, Thomas",21,M,M
+"Brent, Daniel","Jefferson, Thomas",21,M,M
+"Mitchill, Samuel Latham","Madison, James",21,M,M
+"Jefferson, Thomas","Clay, Charles",21,M,M
+"Jefferson, Thomas","Warden, David Bailie",21,M,M
+"Coles, Isaac A.","Jefferson, Thomas",21,M,M
+"Harrison, Samuel Jordan","Jefferson, Thomas",21,M,M
+"Coffee, William John","Jefferson, Thomas",21,M,M
+"Carter, Charles","Washington, George",20,M,M
+"Washington, George","Robinson, John",20,M,M
+"Washington, George","Wood, James",20,M,M
+"Washington, George","Capel & Osgood Hanbury,",20,M,M
+"Adams, John","Boston Gazette (newspaper),",20,M,M
+"Sarsfield, Guy-Claude comte de","Franklin, Benjamin",20,M,M
+"Harrison, Benjamin","Washington, George",20,M,M
+"Lovell, James","Washington, George",20,M,M
+"Tupper, Benjamin","Washington, George",20,M,M
+"Fleming, William","Jefferson, Thomas",20,M,M
+"Washington, George","Wharton, Thomas Jr.",20,M,M
+"Baylor, George","Washington, George",20,M,M
+"Washington, George","Webb, Samuel Blachley",20,M,M
+"Washington, George","Poor, Enoch",20,M,M
+"Hamilton, Alexander","Laurens, John",20,M,M
+"Washington, George","Phillips, William",20,M,M
+"Adams, John Quincy","Adams, Charles",20,M,M
+"Dumas, Charles William Frederic","Franklin, Benjamin",20,M,M
+"Dumas, Charles William Frederic","Lee, Arthur",20,M,M
+"Washington, George","Measam, George",20,M,M
+"Franklin, Benjamin","Lafayette, Marie-Joseph-Paul-Yves-Roch-Gilbert du Motier marquis de",20,M,M
+"Butler, Richard","Washington, George",20,M,M
+"Hamilton, Alexander","Duane, James",20,M,M
+"Bowen, Jabez","Washington, George",20,M,M
+"Beckley, John","Madison, James",20,M,M
+"Jefferson, Thomas","Lee, Thomas Sim",20,M,M
+"Washington, George","Willett, Marinus",20,M,M
+"Rendón, Francisco","Washington, George",20,M,M
+"Skinner, Abraham","Washington, George",20,M,M
+"Stevens, Edward","Jefferson, Thomas",20,M,M
+"Jefferson, Thomas","Virginia Delegates,",20,M,M
+"Tyler, John","Jefferson, Thomas",20,M,M
+"Jefferson, Thomas","Eppes, Elizabeth Wayles",20,M,F
+"Adams, John","Barclay, Thomas",20,M,M
+"Randolph, Beverley","Washington, George",20,M,M
+"Smith, Thomas","Washington, George",20,M,M
+"Jefferson, Thomas","Smith, William Stephens",20,M,M
+"Jefferson, Thomas","Jones, John Paul",20,M,M
+"O’Brien, Richard","Jefferson, Thomas",20,M,M
+"Rittenhouse, David","Jefferson, Thomas",20,M,M
+"Bowdoin, James","Jefferson, Thomas",20,M,M
+"Sinclair, Sir John","Jefferson, Thomas",20,M,M
+"Jefferson, Thomas","Cosway, Maria",20,M,F
+"Watson, Elkanah","Adams, John",20,M,M
+"Marchant, Henry","Adams, John",20,M,M
+"Harrison, Richard","Hamilton, Alexander",20,M,M
+"Hamilton, Alexander","Speaker of the House of Representatives,",20,M,NA
+"Jefferson, Thomas","Giles, William Branch",20,M,M
+"Hamilton, Alexander","Mifflin, Thomas",20,M,M
+"Jefferson, Thomas","Commissioners of the Federal District,",20,M,NA
+"Jefferson, Thomas","Jaudenes, Joseph de",20,M,M
+"Cabinet,","Washington, George",20,M,M
+"Malcom, Samuel B.","Adams, John",20,M,M
+"Kosciuszko, Tadeusz","Jefferson, Thomas",20,M,M
+"Hamilton, Alexander","Hunewell, Richard",20,M,M
+"Hamilton, Alexander","Taylor, Timothy",20,M,M
+"Hamilton, Alexander","Bentley, William C.",20,M,M
+"Graves, Rufus","Hamilton, Alexander",20,M,M
+"Miller, James","Hamilton, Alexander",20,M,M
+"Jefferson, Thomas","Tazewell, Littleton W.",20,M,M
+"Smith, William Loughton","Madison, James",20,M,M
+"Livingston, Edward","Madison, James",20,M,M
+"Duane, William","Madison, James",20,M,M
+"Crowninshield, Jacob","Jefferson, Thomas",20,M,M
+"Madison, James","Speaker of the House of Representatives,",20,M,NA
+"Randolph, Thomas Jefferson","Jefferson, Thomas",20,M,M
+"Lyman, William","Madison, James",20,M,M
+"Jefferson, Thomas","Hollins, John",20,M,M
+"Tompkins, Daniel D.","Madison, James",20,M,M
+"Jefferson, Thomas","Dougherty, Joseph",20,M,M
+"United States Senate,","Jefferson, Thomas",20,M,M
+"Jefferson, Thomas","Goodman, Jeremiah A.",20,M,M
+"Jones, David","Madison, James",20,M,M
+"Adams, John","Lloyd, James",20,M,M
+"Madison, James","Randolph, Thomas Jefferson",20,M,M
+"Franklin, Benjamin","Logan, James",19,M,M
+"Washington, George","Carter, Charles",19,M,M
+"Hog, Peter","Washington, George",19,M,M
+"Franklin, Benjamin","Hall, David",19,M,M
+"Valltravers, Johann Rodolphe","Franklin, Benjamin",19,M,M
+"Bradford, William","Madison, James",19,M,M
+"Adams, John","Sewall, David",19,M,M
+"McKean, Thomas","Adams, John",19,M,M
+"Gist, Mordecai","Washington, George",19,M,M
+"Washington, George","Trumbull, Jonathan",19,M,M
+"Franklin, Benjamin","Grand, Rodolphe-Ferdinand",19,M,M
+"Washington, George","Laurens, John",19,M,M
+"Nelson, Thomas Jr.","Washington, George",19,M,M
+"Washington, George","Pulaski, Casimir",19,M,M
+"Stewart, Charles","Washington, George",19,M,M
+"Wilkinson, James","Washington, George",19,M,M
+"Washington, George","Kalb, Johann",19,M,M
+"Shepard, William","Washington, George",19,M,M
+"Melmoth, Courtney","Franklin, Benjamin",19,M,M
+"Washington, George","Duportail, Louis Le Bèque",19,M,M
+"Adams, John Quincy","Smith, Abigail Amelia Adams",19,M,F
+"Washington, George","Duane, James",19,M,M
+"Washington, George","Wilkinson, James",19,M,M
+"Jefferson, Thomas","Thomson, Charles",19,M,M
+"Hamilton, Alexander","Schuyler, Elizabeth",19,M,F
+"Mathews, John","Washington, George",19,M,M
+"Jefferson, Thomas","Pickering, Timothy",19,M,M
+"Waterhouse, Benjamin","Adams, John",19,M,M
+"Washington, George","Harrison, Benjamin Sr.",19,M,M
+"Trumbull, Jonathan Jr.","Washington, George",19,M,M
+"Hanson, John","Washington, George",19,M,M
+"Innes, Harry","Jefferson, Thomas",19,M,M
+"Washington, George","Vaudreuil, Louis-Philippe de Rigaud marquis de",19,M,M
+"Adams, Abigail Smith","Norton, Elizabeth Cranch",19,F,F
+"Jefferson, Thomas","Commissioners of the Treasury,",19,M,NA
+"Asquith, Lister","Jefferson, Thomas",19,M,M
+"Washington, George","Deakins, William Jr.",19,M,M
+"Jefferson, Thomas","Donald, Alexander",19,M,M
+"Turberville, George Lee","Madison, James",19,M,M
+"Jones, Walter","Madison, James",19,M,M
+"Jefferson, Thomas","Pinckney, Charles",19,M,M
+"Reynolds, James","Hamilton, Alexander",19,M,M
+"Baker, Jerman","Jefferson, Thomas",19,M,M
+"Ternant, Jean Baptiste","Jefferson, Thomas",19,M,M
+"Sinclair, John","Washington, George",19,M,M
+"Morris, Gouverneur","Short, William",19,M,M
+"Mercer, John F.","Jefferson, Thomas",19,M,M
+"Knox, Henry","Dandridge, Bartholomew Jr.",19,M,M
+"Willcocks, William","Hamilton, Alexander",19,M,M
+"Volney, Constantin François Chasseboeuf Comte de","Jefferson, Thomas",19,M,M
+"Jefferson, Thomas","Trist, Elizabeth House",19,M,F
+"Eppes, Mary Jefferson","Jefferson, Thomas",19,F,M
+"Hunewell, Richard","Hamilton, Alexander",19,M,M
+"Read, James","Hamilton, Alexander",19,M,M
+"Hamilton, Alexander","Buell, John H.",19,M,M
+"Brent, Daniel Carroll","Madison, James",19,M,M
+"Mitchill, Samuel Latham","Jefferson, Thomas",19,M,M
+"Cooke, William","Madison, James",19,M,M
+"Jefferson, Thomas","Walker, James",19,M,M
+"Jefferson, Thomas","Higginbotham, David",19,M,M
+"Dayton, Jonathan","Madison, James",19,M,M
+"Riggin, William","Madison, James",19,M,M
+"Lenthall, John","Jefferson, Thomas",19,M,M
+"Jefferson, Thomas","McMahon, Bernard",19,M,M
+"Forbes, John Murray","Madison, James",19,M,M
+"Jefferson, Thomas","Delaplaine, Joseph",19,M,M
+"Adams, John","Niles, Hezekiah",19,M,M
+"Jefferson, Thomas","Mayo, Frederick A.",19,M,M
+"Jefferson, Thomas","Coffee, William John",19,M,M
+"Franklin, Benjamin","Bowdoin, James",18,M,M
+"Bowdoin, James","Franklin, Benjamin",18,M,M
+"Washington, George","Carlyle, John",18,M,M
+"Washington, George","Lewis, Andrew",18,M,M
+"Blair, John","Washington, George",18,M,M
+"Wharton, Thomas","Franklin, Benjamin",18,M,M
+"Hill, James","Washington, George",18,M,M
+"Washington, George","Dandridge, Bartholomew Jr.",18,M,M
+"Washington, George","Warren, James",18,M,M
+"Quincy, Josiah III","Adams, John",18,M,M
+"Bancroft, Edward","Franklin, Benjamin",18,M,M
+"Gordon, William","Adams, John",18,M,M
+"Washington, George","Bayley, Jacob",18,M,M
+"Washington, George","Pennsylvania Council of Safety,",18,M,NA
+"Mease, James","Washington, George",18,M,M
+"Coder, Henry","Franklin, Benjamin",18,M,M
+"Gibbs, Caleb","Washington, George",18,M,M
+"La Rouërie, Armand-Charles Tuffin marquis de","Washington, George",18,M,M
+"Heer, Bartholomew von","Washington, George",18,M,M
+"Deux-Ponts, Marianne Camasse comtesse de Forbach","Franklin, Benjamin",18,F,M
+"Izard, Ralph","Adams, John",18,M,M
+"Adams, John Quincy","Cranch, William",18,M,M
+"Genet, Edmé Jacques","Adams, John",18,M,M
+"Gourlade & Moylan,","Franklin, Benjamin",18,M,M
+"Wood, James","Jefferson, Thomas",18,M,M
+"Washington, George","Carrington, Edward",18,M,M
+"Washington, George","Stoddert, Benjamin",18,M,M
+"Carrington, Edward","Jefferson, Thomas",18,M,M
+"Luzac, Jean","Adams, John",18,M,M
+"Jefferson, Thomas","McKean, Thomas",18,M,M
+"Washington, George","Pinckney, Charles Cotesworth",18,M,M
+"Duer, William","Hamilton, Alexander",18,M,M
+"Madison, James","Hamilton, Alexander",18,M,M
+"Jefferson, Thomas","Carr, Peter",18,M,M
+"Adams, John","Shaw, William Smith",18,M,M
+"Grand, Ferdinand","Jefferson, Thomas",18,M,M
+"Jefferson, Thomas","Paradise, Lucy Ludwell",18,M,F
+"Peter, Thomas","Washington, George",18,M,M
+"Virginia Delegates,","Randolph, Edmund",18,M,M
+"Moustier, Elénore François Elie Comte de","Jefferson, Thomas",18,F,M
+"Peters, Richard","Madison, James",18,M,M
+"Pleasants, James","Jefferson, Thomas",18,M,M
+"Dayton, Jonathan","Hamilton, Alexander",18,M,M
+"Jefferson, John Garland","Jefferson, Thomas",18,M,M
+"Nicholson, John","Hamilton, Alexander",18,M,M
+"Patton, Robert","Madison, James",18,M,M
+"Short, William","Morris, Gouverneur",18,M,M
+"Washington, George","Sinclair, John",18,M,M
+"Divers, George","Jefferson, Thomas",18,M,M
+"Morse, Jedediah","Adams, John",18,M,M
+"Adams, Abigail Smith","Cushing, Hannah Phillips",18,F,F
+"Cass, Jonathan","Hamilton, Alexander",18,M,M
+"Eddins, Samuel","Hamilton, Alexander",18,M,M
+"Hamilton, Alexander","Cass, Jonathan",18,M,M
+"Adams, John","Morse, Jedediah",18,M,M
+"Lyon, Matthew","Jefferson, Thomas",18,M,M
+"DuVal, Gabriel","Jefferson, Thomas",18,M,M
+"Saabye, Hans Rudolph","Madison, James",18,M,M
+"Hũlings, William E.","Madison, James",18,M,M
+"Madison, James","Thornton, Edward",18,M,M
+"Ellery, Christopher","Jefferson, Thomas",18,M,M
+"Blicherolsen, Peder","Madison, James",18,M,M
+"Walker, James","Jefferson, Thomas",18,M,M
+"Anderson, James","Madison, James",18,M,M
+"Jefferson, Thomas","Clinton, DeWitt",18,M,M
+"Sullivan, James","Madison, James",18,M,M
+"Girardin, Louis Hue","Jefferson, Thomas",18,M,M
+"Madison, James","Erskine, David Montague",18,M,M
+"Hill, Henry","Madison, James",18,M,M
+"Thweatt, Archibald","Jefferson, Thomas",18,M,M
+"Jefferson, Thomas","Hening, William Waller",18,M,M
+"Rhea, John","Madison, James",18,M,M
+"Leitch, James","Jefferson, Thomas",18,M,M
+"Rives, William Cabell","Jefferson, Thomas",18,M,M
+"Jefferson, Thomas","Minor, Peter",18,M,M
+"Robertson, Archibald","Jefferson, Thomas",18,M,M
+"Corrêa da Serra, José","Jefferson, Thomas",18,M,M
+"Jefferson, Thomas","Corrêa da Serra, José",18,M,M
+"Spafford, Horatio Gates","Adams, John",18,M,M
+"Madison, James","Barbour, James",18,M,M
+"Madison, James","Clay, Henry",18,M,M
+"Dearborn, Henry Alexander Scammell","Jefferson, Thomas",18,M,M
+"Garrett, Alexander","Madison, James",18,M,M
+"Madison, James","Rives, William Cabell",18,M,M
+"Rives, William Cabell","Madison, James",18,M,M
+"Robinson, John","Washington, George",17,M,M
+"Washington, George","Waggener, Thomas",17,M,M
+"Washington, George","Washington, Richard",17,M,M
+"Washington, George","Craik, James",17,M,M
+"Ramsay, William","Washington, George",17,M,M
+"Wood, James","Washington, George",17,M,M
+"Ross, John","Franklin, Benjamin",17,M,M
+"Franklin, Benjamin","Evans, Cadwallader",17,M,M
+"Pendleton, Edmund","Washington, George",17,M,M
+"Washington, George","Harrison, Robert Hanson",17,M,M
+"Simpson, Gilbert","Washington, George",17,M,M
+"Greene, Catharine","Franklin, Benjamin",17,F,M
+"Thompson, William","Washington, George",17,M,M
+"Sargent, Winthrop","Washington, George",17,M,M
+"Jefferson, Thomas","Franklin, Benjamin",17,M,M
+"Jefferson, Thomas","Lee, Richard Henry",17,M,M
+"Shippen, William Jr.","Washington, George",17,M,M
+"Webb, Samuel Blachley","Washington, George",17,M,M
+"Bingham, William","American Commissioners,",17,M,M
+"MacCreery, William","Adams, John",17,M,M
+"Washington, George","Greene, Christopher",17,M,M
+"Kalb, Johann","Washington, George",17,M,M
+"Peabody, Elizabeth Smith Shaw","Cranch, Mary Smith",17,F,F
+"Genet, Edmé Jacques","Franklin, Benjamin",17,M,M
+"Paine, Thomas","Washington, George",17,M,M
+"Beatty, John","Washington, George",17,M,M
+"Washington, George","Pettit, Charles",17,M,M
+"Franklin, Benjamin","Digges, Thomas",17,M,M
+"Washington, George","Butler, Richard",17,M,M
+"Franklin, Benjamin","Gérard de Rayneval, Joseph-Mathias",17,M,M
+"Troup, Robert","Hamilton, Alexander",17,M,M
+"Lewis, Betty Washington","Washington, George",17,F,M
+"Jefferson, Thomas","Muhlenberg, John Peter Gabriel",17,M,M
+"Peale, Charles Willson","Washington, George",17,M,M
+"Jefferson, Thomas","Banister, John",17,M,M
+"Adams, John","Neufville, Jean de & Fils (business)",17,M,M
+"Washington, George","Trumbull, Jonathan Jr.",17,M,M
+"Pray, John","Washington, George",17,M,M
+"Storer, Charles","Adams, John",17,M,M
+"Jefferson, Thomas","Gerry, Elbridge",17,M,M
+"Willink, Van Staphorst and De la Lande & Fynje","Adams, John",17,M,M
+"Jefferson, Mary","Jefferson, Thomas",17,F,M
+"Washington, George","Newenham, Edward",17,M,M
+"Jefferson, Thomas","Barclay, Thomas",17,M,M
+"Jefferson, Thomas","Adams, John Quincy",17,M,M
+"Otto, Louis Guillaume","Jefferson, Thomas",17,M,M
+"Nicolas & Jacob van Staphorst,","Jefferson, Thomas",17,M,M
+"Hamilton, Alexander","Church, Angelica Schuyler",17,M,F
+"Washington, George","Gilpin, George",17,M,M
+"Sayre, Stephen","Jefferson, Thomas",17,M,M
+"Jefferson, Thomas","Bancroft, Edward",17,M,M
+"Carnes, Burrill","Jefferson, Thomas",17,M,M
+"Jefferson, Thomas","Montmorin de Saint-Hérem, Armand Marc Comte de",17,M,M
+"Cranch, William","Adams, Abigail Smith",17,M,F
+"Jefferson, Thomas","Jefferson, Randolph",17,M,M
+"Marshall, John","Washington, George",17,M,M
+"Willink, Van Staphorst & Hubbard","Jefferson, Thomas",17,M,M
+"Maury, Fontaine","Madison, James",17,M,M
+"Van Staphorst & Hubbard,","Jefferson, Thomas",17,M,M
+"Washington, George","Ball, Burgess",17,M,M
+"Harrison, Richard","Jefferson, Thomas",17,M,M
+"Hamilton, Alexander","Walker, Benjamin",17,M,M
+"Adams, John","Watson, Elkanah",17,M,M
+"Carroll, Daniel","Jefferson, Thomas",17,M,M
+"Barton, William","Jefferson, Thomas",17,M,M
+"Madison, William","Madison, James",17,M,M
+"Jefferson, Thomas","Burr, Aaron",17,M,M
+"Jefferson, Thomas","Carr, Dabney",17,M,M
+"Taylor, John","Madison, James",17,M,M
+"Dandridge, Bartholomew Jr.","Knox, Henry",17,M,M
+"Washington, George","Ross, James",17,M,M
+"Law, Thomas","Washington, George",17,M,M
+"Washington, George","Custis, George Washington Parke",17,M,M
+"Jefferson, Thomas","Kosciuszko, Tadeusz",17,M,M
+"Hanson, Samuel","Jefferson, Thomas",17,M,M
+"Stevens, Ebenezer","Madison, James",17,M,M
+"Mountflorence, James C.","Madison, James",17,M,M
+"Kilty, William","Jefferson, Thomas",17,M,M
+"Brent, Daniel","Madison, James",17,M,M
+"Murray, John J.","Madison, James",17,M,M
+"Jefferson, Thomas","Lemaire, Etienne",17,M,M
+"Ridgway, Jacob","Madison, James",17,M,M
+"Jefferson, Thomas","Graham, John",17,M,M
+"Baker, John Martin","Jefferson, Thomas",17,M,M
+"O’Neill, John","Jefferson, Thomas",17,M,M
+"Crawford, William","Madison, James",17,M,M
+"Jefferson, Thomas","Pleasants, James",17,M,M
+"Adams, John","Adams, Charles Francis",17,M,M
+"Kelly, Edmond","Madison, James",17,M,M
+"Hilliard, William","Jefferson, Thomas",17,M,M
+"Jefferson, Thomas","Hilliard, William",17,M,M
+"Madison, James","Brockenbrough, Arthur S.",17,M,M
+"Colden, Cadwallader","Franklin, Benjamin",16,M,M
+"Stiles, Ezra","Franklin, Benjamin",16,M,M
+"Jefferson, Thomas","Harvie, John",16,M,M
+"Bridgen, Edward","Franklin, Benjamin",16,M,M
+"Price, Richard","Franklin, Benjamin",16,M,M
+"Franklin, Benjamin","Shipley, Jonathan",16,M,M
+"Mercer, James","Washington, George",16,M,M
+"Washington, George","Harrison, Benjamin",16,M,M
+"Chase, Samuel","Adams, John",16,M,M
+"Adams, John","Ward, Joseph",16,M,M
+"Spencer, Joseph","Washington, George",16,M,M
+"Washington, George","Varick, Richard",16,M,M
+"Nelson, Thomas","Jefferson, Thomas",16,M,M
+"Walton, George","Washington, George",16,M,M
+"Washington, George","Duer, William",16,M,M
+"Washington, George","Patterson, John",16,M,M
+"Feutry, Aimé-Ambroise-Joseph","Franklin, Benjamin",16,M,M
+"Committee for Foreign Affairs,","Deane, Silas",16,M,M
+"Grand, Henri-Maximilien (Henry)","Franklin, Benjamin",16,M,M
+"Laurens, Henry","Adams, John",16,M,M
+"Lacey, John Jr.","Washington, George",16,M,M
+"Washington, George","White, Alexander",16,M,M
+"Hamilton, Alexander","Steuben, Baron von",16,M,M
+"Washington, George","Clark, Thomas",16,M,M
+"Tucker, Samuel","Adams, John",16,M,M
+"Lamb, John","Washington, George",16,M,M
+"Washington, George","Mitchell, John",16,M,M
+"Marshall, Thomas","Washington, George",16,M,M
+"Jefferson, Thomas","et al.,",16,M,M
+"Stirling, Major General","Washington, George",16,M,M
+"Lee, Thomas Sim","Jefferson, Thomas",16,M,M
+"Franklin, Benjamin","Huntington, Samuel",16,M,M
+"Moylan, John","Washington, George",16,M,M
+"Jefferson, Thomas","Maxwell, James",16,M,M
+"Hamilton, Alexander","Varick, Richard",16,M,M
+"Destouches, Charles-René-Dominique Sochet","Washington, George",16,M,M
+"Tilghman, Tench","Pickering, Timothy",16,M,M
+"Grand, Henry","Adams, John",16,M,M
+"Smith, Abigail Amelia Adams","Adams, John Quincy",16,F,M
+"Virginia Delegates,","Nelson, Thomas",16,M,M
+"Madison, James","Madison, James",16,M,M
+"Washington, George","Powel, Elizabeth Willing",16,M,F
+"Vaudreuil, Louis-Philippe de Rigaud marquis de","Washington, George",16,M,M
+"Jefferson, Thomas","Maury, James",16,M,M
+"Mifflin, Thomas","Hamilton, Alexander",16,M,M
+"Moultrie, William","Washington, George",16,M,M
+"Dickinson, John","Jefferson, Thomas",16,M,M
+"Mercer, John Francis","Washington, George",16,M,M
+"Grayson, William","Madison, James",16,M,M
+"Washington, George","Smith, Thomas",16,M,M
+"Jefferson, Thomas","Vergennes, Charles Gravier comte de",16,M,M
+"Adams, Abigail Smith","Smith, William Stephens",16,F,M
+"Jefferson, Thomas","Grand, Ferdinand",16,M,M
+"Adams, John","King, Rufus",16,M,M
+"Barclay, Thomas","American Commissioners,",16,M,M
+"Vernes, Jacob","Jefferson, Thomas",16,M,M
+"Willink & Van Staphorst,","Jefferson, Thomas",16,M,M
+"United States Senate,","Adams, John",16,M,M
+"Griffin, Cyrus","Madison, James",16,M,M
+"Grand & Cie.,","Jefferson, Thomas",16,M,M
+"Adams, Abigail Smith","Cranch, William",16,F,M
+"Jefferson, Thomas","Mason, John",16,M,M
+"Belknap, Jeremy","Adams, John",16,M,M
+"Madison, James","Nicholas, Wilson Cary",16,M,M
+"Huntington, Jedediah","Hamilton, Alexander",16,M,M
+"Higginson, Stephen","Hamilton, Alexander",16,M,M
+"Adams, John","Cranch, William",16,M,M
+"Hamilton, Alexander","President and Directors of the Bank of New York,",16,M,NA
+"Jefferson, Thomas","Ellicott, Andrew",16,M,M
+"Leiper, Thomas","Madison, James",16,M,M
+"Commissioners of the Federal District,","Jefferson, Thomas",16,NA,M
+"Remsen, Henry","Jefferson, Thomas",16,M,M
+"Steele, John","Jefferson, Thomas",16,M,M
+"Murray, William Vans","Washington, George",16,M,M
+"Jefferson, Thomas","Breckinridge, John",16,M,M
+"Moylan, Stephen","Madison, James",16,M,M
+"Custis, George Washington Parke","Washington, George",16,M,M
+"Madison, Bishop James","Jefferson, Thomas",16,M,M
+"Dexter, Samuel","Adams, John",16,M,M
+"Hamilton, Alexander","Stoddert, Benjamin",16,M,M
+"Hamilton, Alexander","Moore, Thomas Lloyd",16,M,M
+"Hamilton, Alexander","Hall, Josias Carvel",16,M,M
+"Buell, John H.","Hamilton, Alexander",16,M,M
+"Lloyd, James","Adams, John",16,M,M
+"Jefferson, Thomas","Briggs, Isaac",16,M,M
+"Morton, John","Madison, James",16,M,M
+"Madison, James","Jackson, John G.",16,M,M
+"Tucker, St. George","Madison, James",16,M,M
+"Brent, Robert","Jefferson, Thomas",16,M,M
+"Pulis, Joseph","Madison, James",16,M,M
+"Harrison, William Henry","Jefferson, Thomas",16,M,M
+"Madison, James","Smith, Robert",16,M,M
+"Madison, James","Livingston, Edward",16,M,M
+"Madison, James","Dearborn, Henry",16,M,M
+"Madison, James","Bowdoin, James",16,M,M
+"Kuhn, Peter Jr.","Madison, James",16,M,M
+"Rose, Joseph Warner","Madison, James",16,M,M
+"St. Mary’s Seminary,","Madison, James",16,M,M
+"Jefferson, Thomas","Chisholm, Hugh",16,M,M
+"Christie, Gabriel","Jefferson, Thomas",16,M,M
+"Goldsborough, Charles W.","Madison, James",16,M,M
+"Ringgold, Tench","Madison, James",16,M,M
+"Wirt, William","Madison, James",16,M,M
+"Du Pont de Nemours, Pierre Samuel","Madison, James",16,M,M
+"Cooper, Thomas","Madison, James",16,M,M
+"Spafford, Horatio Gates","Madison, James",16,M,M
+"Clay, Charles","Jefferson, Thomas",16,M,M
+"Walsh, Robert","Jefferson, Thomas",16,M,M
+"Jefferson, Thomas","Rush, Richard",16,M,M
+"Madison, James","Crawford, William Harris",16,M,M
+"Tucker, George","Madison, James",16,M,M
+"Dodge, Joshua","Jefferson, Thomas",16,M,M
+"Sparks, Jared","Madison, James",16,M,M
+"Belcher, Jonathan","Franklin, Benjamin",15,M,M
+"Lewis, Fielding","Washington, George",15,M,M
+"Rutherford, Robert","Washington, George",15,M,M
+"Smith, Charles","Washington, George",15,M,M
+"Thomson, Charles","Franklin, Benjamin",15,M,M
+"Mercer, John","Washington, George",15,M,M
+"Adams, John","Quincy, Josiah III",15,M,M
+"Washington, George","Gildart, James",15,M,M
+"Barclay, David Junior","Franklin, Benjamin",15,M,M
+"Franklin, Benjamin","Jones, Noble Wimberly",15,M,M
+"Adams, John","Smith, Abigail Amelia Adams",15,M,F
+"Washington, George","Grayson, William",15,M,M
+"Adams, John","Smith, Isaac Sr.",15,M,M
+"Washington, George","Washington, Martha Dandridge Custis",15,M,F
+"Adams, John","Washington, George",15,M,M
+"Trumbull, Joseph","Washington, George",15,M,M
+"Washington, George","Spencer, Joseph",15,M,M
+"Adams, John","Cooper, Samuel",15,M,M
+"Washington, George","McIntosh, Lachlan",15,M,M
+"Washington, George","Bowdoin, James",15,M,M
+"Washington, George","New York Convention,",15,M,M
+"Washington, George","Cadwalader, John",15,M,M
+"Cadwalader, John","Washington, George",15,M,M
+"Bingham, William","Lee, Arthur",15,M,M
+"Washington, George","Thomson, Charles",15,M,M
+"Lutterloh, Henry Emanuel","Washington, George",15,M,M
+"Washington, George","Smith, Samuel",15,M,M
+"Washington, George","Blaine, Ephraim",15,M,M
+"Franklin, Benjamin","Laurens, Henry",15,M,M
+"Adams, John","Bondfield, John",15,M,M
+"d’Azyr, Félix Vicq","Franklin, Benjamin",15,M,M
+"Franklin, Benjamin","Coffyn, Francis",15,M,M
+"Franklin, Benjamin","Bondfield, John",15,M,M
+"Franklin, Benjamin","Neufville, Jean de & fils",15,M,M
+"Adams, John","Lee, William",15,M,M
+"Carleton, Joseph","Washington, George",15,M,M
+"Hartley, David","Adams, John",15,M,M
+"Adams, John","Cerisier, Antoine Marie",15,M,M
+"Humphreys, David","Heath, William",15,M,M
+"Jefferson, Thomas","Claiborne, Richard",15,M,M
+"Houdetot, Elisabeth-Françoise-Sophie de La Live de Bellegarde comtesse d’","Franklin, Benjamin",15,F,M
+"Jefferson, Thomas","Barbour, James",15,M,M
+"Barras, Paul-François-Jean-Nicolas comte de","Washington, George",15,M,M
+"Beckley, John","Jefferson, Thomas",15,M,M
+"Bancroft, Edward","Jefferson, Thomas",15,M,M
+"Adams, John","Hamilton, Alexander",15,M,M
+"Littlepage, Lewis","Jefferson, Thomas",15,M,M
+"Washington, George","Young, Arthur",15,M,M
+"Jefferson, Thomas","Jones, William",15,M,M
+"Short, William","Madison, James",15,M,M
+"Madison, James","Carrington, Edward",15,M,M
+"Jefferson, Thomas","Willink & Van Staphorst,",15,M,M
+"Knox, Henry","Jefferson, Thomas",15,M,M
+"Page, John","Madison, James",15,M,M
+"Washington, George","Marshall, John",15,M,M
+"Cranch, William","Adams, John Quincy",15,M,M
+"Lambert, William","Madison, James",15,M,M
+"Madison, James","Rush, Benjamin",15,M,M
+"Jefferson, Thomas","Van der Kemp, François Adriaan",15,M,M
+"Madison, James","Taylor, Hubbard",15,M,M
+"Hamilton, Alexander","Kean, John",15,M,M
+"Hamilton, Alexander","Rawle, William",15,M,M
+"DuVal, William","Jefferson, Thomas",15,M,M
+"Adams, Charles","Adams, Abigail Smith",15,M,F
+"Hamilton, Alexander","Monroe, James",15,M,M
+"Jefferson, Thomas","Logan, George",15,M,M
+"Edwards, Enoch","Jefferson, Thomas",15,M,M
+"Harrison, Richard","Madison, James",15,M,M
+"Brown, Samuel","Jefferson, Thomas",15,M,M
+"Le Guen, Louis","Hamilton, Alexander",15,M,M
+"Law, Thomas","Madison, James",15,M,M
+"Morris, Staats","Hamilton, Alexander",15,M,M
+"Moore, Thomas Lloyd","Hamilton, Alexander",15,M,M
+"Hamilton, Alexander","Commandants of Regiments,",15,M,NA
+"Hamilton, Alexander","Graves, Rufus",15,M,M
+"DuVal, Gabriel","Madison, James",15,M,M
+"Nicholas, John","Madison, James",15,M,M
+"Jefferson, Thomas","Rodney, Caesar A.",15,M,M
+"Nicholson, Joseph H.","Jefferson, Thomas",15,M,M
+"District of Columbia Commissioners,","Jefferson, Thomas",15,NA,M
+"Dawson, John","Jefferson, Thomas",15,M,M
+"Jefferson, Thomas","Yznardi, Joseph Sr.",15,M,M
+"Jefferson, Thomas","Macon, Nathaniel",15,M,M
+"Madison, James","Lincoln, Levi",15,M,M
+"FitzSimons, Thomas","Madison, James",15,M,M
+"Randolph, Anne Cary","Jefferson, Thomas",15,F,M
+"Madison, James","FitzSimons, Thomas",15,M,M
+"Bollmann, Justus Erich","Jefferson, Thomas",15,M,M
+"Cutts, Richard","Madison, James",15,M,M
+"Madison, James","Sanford, Nathan",15,M,M
+"Otis, Samuel Allyne","Jefferson, Thomas",15,M,M
+"Adams, John Quincy","Quincy, Josiah III",15,M,M
+"Hill, Henry Jr.","Madison, James",15,M,M
+"Turreau, Louis-Marie","Madison, James",15,M,M
+"Duponceau, Peter Stephen","Madison, James",15,M,M
+"Wood, John","Jefferson, Thomas",15,M,M
+"Williams, Jonathan","Madison, James",15,M,M
+"Adams, John Quincy","Boylston, Ward Nicholas",15,M,M
+"Jefferson, Thomas","Hosack, David",15,M,M
+"Madison, James","Armstrong, John Jr.",15,M,M
+"Jefferson, Randolph","Jefferson, Thomas",15,M,M
+"Plumer, William","Madison, James",15,M,M
+"Clay, Henry","Madison, James",15,M,M
+"Jefferson, Thomas","Spafford, Horatio Gates",15,M,M
+"Jefferson, Thomas","Rives, William Cabell",15,M,M
+"Plumer, William","Adams, John",15,M,M
+"Madison, James","Ingersoll, Charles Jared",15,M,M
+"Jefferson, Thomas","Bailey, Theodorus",15,M,M
+"Van der Kemp, François Adriaan","Adams, Abigail Smith",15,M,F
+"Madison, James","Carey, Mathew",15,M,M
+"Rush, Richard","Adams, Abigail Smith",15,M,F
+"Jefferson, Thomas","Ticknor, George",15,M,M
+"Niles, Hezekiah","Adams, John",15,M,M
+"Jefferson, Thomas","Garrett, Alexander",15,M,M
+"Gray, William F.","Madison, James",15,M,M
+"Jefferson, Thomas","University of Virginia Board of Visitors,",15,M,NA
+"Jefferson, Thomas","Thompson, Jonathan",15,M,M
+"Washington, George","Hog, Peter",14,M,M
+"Chew, Joseph","Washington, George",14,M,M
+"Kirkpatrick, John","Washington, George",14,M,M
+"Mercer, George","Washington, George",14,M,M
+"Washington, George","Stanwix, John",14,M,M
+"Franklin, Benjamin","Norris, Isaac",14,M,M
+"Washington, Richard","Washington, George",14,M,M
+"Whitehurst, John","Franklin, Benjamin",14,M,M
+"Franklin, Benjamin","Ross, John",14,M,M
+"Falconer, Nathaniel","Franklin, Benjamin",14,M,M
+"Jones, Noble Wimberly","Franklin, Benjamin",14,M,M
+"Ogilvie, James","Jefferson, Thomas",14,M,M
+"Harrison, Robert Hanson","Washington, George",14,M,M
+"Franklin, Benjamin","Williams, Jonathan Sr.",14,M,M
+"Adam, Robert","Washington, George",14,M,M
+"Hare-Naylor, Georgiana Shipley","Franklin, Benjamin",14,F,M
+"Willis, Francis Jr.","Washington, George",14,M,M
+"Adams, John","Inhabitants of Massachusetts Bay Colony,",14,M,NA
+"Novanglus,","Inhabitants of Massachusetts Bay Colony,",14,M,NA
+"Adams, John","Massachusettensis,",14,M,M
+"Novanglus,","Massachusettensis,",14,M,M
+"Tucker, St. George","Jefferson, Thomas",14,M,M
+"Jefferson, Thomas","Gilmer, George",14,M,M
+"Walker, John","Jefferson, Thomas",14,M,M
+"Langdon, John","Washington, George",14,M,M
+"Adams, John","Lee, Charles",14,M,M
+"Palfrey, William","Washington, George",14,M,M
+"Morgan, John","Washington, George",14,M,M
+"Jefferson, Thomas","Nelson, Thomas",14,M,M
+"Shaw, Nathaniel Jr.","Washington, George",14,M,M
+"Chaumont, Jacques-Donatien Le Ray de","Franklin, Benjamin",14,M,M
+"Washington, George","Shippen, William Jr.",14,M,M
+"Duportail, Louis Lebègue de Presle","Franklin, Benjamin",14,M,M
+"Hughes, Hugh","Washington, George",14,M,M
+"American Commissioners,","Jay, John",14,M,M
+"Jackson, Henry","Washington, George",14,M,M
+"Washington, George","Rutledge, John",14,M,M
+"Hazard, Ebenezer","Washington, George",14,M,M
+"Rutledge, John","Washington, George",14,M,M
+"Washington, George","Olney, Jeremiah",14,M,M
+"Rodney, Caesar A.","Washington, George",14,M,M
+"Washington, George","Hazelwood, John",14,M,M
+"Washington, George","Clark, John Jr.",14,M,M
+"Washington, George","Nicola, Lewis",14,M,M
+"Poor, Enoch","Washington, George",14,M,M
+"President of Congress,","Adams, John",14,NA,M
+"Clinton, George","Hamilton, Alexander",14,M,M
+"Shaw, Elizabeth Smith","Cranch, Mary Smith",14,F,F
+"Chalut, abbé","Franklin, Benjamin",14,M,M
+"Gérard de Rayneval, Joseph-Mathias","Franklin, Benjamin",14,M,M
+"Washington, William","Washington, George",14,M,M
+"Steuben, Baron von","Hamilton, Alexander",14,M,M
+"Rutledge, Edward","Jefferson, Thomas",14,M,M
+"Phillips, William","Jefferson, Thomas",14,M,M
+"Washington, George","Williams, Otho Holland",14,M,M
+"Clark, George Rogers","Jefferson, Thomas",14,M,M
+"Harrison, Benjamin Sr.","Washington, George",14,M,M
+"Innes, James","Jefferson, Thomas",14,M,M
+"Adams, John","Luzac, Jean",14,M,M
+"Jefferson, Thomas","Smith, John",14,M,M
+"Dana, Francis M.","Franklin, Benjamin",14,M,M
+"Cerisier, Antoine Marie","Adams, John",14,M,M
+"Muhlenberg, John Peter Gabriel","Jefferson, Thomas",14,M,M
+"Jefferson, Thomas","Brown, John",14,M,M
+"Syme, John","Jefferson, Thomas",14,M,M
+"Washington, George","Barras, Paul-François-Jean-Nicolas comte de",14,M,M
+"Jefferson, Thomas","Skipwith, Henry",14,M,M
+"Crèvecoeur, Michel Guillaume St. John de","Jefferson, Thomas",14,M,M
+"Read, Jacob","Washington, George",14,M,M
+"Adams, John","Willink, Van Staphorst and De la Lande & Fynje",14,M,M
+"Washington, George","Herbert, William",14,M,M
+"Madison, James","Lafayette, Marie-Joseph-Paul-Yves-Roch-Gilbert du Motier marquis de",14,M,M
+"Williamson, Hugh","Jefferson, Thomas",14,M,M
+"Ramsay, David","Jefferson, Thomas",14,M,M
+"Banister, John Jr.","Jefferson, Thomas",14,M,M
+"Jefferson, Thomas","Banister, John Jr.",14,M,M
+"Jefferson, Thomas","Langdon, John",14,M,M
+"Hamilton, Alexander","Low, Nicholas",14,M,M
+"Swan, James","Jefferson, Thomas",14,M,M
+"Baldwin, Abraham","Jefferson, Thomas",14,M,M
+"Hamilton, Alexander","Dayton, Jonathan",14,M,M
+"Willing, Thomas","Hamilton, Alexander",14,M,M
+"Leslie, Robert","Jefferson, Thomas",14,M,M
+"Gibbs, Caleb","Hamilton, Alexander",14,M,M
+"Jefferson, Thomas","Congress,",14,M,M
+"Ternant, Jean Baptiste","Hamilton, Alexander",14,M,M
+"Hamilton, Alexander","Collectors of the Customs,",14,M,NA
+"Jefferson, Thomas","Mease, James",14,M,M
+"Hamilton, Alexander","Pinckney, Thomas",14,M,M
+"Butler, Pierce","Madison, James",14,M,M
+"Breckinridge, John","Jefferson, Thomas",14,M,M
+"Peabody, Elizabeth Smith Shaw","Shaw, William Smith",14,F,M
+"Hamilton, Alexander","North, William",14,M,M
+"Strode, John","Jefferson, Thomas",14,M,M
+"Kirby, Ephraim","Jefferson, Thomas",14,M,M
+"Madison, James","Gerry, Elbridge",14,M,M
+"Brent, Daniel Carroll","Jefferson, Thomas",14,M,M
+"Wheaton, Joseph","Jefferson, Thomas",14,M,M
+"Jefferson, Thomas","Randolph, Anne Cary",14,M,F
+"Minor, John","Jefferson, Thomas",14,M,M
+"Jackson, Andrew","Jefferson, Thomas",14,M,M
+"Du Pont de Nemours, Eleuthère Irénée","Jefferson, Thomas",14,M,M
+"Destutt de Tracy, Antoine Louis Claude","Jefferson, Thomas",14,M,M
+"Griswold, Stanley","Madison, James",14,M,M
+"Digges, Thomas Attwood","Jefferson, Thomas",14,M,M
+"Fraser, Donald","Jefferson, Thomas",14,M,M
+"Brent, Robert","Madison, James",14,M,M
+"Hackley, Richard Shippey","Madison, James",14,M,M
+"Fulton, Robert","Jefferson, Thomas",14,M,M
+"Chisholm, Hugh","Jefferson, Thomas",14,M,M
+"Nelson, Hugh","Jefferson, Thomas",14,M,M
+"Gray, William F.","Jefferson, Thomas",14,M,M
+"Ligon, James","Jefferson, Thomas",14,M,M
+"Madison, James","Crowninshield, Benjamin W.",14,M,M
+"Jefferson, Thomas","Crawford, William Harris",14,M,M
+"Adams, Louisa Catherine Johnson","Adams, Mary Catherine Hellen",14,F,F
+"Jefferson, Thomas","Gelone, J. Louis Fernagus De",14,M,M
+"Adams, John","Treadway, Susanna Boylston Adams Clark",14,M,F
+"Madison, James","Sparks, Jared",14,M,M
+"Jackson, Richard","Franklin, Benjamin",13,M,M
+"Washington, George","Fairfax, William",13,M,M
+"Washington, Samuel","Washington, George",13,M,M
+"Washington, George","Mason, George",13,M,M
+"Washington, George","Crawford, William",13,M,M
+"Jefferson, Thomas","Fleming, William",13,M,M
+"Franklin, Benjamin","LeRoy, Jean Baptiste",13,M,M
+"Franklin, Benjamin","Rush, Benjamin",13,M,M
+"Foxcroft, John","Franklin, Benjamin",13,M,M
+"Shipley, Jonathan","Franklin, Benjamin",13,M,M
+"Connell, John","Washington, George",13,M,M
+"Franklin, Benjamin","Ingenhousz, Jan",13,M,M
+"Milnor, William","Washington, George",13,M,M
+"Washington, George","Dickinson, John",13,M,M
+"Jefferson, Thomas","Tucker, St. George",13,M,M
+"Watson, William","Washington, George",13,M,M
+"Bartlett, William","Washington, George",13,M,M
+"Washington, George","Putnam, Rufus",13,M,M
+"Adams, John","Sullivan, James",13,M,M
+"Hay, Ann Hawkes","Washington, George",13,F,M
+"Wharton, Thomas Jr.","Washington, George",13,M,M
+"Hartley, Thomas","Washington, George",13,M,M
+"Chase, Samuel","Washington, George",13,M,M
+"Wright, Patience","Franklin, Benjamin",13,F,M
+"Bingham, William","Adams, John",13,M,M
+"Franklin, Benjamin","La Rochefoucauld, Louis-Alexandre duc de La Roche-Guyon et de",13,M,M
+"Board of General Officers,","Washington, George",13,NA,M
+"Ross, James","Washington, George",13,M,M
+"Franklin, Benjamin","Vaughan, Benjamin",13,M,M
+"MacMahon, John","Franklin, Benjamin",13,M,M
+"Fleury, Marquis de","Hamilton, Alexander",13,M,M
+"Sayre, Stephen","Franklin, Benjamin",13,M,M
+"Holker, Jean","Franklin, Benjamin",13,M,M
+"Carmichael, William","Adams, John",13,M,M
+"Jameson, John","Washington, George",13,M,M
+"Coffyn, Francis","Adams, John",13,M,M
+"Washington, George","Board of General Officers,",13,M,NA
+"La Blancherie, Claude-Mammès Pahin de Champlain de","Franklin, Benjamin",13,M,M
+"Clough, Alexander","Washington, George",13,M,M
+"Ternant, Jean Baptiste","Washington, George",13,M,M
+"Flint, Royal","Washington, George",13,M,M
+"Smith, William","Adams, Abigail Smith",13,M,F
+"Washington, George","Heer, Bartholomew von",13,M,M
+"Washington, George","Van Cortlandt, Philip",13,M,M
+"Weare, Meshech","Washington, George",13,M,M
+"Hamilton, Alexander","Heath, William",13,M,M
+"Board of War,","Board of War,",13,NA,NA
+"Duane, James","Hamilton, Alexander",13,M,M
+"Gerry, Elbridge","Adams, Abigail Smith",13,M,F
+"Washington, George","Jones, Joseph",13,M,M
+"Washington, George","Rendón, Francisco",13,M,M
+"Castries, Charles-Eugène-Gabriel de La Croix marquis de","Franklin, Benjamin",13,M,M
+"Jefferson, Thomas","Greene, Nathanael",13,M,M
+"Washington, George","Lauzun, Armand-Louis de Gontaut Biron duc de",13,M,M
+"Banister, John","Jefferson, Thomas",13,M,M
+"Franklin, Benjamin","Jefferson, Thomas",13,M,M
+"Church, John B.","Hamilton, Alexander",13,M,M
+"Morris, Robert","Jefferson, Thomas",13,M,M
+"Hilliard d’Auberteuil, Michel-René","Franklin, Benjamin",13,M,M
+"Washington, George","Sands, Comfort",13,M,M
+"Jefferson, Thomas","Carr, Martha Jefferson",13,M,F
+"Madison, James","Mercer, John Francis",13,M,M
+"Powel, Elizabeth Willing","Washington, George",13,F,M
+"Eppes, Elizabeth Wayles","Jefferson, Thomas",13,F,M
+"Jefferson, Thomas","Crèvecoeur, Michel Guillaume St. John de",13,M,M
+"Hooe, Robert Townsend","Washington, George",13,M,M
+"Bowen, Jabez","Adams, John",13,M,M
+"Higginson, Stephen","Adams, John",13,M,M
+"Jefferson, Thomas","Ramsay, David",13,M,M
+"Ledyard, John","Jefferson, Thomas",13,M,M
+"Tessé, Adrienne Catherine de Noailles Comtesse de","Jefferson, Thomas",13,F,M
+"Adams, John","Osborne, Francis Godolphin",13,M,M
+"Montgomery, Robert","Jefferson, Thomas",13,M,M
+"Jefferson, Thomas","Rutledge, John Jr.",13,M,M
+"Welsh, Thomas","Adams, John",13,M,M
+"Brown, John","Madison, James",13,M,M
+"Washington, George","House of Representatives,",13,M,NA
+"Randolph, Edmund","Adams, John",13,M,M
+"Lear, Tobias","Biddle, Clement",13,M,M
+"Pinckney, Thomas","Washington, George",13,M,M
+"Jefferson, Thomas","Jefferson, John Garland",13,M,M
+"Jefferson, Thomas","Harrison, Richard",13,M,M
+"Meredith, Samuel","Adams, John",13,M,M
+"Hamilton, Alexander","Muhlenberg, Frederick A. C.",13,M,M
+"Church, Edward","Jefferson, Thomas",13,M,M
+"Fay, Joseph","Jefferson, Thomas",13,M,M
+"Campbell, David","Jefferson, Thomas",13,M,M
+"Otis, Mary Smith Gray","Adams, Abigail Smith",13,F,F
+"Jefferson, Thomas","Divers, George",13,M,M
+"Monroe, James","Hamilton, Alexander",13,M,M
+"Jefferson, Thomas","Clinton, George",13,M,M
+"Randolph, Edmund","Knox, Henry",13,M,M
+"Jefferson, Thomas","Williams, Jonathan",13,M,M
+"Anonymous,","Adams, John",13,M,M
+"St. Clair, Arthur","Adams, John",13,M,M
+"Jefferson, Thomas","Strode, John",13,M,M
+"Hamilton, Alexander","Ingersoll, George",13,M,M
+"Hamilton, Alexander","Morris, Staats",13,M,M
+"Adlum, John","Hamilton, Alexander",13,M,M
+"Jefferson, Thomas","Wilkinson, James",13,M,M
+"Moody, John","Jefferson, Thomas",13,M,M
+"Madison, James","Hite, Isaac",13,M,M
+"Madison, James","Stevens, Ebenezer",13,M,M
+"Randolph, David Meade","Madison, James",13,M,M
+"Coxe, Charles D.","Madison, James",13,M,M
+"Muhlenberg, J. P. G.","Jefferson, Thomas",13,M,M
+"Christie, Gabriel","Madison, James",13,M,M
+"Woodward, Augustus B.","Jefferson, Thomas",13,M,M
+"Higginbotham, David","Jefferson, Thomas",13,M,M
+"Ellery, Christopher","Madison, James",13,M,M
+"Jefferson, Thomas","Lee, William",13,M,M
+"Jefferson, Thomas","Bradley, Abraham Jr.",13,M,M
+"Rafinesque, Constantine Samuel","Jefferson, Thomas",13,M,M
+"Harris, Levett","Jefferson, Thomas",13,M,M
+"Jefferson, Thomas","Taggert, John",13,M,M
+"Roche, Peter","Jefferson, Thomas",13,M,M
+"Mills, Robert","Jefferson, Thomas",13,M,M
+"Ronaldson, James","Jefferson, Thomas",13,M,M
+"Adams, Abigail Smith","Adams, Sarah Smith",13,F,F
+"Jefferson, Thomas","Alexander, Eli",13,M,M
+"Rose, George Henry","Madison, James",13,M,M
+"Gibbon, James","Jefferson, Thomas",13,M,M
+"Meriwether, William D.","Jefferson, Thomas",13,M,M
+"Bentley, William","Madison, James",13,M,M
+"Bentley, William","Adams, John",13,M,M
+"Adams, John","Plumer, William",13,M,M
+"Minor, Peter","Jefferson, Thomas",13,M,M
+"Russell, Jonathan","Madison, James",13,M,M
+"Adams, John","Spafford, Horatio Gates",13,M,M
+"Adams, Abigail Smith","Rush, Richard",13,F,M
+"Madison, James","Graham, George",13,M,M
+"Madison, James","Tucker, George",13,M,M
+"Scott, Alexander","Madison, James",13,M,M
+"Jefferson, Thomas","Dearborn, Henry Alexander Scammell",13,M,M
+"Adams, John Quincy","Jefferson, Thomas",13,M,M
+"Adams, John","Tudor, William Jr.",13,M,M
+"Adams, George Washington","Adams, Louisa Catherine Johnson",13,M,F
+"Dunglison, Robley","Jefferson, Thomas",13,M,M
+"Franklin, Benjamin","Elliott, Jared",12,M,M
+"Franklin, Benjamin","Johnson, Samuel",12,M,M
+"Franklin, Benjamin","Stiles, Ezra",12,M,M
+"Franklin, Benjamin","Williams, Jonathan",12,M,M
+"Nicholas, Robert Carter","Washington, George",12,M,M
+"Stanwix, John","Washington, George",12,M,M
+"Smith, William","Washington, George",12,M,M
+"Washington, George","Blair, John",12,M,M
+"Washington, George","Fauquier, Francis",12,M,M
+"Franklin, Benjamin","Kames, Henry Home Lord",12,M,M
+"Bassett, Burwell","Washington, George",12,M,M
+"Franklin, Benjamin","Todd, Anthony",12,M,M
+"Pennsylvania Assembly Committee of Correspondence,","Franklin, Benjamin",12,NA,M
+"Palmer, Joseph","Adams, John",12,M,M
+"Henly, William","Franklin, Benjamin",12,M,M
+"Franklin, Benjamin","Bache, Sarah Franklin",12,M,F
+"Franklin, Benjamin","Foxcroft, John",12,M,M
+"Washington, George","Tayloe, John",12,M,M
+"Page, John","Washington, George",12,M,M
+"Gilmer, George","Jefferson, Thomas",12,M,M
+"New York Committee of Safety,","Washington, George",12,NA,M
+"Osgood, Samuel","Adams, John",12,M,M
+"Washington, George","Trumbull, Joseph",12,M,M
+"Adams, John","Lee, Richard Henry",12,M,M
+"Cheever, Ezekiel","Washington, George",12,M,M
+"Jefferson, Thomas","Henry, Patrick",12,M,M
+"Harrison, Robert Hanson","Hancock, John",12,M,M
+"Duer, William","Washington, George",12,M,M
+"Gérard, Conrad-Alexandre","Franklin, Benjamin",12,M,M
+"Barry, Amelia","Franklin, Benjamin",12,F,M
+"Febiger, Christian","Washington, George",12,M,M
+"Hamilton, Alexander","New York Committee of Correspondence,",12,M,NA
+"Washington, George","White, Anthony Walton",12,M,M
+"Caffiéri, Jean-Jacques","Franklin, Benjamin",12,M,M
+"Hamilton, Alexander","Duer, William",12,M,M
+"Lebègue de Presle, Achille-Guillaume","Franklin, Benjamin",12,M,M
+"Hamilton, Alexander","Dayton, Elias",12,M,M
+"Washington, George","Ogden, Matthias",12,M,M
+"Johnson, Joshua","Franklin, Benjamin",12,M,M
+"Read, George","Washington, George",12,M,M
+"Washington, George","Scull, Peter",12,M,M
+"Coffyn, Francis","American Commissioners,",12,M,M
+"Coffyn, Francis","Lee, Arthur",12,M,M
+"Seely, Silvanus","Washington, George",12,M,M
+"Ridley, Matthew","Franklin, Benjamin",12,M,M
+"Jones, John Paul","First Joint Commission at Paris,",12,M,M
+"Jefferson, Thomas","Baker, Jerman",12,M,M
+"Van Cortlandt, Philip","Washington, George",12,M,M
+"Montgomery, Robert","Adams, John",12,M,M
+"Lewis, George","Washington, George",12,M,M
+"Marat, Jean-Paul","Franklin, Benjamin",12,M,M
+"Franklin, Benjamin","Gourlade & Moylan,",12,M,M
+"Franklin, Benjamin","Torris, John",12,M,M
+"Washington, George","Lewis, Betty Washington",12,M,F
+"Chavagnes, Bidé de","Adams, John",12,M,M
+"Jefferson, Thomas","Innes, James",12,M,M
+"Adams, John","Digges, Thomas",12,M,M
+"Meredith, Samuel","Washington, George",12,M,M
+"Jefferson, Thomas","Buchanan, James",12,M,M
+"Jones, Joseph","Jefferson, Thomas",12,M,M
+"Jefferson, Thomas","Stevens, Edward",12,M,M
+"Franklin, Benjamin","Castries, Charles-Eugène-Gabriel de La Croix marquis de",12,M,M
+"Stevens, Nathaniel","Washington, George",12,M,M
+"Sullivan, John","Jefferson, Thomas",12,M,M
+"Barry, John","Franklin, Benjamin",12,M,M
+"Pierres, Philippe-Denis","Franklin, Benjamin",12,M,M
+"Storer, Charles","Adams, Abigail Smith",12,M,F
+"Adams, John","Lincoln, Benjamin",12,M,M
+"Washington, George","Parker, Daniel",12,M,M
+"Hawkins, Benjamin","Madison, James",12,M,M
+"Thulemeier, Friedrich Wilhelm Baron von","Adams, John",12,M,M
+"Williamson, Hugh","Washington, George",12,M,M
+"Washington, George","Hooe, Robert Townsend",12,M,M
+"Washington, George","Randolph, Beverley",12,M,M
+"Washington, George","Hartshorne, William",12,M,M
+"Morellet, Abbé","Jefferson, Thomas",12,M,M
+"Washington, George","Keith, James",12,M,M
+"Smith, William","Adams, John",12,M,M
+"Vergennes, Charles Gravier comte de","Jefferson, Thomas",12,M,M
+"Stockdale, John","Jefferson, Thomas",12,M,M
+"Madison, Ambrose","Madison, James",12,M,M
+"Campbell, Arthur","Madison, James",12,M,M
+"Barclay, Thomas","American Peace Commissioners,",12,M,M
+"Jefferson, Thomas","Paradise, John",12,M,M
+"Brissot de Warville, Jacques Pierre","Jefferson, Thomas",12,M,M
+"Jefferson, Thomas","Vaughan, Benjamin",12,M,M
+"Moustier, Elénore François Elie Comte de","Washington, George",12,F,M
+"Jefferson, Thomas","Church, Angelica Schuyler",12,M,F
+"Shippen, Thomas Lee","Jefferson, Thomas",12,M,M
+"Brown, John","Jefferson, Thomas",12,M,M
+"Strode, John","Madison, James",12,M,M
+"Madison, James","Peters, Richard",12,M,M
+"Walker, Benjamin","Hamilton, Alexander",12,M,M
+"Ogden, John C.","Washington, George",12,M,M
+"Pinckney, Charles","Washington, George",12,M,M
+"Daves, John","Hamilton, Alexander",12,M,M
+"Randolph, David Meade","Jefferson, Thomas",12,M,M
+"Hamilton, Alexander","Cochran, John",12,M,M
+"Stagg, John Jr.","Lear, Tobias",12,M,M
+"Hamilton, Alexander","Carrington, Edward",12,M,M
+"Jefferson, Thomas","Sullivan, James",12,M,M
+"Hamilton, Alexander","Ternant, Jean Baptiste",12,M,M
+"Sinclair, John","Adams, John",12,M,M
+"Simpson, James","Jefferson, Thomas",12,M,M
+"Jefferson, Thomas","Edwards, Enoch",12,M,M
+"Bradford, William","Hamilton, Alexander",12,M,M
+"Montgomery, John","Madison, James",12,M,M
+"Jefferson, Thomas","Volney, Constantin François Chasseboeuf Comte de",12,M,M
+"Adams, John","Malcom, Samuel B.",12,M,M
+"Galloway, Benjamin","Jefferson, Thomas",12,M,M
+"Guest, Henry","Adams, John",12,M,M
+"Ingersoll, George","Hamilton, Alexander",12,M,M
+"Hamilton, Alexander","Rivardi, John J. U.",12,M,M
+"Bradley, Daniel","Hamilton, Alexander",12,M,M
+"Griffith, Elijah","Jefferson, Thomas",12,M,M
+"Hamilton, Alexander","Eddins, Samuel",12,M,M
+"Livingston, Edward","Jefferson, Thomas",12,M,M
+"Taylor, William","Madison, James",12,M,M
+"Blakeley, Josiah","Madison, James",12,M,M
+"Jefferson, Thomas","Claxton, Thomas",12,M,M
+"Smith, John","Madison, James",12,M,M
+"Davis, John","Jefferson, Thomas",12,M,M
+"Cheetham, James","Jefferson, Thomas",12,M,M
+"Gore, Christopher","Madison, James",12,M,M
+"Eustis, William","Jefferson, Thomas",12,M,M
+"Navoni, Francois de","Madison, James",12,M,M
+"Briggs, Isaac","Madison, James",12,M,M
+"Jefferson, Thomas","Bollmann, Justus Erich",12,M,M
+"Jefferson, Thomas","Crowninshield, Jacob",12,M,M
+"Blackledge, William","Madison, James",12,M,M
+"Madison, James","Smith, Samuel",12,M,M
+"Chouteau, Pierre","Jefferson, Thomas",12,M,M
+"Morgan, Benjamin","Jefferson, Thomas",12,M,M
+"Price, Chandler","Jefferson, Thomas",12,M,M
+"Horst, Elias Vander","Madison, James",12,M,M
+"Bates, Frederick","Madison, James",12,M,M
+"Carr, Dabney","Jefferson, Thomas",12,M,M
+"Jefferson, Thomas","Freeman, John Holmes",12,M,M
+"Boylston, Ward Nicholas","Adams, John Quincy",12,M,M
+"McCulloch, James H.","Jefferson, Thomas",12,M,M
+"Rodney, Caesar Augustus","Madison, James",12,M,M
+"Anderson, Joseph","Madison, James",12,M,M
+"Jefferson, Thomas","Meriwether, William D.",12,M,M
+"Lewis, Morgan","Madison, James",12,M,M
+"Van Ness, John Peter","Madison, James",12,M,M
+"Lehré, Thomas","Madison, James",12,M,M
+"Fulton, Robert","Madison, James",12,M,M
+"Logan, George","Madison, James",12,M,M
+"Madison, James","Duponceau, Peter Stephen",12,M,M
+"Willett, Marinus","Madison, James",12,M,M
+"Jefferson, Thomas","Johnson, Chapman",12,M,M
+"Waterhouse, Benjamin","Madison, James",12,M,M
+"Ritchie, Thomas","Jefferson, Thomas",12,M,M
+"McKenney, Thomas L.","Madison, James",12,M,M
+"Jefferson, Thomas","Duponceau, Peter Stephen",12,M,M
+"Smith, John Adams","Bentham, Jeremy",12,M,M
+"Pini, Elisabetta Mazzei","Jefferson, Thomas",12,F,M
+"Pini, Andrea","Jefferson, Thomas",12,F,M
+"Jefferson, Thomas","Dodge, Joshua",12,M,M
+"Hemings, John","Jefferson, Thomas",12,M,M
+"Breckinridge, James","Jefferson, Thomas",12,M,M
+"Jefferson, Thomas","Hatch, Frederick Winslow",12,M,M
+"Kean, John V.","Jefferson, Thomas",12,M,M
+"Allen, William","Madison, James",12,M,M
+"Washington, George","Bell, David",11,M,M
+"Washington, George","McKenzie, Robert",11,M,M
+"Washington, George","Walker, Thomas",11,M,M
+"Tayloe, John","Washington, George",11,M,M
+"Franklin, Benjamin","Canton, John",11,M,M
+"Washington, George","Didsbury, John",11,M,M
+"Franklin, Benjamin","Colden, Alexander",11,M,M
+"Marshall, Thomas Hanson","Washington, George",11,M,M
+"Managers of the Pennsylvania Hospital,","Franklin, Benjamin",11,NA,M
+"Franklin, Benjamin","Greene, Catharine",11,M,F
+"Jefferson, Thomas","Preston, William",11,M,M
+"Gilpin, Thomas","Franklin, Benjamin",11,M,M
+"Walsh, John","Franklin, Benjamin",11,M,M
+"Franklin, Benjamin","Priestley, Joseph",11,M,M
+"Washington, George","Dunmore, John Murray fourth earl of",11,M,M
+"Morellet, abbé André","Franklin, Benjamin",11,M,M
+"Freneau, Philip","Madison, James",11,M,M
+"Crawford, Valentine","Washington, George",11,M,M
+"Adams, John","Palmer, Joseph",11,M,M
+"Dodge, Richard","Washington, George",11,M,M
+"Washington, George","Massachusetts Council,",11,M,M
+"Washington, George","Woodhull, Nathaniel",11,M,M
+"Parsons, Samuel Holden","Adams, John",11,M,M
+"Adams, John","Greene, Nathanael",11,M,M
+"Penet, Pierre","Franklin, Benjamin",11,M,M
+"Gerry, Elbridge","Washington, George",11,M,M
+"Washington, George","Rutledge, Edward",11,M,M
+"Rutledge, Edward","Washington, George",11,M,M
+"Caldwell, James","Washington, George",11,M,M
+"Cochran, John","Washington, George",11,M,M
+"Grand, Isaac-Jean-Georges-Jonas","Franklin, Benjamin",11,M,M
+"Livingston, Robert R.","Hamilton, Alexander",11,M,M
+"Gébelin, Antoine Court de","Franklin, Benjamin",11,M,M
+"Washington, George","Lovell, James",11,M,M
+"Nicholson, Samuel","American Commissioners,",11,M,M
+"Nicholson, Samuel","Deane, Silas",11,M,M
+"Nicholson, Samuel","Franklin, Benjamin",11,M,M
+"Nicholson, Samuel","Lee, Arthur",11,M,M
+"Hamilton, Alexander","Livingston, Robert R.",11,M,M
+"Lee, William","American Commissioners,",11,M,M
+"Lee, William","Lee, Arthur",11,M,M
+"Franklin, Benjamin","Lovell, James",11,M,M
+"Greene, Christopher","Washington, George",11,M,M
+"Washington, George","Read, George",11,M,M
+"Sherman, Isaac","Washington, George",11,M,M
+"Washington, George","Lewis, George",11,M,M
+"Washington, George","Lacey, John Jr.",11,M,M
+"Washington, George","Taylor, John",11,M,M
+"Fournier, Simon-Pierre le jeune","Franklin, Benjamin",11,M,M
+"Franklin, Benjamin","Carmichael, William",11,M,M
+"Gibson, George","Washington, George",11,M,M
+"Arnoux, abbé","Franklin, Benjamin",11,M,M
+"Ridley, Matthew","Adams, John",11,M,M
+"Lloyd, Richard Bennett","Franklin, Benjamin",11,M,M
+"Schweighauser, John Daniel","Adams, John",11,M,M
+"Nixon, John","Washington, George",11,M,M
+"Knyphausen, Wilhelm von","Washington, George",11,M,M
+"Board of Trade,","Board of Trade,",11,NA,NA
+"Huntington, Samuel","Adams, John",11,M,M
+"Huntington, Samuel","Franklin, Benjamin",11,M,M
+"Washington, George","The States,",11,M,M
+"Dayton, Jonathan","Washington, George",11,M,M
+"Jefferson, Thomas","Lawson, Robert",11,M,M
+"Slaughter, George","Jefferson, Thomas",11,M,M
+"Adams, John","Mazzei, Philip",11,M,M
+"Lawson, Robert","Jefferson, Thomas",11,M,M
+"Laurens, John","Franklin, Benjamin",11,M,M
+"Gamble, Robert","Jefferson, Thomas",11,M,M
+"Davies, William","Davies, William",11,M,M
+"Washington, George","Villefranche de Genton, Jean-Louis-Ambroise chevalier de",11,M,M
+"Washington, George","Carroll, Daniel",11,M,M
+"Jefferson, Thomas","Morris, Robert",11,M,M
+"Washington, George","Jackson, William",11,M,M
+"Washington, George","L’Enfant, Pierre Charles",11,M,M
+"Butler, Pierce","Washington, George",11,M,M
+"Parker, Daniel","Washington, George",11,M,M
+"Jefferson, Thomas","Hawkins, Benjamin",11,M,M
+"Hawkins, Benjamin","Washington, George",11,M,M
+"Webster, Noah","Madison, James",11,M,M
+"Humphreys, David","Adams, John",11,M,M
+"McCarty, William","Jefferson, Thomas",11,M,M
+"Paradise, John","Jefferson, Thomas",11,M,M
+"Jefferson, Thomas","Tessé, Adrienne Catherine de Noailles Comtesse de",11,M,F
+"Madison, James","Dawson, John",11,M,M
+"Jefferson, Thomas","Rutledge, Edward",11,M,M
+"Jefferson, Thomas","Fenwick, Joseph",11,M,M
+"Adams, John","Hollis, Thomas Brand",11,M,M
+"Washington, George","Hanson, Samuel (of Samuel)",11,M,M
+"Thoüin, André","Jefferson, Thomas",11,M,M
+"Gates, Horatio","Madison, James",11,M,M
+"Madison, James","Carroll, Daniel",11,M,M
+"Randolph, Beverley","Madison, James",11,M,M
+"Seagrove, James","Washington, George",11,M,M
+"Jefferson, Thomas","Cutting, Nathaniel",11,M,M
+"Hamilton, Alexander","Smith, Thomas",11,M,M
+"Whipple, Oliver","Adams, John",11,M,M
+"Jackson, William","Hamilton, Alexander",11,M,M
+"Jefferson, Thomas","Steele, John",11,M,M
+"Cabot, George","Hamilton, Alexander",11,M,M
+"Jefferson, Thomas","Blount, William",11,M,M
+"Edwards, Pierpont","Jefferson, Thomas",11,M,M
+"Auldjo, Thomas","Jefferson, Thomas",11,M,M
+"Pintard, John Marsden","Jefferson, Thomas",11,M,M
+"L’Enfant, Pierre Charles","Hamilton, Alexander",11,M,M
+"Dallas, Alexander J.","Jefferson, Thomas",11,M,M
+"Carey, John","Jefferson, Thomas",11,M,M
+"Adams, John","Anonymous,",11,M,M
+"Moylan, Stephen","Hamilton, Alexander",11,M,M
+"Madison, James","Joy, George",11,M,M
+"Hamilton, Alexander","Purviance, Robert",11,M,M
+"Sevier, John","Madison, James",11,M,M
+"Jefferson, Thomas","Madison, Bishop James",11,M,M
+"Washington, George","Cabinet,",11,M,M
+"Howell, Joseph Jr.","Hamilton, Alexander",11,M,M
+"Jefferson, Thomas","Richardson, Richard",11,M,M
+"Hamilton, Alexander","Adlum, John",11,M,M
+"Jefferson, Thomas","Dunbar, William",11,M,M
+"Shaw, William Smith","Adams, John Quincy",11,M,M
+"Smith, William Stephens","Smith, Abigail Amelia Adams",11,M,F
+"Lyon, James","Jefferson, Thomas",11,M,M
+"Leib, Michael","Jefferson, Thomas",11,M,M
+"Bird, Savage and Bird","Madison, James",11,M,M
+"Truxtun, Thomas","Jefferson, Thomas",11,M,M
+"Cranch, William","Jefferson, Thomas",11,M,M
+"Elmslie, John","Madison, James",11,M,M
+"Caruthers, William","Jefferson, Thomas",11,M,M
+"Madison, James","Rodney, Caesar A.",11,M,M
+"Preston, Francis","Madison, James",11,M,M
+"Jefferson, Thomas","Wagner, Jacob",11,M,M
+"Granger, Gideon","Madison, James",11,M,M
+"Jefferson, Thomas","Nicholson, Joseph H.",11,M,M
+"Ross, James","Madison, James",11,M,M
+"Madison, James","Simpson, James",11,M,M
+"Madison, James","Hull, William",11,M,M
+"Moore, Thomas","Jefferson, Thomas",11,M,M
+"Jefferson, Thomas","Muhlenberg, J. P. G.",11,M,M
+"Jefferson, Thomas","Armstrong, John",11,M,M
+"Fitz, Gideon","Jefferson, Thomas",11,M,M
+"Stevens, John","Madison, James",11,M,M
+"Clark, William","Madison, James",11,M,M
+"Newton, Thomas Jr.","Madison, James",11,M,M
+"Shee, John","Jefferson, Thomas",11,M,M
+"Mercer, John","Madison, James",11,M,M
+"Adams, Thomas Boylston","Meredith, William",11,M,M
+"Quincy, Josiah III","Adams, John Quincy",11,M,M
+"Allen, Ira","Madison, James",11,M,M
+"Sanford, Nathan","Madison, James",11,M,M
+"Jefferson, Thomas","Burwell, William Armistead",11,M,M
+"Stokely, John","Jefferson, Thomas",11,M,M
+"Evans, Oliver","Jefferson, Thomas",11,M,M
+"Roche, Christian","Jefferson, Thomas",11,M,M
+"Madison, James","Patterson, Robert",11,M,M
+"Madison, Dolley Payne Todd","Madison, James",11,F,M
+"Fox, Robert Were","Madison, James",11,M,M
+"Jefferson, Thomas","Shoemaker, Jonathan",11,M,M
+"Niles, Hezekiah","Jefferson, Thomas",11,M,M
+"Adams, John","Bentley, William",11,M,M
+"Delaplaine, Joseph","Madison, James",11,M,M
+"Morris, Anthony","Madison, James",11,M,M
+"Gordon, Hendrick W.","Adams, John",11,M,M
+"Rush, Julia Stockton","Adams, Abigail Smith",11,F,F
+"Delaplaine, Joseph","Adams, John",11,M,M
+"Adams, John","Delaplaine, Joseph",11,M,M
+"Jefferson, Thomas","LeRoy, Bayard & Co.",11,M,M
+"Mackay & Campbell,","Madison, James",11,M,M
+"Madison, James","Gray, William F.",11,M,M
+"Jefferson, Thomas","Dunglison, Robley",11,M,M
+"Brockenbrough, Arthur S.","Madison, James",11,M,M
+"Madison, James","Garrett, Alexander",11,M,M
+"Johnson, Chapman","Madison, James",11,M,M
+"Madison, James","Johnson, Chapman",11,M,M
+"Madison, James","Grimké, Thomas S.",11,M,M
+"Franklin, Benjamin","Franklin, John",10,M,M
+"Franklin, Benjamin","Peters, Richard",10,M,M
+"Washington, George","Innes, James",10,M,M
+"Washington, George","Fairfax, Sarah Cary",10,M,F
+"Walker, Thomas","Washington, George",10,M,M
+"Franklin, Benjamin","Bartram, John",10,M,M
+"Washington, George","St. Clair, John",10,M,M
+"Washington, George","Smith, Charles",10,M,M
+"Adams, John","Dalton, Tristram",10,M,M
+"Gildart, James","Washington, George",10,M,M
+"Franklin, Benjamin","Winthrop, John",10,M,M
+"Stevenson, Margaret","Franklin, Benjamin",10,F,M
+"Adams, John","Cushing, Thomas",10,M,M
+"Roberdeau, Daniel","Franklin, Benjamin",10,M,M
+"McCaul, Alexander","Jefferson, Thomas",10,M,M
+"Managers of the Pennsylvania Hospital,","Barclay, David Junior",10,NA,M
+"Managers of the Pennsylvania Hospital,","Fothergill, John",10,NA,M
+"Madison, Rev. James","Jefferson, Thomas",10,M,M
+"Jefferson, Thomas","Minor, John",10,M,M
+"Washington, George","Lewis, Thomas",10,M,M
+"Warren, James","Washington, George",10,M,M
+"Thomas, John","Washington, George",10,M,M
+"Franklin, Benjamin","Deane, Silas",10,M,M
+"Woodhull, Nathaniel","Washington, George",10,M,M
+"Washington, George","Tupper, Benjamin",10,M,M
+"Sullivan, John","Adams, John",10,M,M
+"Washington, George","Carter, Landon",10,M,M
+"Greene, Nathanael","Adams, John",10,M,M
+"Washington, George","Cheever, Ezekiel",10,M,M
+"Franklin, Benjamin","Dickinson, John",10,M,M
+"Schweighauser, John Daniel","Franklin, Benjamin",10,M,M
+"Washington, George","Henley, David",10,M,M
+"Spencer, Oliver","Washington, George",10,M,M
+"Mason, David","Washington, George",10,M,M
+"Washington, George","Gibbs, Caleb",10,M,M
+"Butler, Zebulon","Washington, George",10,M,M
+"Washington, George","Powell, Jeremiah",10,M,M
+"Washington, George","Gist, Mordecai",10,M,M
+"Pennsylvania Supreme Executive Council,","Washington, George",10,M,M
+"Conway, Thomas","Washington, George",10,M,M
+"Washington, George","Gill, John",10,M,M
+"Hazelwood, John","Washington, George",10,M,M
+"Craig, Charles","Washington, George",10,M,M
+"Mentges, Francis","Washington, George",10,M,M
+"Committee for Foreign Affairs,","Adams, John",10,M,M
+"Ross, John","Adams, John",10,M,M
+"Ross, John","American Commissioners,",10,M,M
+"Ross, John","Lee, Arthur",10,M,M
+"Vernon, William Sr.","Adams, John",10,M,M
+"Vergennes, Charles Gravier comte de","First Joint Commission at Paris,",10,M,M
+"Neilson, John","Washington, George",10,M,M
+"Barber, Francis","Washington, George",10,M,M
+"Washington, George","Lamb, John",10,M,M
+"Austin, Jonathan Loring","Franklin, Benjamin",10,M,M
+"Griffin, Cyrus","Jefferson, Thomas",10,M,M
+"Washington, George","Steuben, Baron von",10,M,M
+"Price, Richard","Adams, John",10,M,M
+"Mason, George","Jefferson, Thomas",10,M,M
+"Adams, John","Marchant, Henry",10,M,M
+"Washington, George","Bowen, Jabez",10,M,M
+"Washington, George","La Luzerne, Chevalier de",10,M,M
+"Geismar, Baron von","Jefferson, Thomas",10,M,M
+"Kalb, Frédéric baron de","Washington, George",10,M,M
+"Washington, George","Committee of Cooperation,",10,M,NA
+"Jefferson, Thomas","Nash, Abner",10,M,M
+"Adams, John","Calkoen, Hendrik",10,M,M
+"Capellen tot den Pol, Joan Derk Baron van der","Adams, John",10,M,M
+"Vioménil, Antoine-Charles du Houx baron de","Washington, George",10,M,M
+"Lauzun, Armand-Louis de Gontaut Biron duc de","Washington, George",10,M,M
+"Crockett, Joseph","Jefferson, Thomas",10,M,M
+"Senf, John Christian","Jefferson, Thomas",10,M,M
+"Jefferson, Thomas","Auditors,",10,M,M
+"Adams, John","La Vauguyon, Paul François de Quélen de Stuer de Causade Duc de",10,M,M
+"Washington, George","Moylan, John",10,M,M
+"White, Alexander","Jefferson, Thomas",10,M,M
+"Jefferson, Thomas","Madison, Rev. James",10,M,M
+"Campbell, Arthur","Washington, George",10,M,M
+"House of Delegates,","Virginia Delegates,",10,NA,M
+"Morris, Robert","Adams, John",10,M,M
+"Le Mayeur, Jean-Pierre","Washington, George",10,M,M
+"Willard, Joseph","Adams, John",10,M,M
+"Jefferson, Thomas","Trist, Eliza House",10,M,F
+"Trist, Eliza House","Jefferson, Thomas",10,F,M
+"Jefferson, Thomas","Jones, Joseph",10,M,M
+"Washington, George","Vaughan, Samuel",10,M,M
+"Mandrillon, Joseph","Washington, George",10,M,M
+"Jefferson, Thomas","Garvey, Anthony",10,M,M
+"Hartshorne, William","Washington, George",10,M,M
+"Keith, James","Washington, George",10,M,M
+"Washington, George","Carey, Mathew",10,M,M
+"Carey, Mathew","Washington, George",10,M,M
+"Jefferson, Thomas","Hay, William",10,M,M
+"Jefferson, Thomas","Nicolas & Jacob van Staphorst,",10,M,M
+"King, Rufus","Jefferson, Thomas",10,M,M
+"Livingston, Walter","Hamilton, Alexander",10,M,M
+"Loreilhe, Zachariah","Jefferson, Thomas",10,M,M
+"Washington, George","Moultrie, William",10,M,M
+"Peters, Richard","Jefferson, Thomas",10,M,M
+"Barrett, Nathaniel","Jefferson, Thomas",10,M,M
+"Wakelin Welch & Son,","Washington, George",10,M,M
+"Parent (Parant), M.","Jefferson, Thomas",10,M,M
+"Jefferson, Thomas","Moustier, Elénore François Elie Comte de",10,M,F
+"Church, Angelica Schuyler","Hamilton, Alexander",10,F,M
+"Ast, Frederick William","Jefferson, Thomas",10,M,M
+"Boudinot, Elias","Madison, James",10,M,M
+"Stevens, Edward","Madison, James",10,M,M
+"Governor of Virginia,","Madison, James",10,NA,M
+"Adams, John","Belknap, Jeremy",10,M,M
+"United States House of Representatives,","Washington, George",10,NA,M
+"Ellicott, Andrew","Washington, George",10,M,M
+"Fitzgerald, John","Hamilton, Alexander",10,M,M
+"Randolph, Beverley","Hamilton, Alexander",10,M,M
+"Hamilton, Alexander","FitzSimons, Thomas",10,M,M
+"Thomas, Abishai","Hamilton, Alexander",10,M,M
+"Deakins, Francis","Washington, George",10,M,M
+"Smith, Daniel","Jefferson, Thomas",10,M,M
+"Jefferson, Thomas","Lindsay, Adam",10,M,M
+"Vall-travers, Rodolph (Rodolf)","Washington, George",10,M,M
+"Washington, George","Pinckney, Thomas",10,M,M
+"Taylor, George Jr.","Jefferson, Thomas",10,M,M
+"Ross, David","Hamilton, Alexander",10,M,M
+"Dandridge, Bartholomew Jr.","Jefferson, Thomas",10,M,M
+"Dandridge, Bartholomew Jr.","Hamilton, Alexander",10,M,M
+"Gill, John","Washington, George",10,M,M
+"Madison, James","Adams, John",10,M,M
+"Giles, William Branch","Madison, James",10,M,M
+"Tazewell, Henry","Madison, James",10,M,M
+"Lafayette, George Washington Motier","Washington, George",10,M,M
+"Langdon, John","Madison, James",10,M,M
+"Girard, Stephen","Madison, James",10,M,M
+"Pickering, Timothy","Madison, James",10,M,M
+"Wilkinson, James","Adams, John",10,M,M
+"Jefferson, Thomas","Brown, Samuel",10,M,M
+"Monroe, James","Adams, John",10,M,M
+"Priestley, Joseph","Jefferson, Thomas",10,M,M
+"Jefferson, Thomas","Mitchill, Samuel Latham",10,M,M
+"Smith, Samuel Harrison","Madison, James",10,M,M
+"Burr, Aaron","Madison, James",10,M,M
+"Armstrong, John","Jefferson, Thomas",10,M,M
+"Yrujo, Carlos Martínez de","Jefferson, Thomas",10,M,M
+"Stoddert, Benjamin","Jefferson, Thomas",10,M,M
+"Wheaton, Joseph","Adams, John",10,M,M
+"Bryan, Samuel","Jefferson, Thomas",10,M,M
+"Jefferson, Thomas","Gibson & Jefferson,",10,M,M
+"Lenox, David","Madison, James",10,M,M
+"Keteltas, William","Jefferson, Thomas",10,M,M
+"Barnet, Isaac Cox","Jefferson, Thomas",10,M,M
+"Holmes, Hugh","Jefferson, Thomas",10,M,M
+"Jefferson, Thomas","Eustis, William",10,M,M
+"Jefferson, Thomas","Voigt, Henry",10,M,M
+"Blake, James","Madison, James",10,M,M
+"Adams, John Quincy","Hellen, Walter",10,M,M
+"Crowninshield, Jacob","Madison, James",10,M,M
+"Jefferson, Thomas","Brent, Daniel",10,M,M
+"Milledge, John","Jefferson, Thomas",10,M,M
+"Madison, James","Skipwith, Fulwar",10,M,M
+"Tiffin, Edward","Madison, James",10,M,M
+"Madison, James","Clinton, DeWitt",10,M,M
+"Madison, James","Clark, Daniel",10,M,M
+"Madison, James","Muhlenberg, Peter",10,M,M
+"Vail, Aaron","Madison, James",10,M,M
+"Bradley, Abraham Jr.","Jefferson, Thomas",10,M,M
+"Jefferson, Thomas","Lambert, William",10,M,M
+"Rademaker, Joseph","Madison, James",10,M,M
+"Boyd, Washington","Jefferson, Thomas",10,M,M
+"Jefferson, Thomas","Ewell, Thomas Beale",10,M,M
+"Barker, Jacob","Madison, James",10,M,M
+"Adams, Abigail Smith","Adams, Ann Frances Harrod",10,F,F
+"Jefferson, Thomas","Wood, John",10,M,M
+"Madison, James","Newton, Thomas",10,M,M
+"Maury, Thomas Walker","Jefferson, Thomas",10,M,M
+"Jefferson, Thomas","McCulloch, James H.",10,M,M
+"Alston, Willis","Jefferson, Thomas",10,M,M
+"Carswell, Samuel","Madison, James",10,M,M
+"Plumer, William","Jefferson, Thomas",10,M,M
+"Barry, Richard","Jefferson, Thomas",10,M,M
+"Jefferson, Thomas","Morgan, Benjamin",10,M,M
+"McGreggar, James","Madison, James",10,M,M
+"Isaacs, David","Jefferson, Thomas",10,M,M
+"Madison, James","United States Senate,",10,M,M
+"Adams, John Quincy","Smith, William Steuben",10,M,M
+"Coles, Isaac A.","Madison, James",10,M,M
+"Jefferson, Thomas","Yancey, Charles",10,M,M
+"Jefferson, Thomas","Darmsdatt, Joseph",10,M,M
+"Madison, Robert Lewis","Madison, James",10,M,M
+"Jefferson, Thomas","Minor, Lancelot",10,M,M
+"Chapman, Reynolds","Madison, James",10,M,M
+"Jefferson, Thomas","Goodman, Jeremiah Augustus",10,M,M
+"Colman, Henry","Adams, John",10,M,M
+"Adams, Abigail Smith","Rush, Julia Stockton",10,F,F
+"Adams, Abigail Smith","Van der Kemp, François Adriaan",10,F,M
+"Adams, Charles Francis","Adams, John Quincy",10,M,M
+"Treadway, Susanna Boylston Adams Clark","Adams, Sarah Smith",10,F,F
+"Van Buren, Martin","Madison, James",10,M,M
+"LeRoy, Bayard & Co.","Jefferson, Thomas",10,M,M
+"Walsh, Robert Jr.","Madison, James",10,M,M
+"Barbour, John S.","Madison, James",10,M,M
+"Bradford, Alden","Adams, John",10,M,M
+"Adams, John","De Windt, Caroline Amelia Smith",10,M,F
+"Featherstonhaugh, George William","Madison, James",10,M,M
+"Madison, James","Featherstonhaugh, George William",10,M,M
+"Madison, James","McKenney, Thomas L.",10,M,M
+"Cummings, Jacob Abbot","Jefferson, Thomas",10,M,M
+"Madison, James","Hassler, Ferdinand Rudolph",10,M,M
+"Sprague, William Buell","Madison, James",10,M,M

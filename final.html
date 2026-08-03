@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Final project for DigHum 150B: sixty years of FAO data show national diets converging on the mid-century Western plate while the calorie gap between countries persists.">
+  <title>Final Project · Lawrence Rhee</title>
+  <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="brand" href="index.html">Lawrence Rhee</a>
+      <nav aria-label="Site">
+        <a href="index.html">Home</a>
+        <a href="weeks/week2.html">Week 2</a>
+        <a href="weeks/week3.html">Week 3</a>
+        <a href="weeks/week4.html">Week 4</a>
+        <a href="weeks/week5.html">Week 5</a>
+        <a href="final.html" aria-current="page">Final Project</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main">
+    <article class="post wrap">
+      <header class="post-header centered">
+        <p class="kicker">Final Project · DigHum 150B · Due August 16, 2026</p>
+        <h1>One Plate, Unequal Portions</h1>
+      </header>
+
+      <dl class="meta">
+        <dt>Question</dt>
+        <dd>Is the world converging on a single way of eating, and if so, whose?</dd>
+        <dt>Data</dt>
+        <dd>FAO food balance sheets, 244 entities, 1961 to 2023</dd>
+        <dt>Proposal</dt>
+        <dd><a href="final-project.html">Read the research proposal</a></dd>
+      </dl>
+
+      <h2>The answer, in one paragraph</h2>
+      <p>
+        Since 1961, national diets have steadily become more alike, and they
+        have not converged on a neutral average. They have moved toward the
+        plate that wealthy Western countries were already eating in 1961, heavy
+        in oils, sugar, meat, and dairy, and nearly empty of pulses. At the same
+        time, the gap in how much food people actually have has narrowed far
+        less: the best fed country consumed three times the calories of the
+        worst fed in 1961, and still consumes more than twice as much today.
+        The world increasingly eats one kind of meal, in very unequal portions.
+      </p>
+
+      <h2>Twelve plates, then and now</h2>
+      <p>
+        The clearest way to see the convergence is to look at actual plates.
+        Each tile below shows one country's diet as a share of daily calories,
+        once in 1961 and once in the most recent year. In 1961 the tiles are
+        visibly different countries: staple plants make up more than four
+        fifths of the plate in India, Nigeria, Senegal, China, and South Korea,
+        while the United States and the United Kingdom already gave a third or
+        more of their calories to oils, sugar, meat, and dairy. In the bottom
+        bars the tiles have visibly moved toward one another, and toward the
+        Western pattern.
+      </p>
+
+      <figure class="media">
+        <img src="assets/images/final-plates.svg"
+             alt="Small multiple chart of twelve countries, each showing dietary composition as two stacked bars, one for 1961 and one for the most recent year. In 1961 the bars differ sharply: staple plants dominate Asian and African plates while Western plates already show large shares of oils, sugar, meat and dairy. By the recent year nearly every plate has shifted toward the Western pattern and the bars look far more alike.">
+        <figcaption>Dietary composition of twelve countries in 1961 and the
+          latest available year, as shares of daily calorie supply. Food groups
+          are aggregated from the FAO's ten commodity groups. South Korea is the
+          single largest mover in the entire dataset; Senegal is among the
+          least changed.</figcaption>
+      </figure>
+
+      <p>
+        The twelve countries were not chosen to flatter the argument. They
+        include the destination itself (the United States, the United Kingdom,
+        France), the fastest mover in the whole dataset (South Korea, whose
+        composition shifted more than any of the 134 countries with complete
+        records), large countries that carry most of the world's population
+        (China, India, Brazil, Mexico, Egypt, Nigeria), Japan as a wealthy
+        non-Western comparison, and Senegal, which changed less than almost
+        anyone and shows what resisting the trend looks like.
+      </p>
+
+      <h2>Convergence, measured two ways</h2>
+      <p>
+        Small multiples can be cherry picked, so the claim needs a measurement
+        that uses every country at once. The top panel below measures how far
+        each country's dietary composition sits from the global average, then
+        averages that distance: it falls about 23 percent between 1961 and 2023
+        on the balanced panel of 133 countries present in every year. Because a
+        single method can produce an artifact, the same question was recomputed
+        with a second, independent measure, the average pairwise cosine distance
+        between every pair of country profiles. It falls 29 percent. Both
+        methods, applied to a panel where no country enters or leaves, agree:
+        the world's diets are genuinely becoming more alike, smoothly and
+        almost without interruption.
+      </p>
+
+      <figure class="media">
+        <img src="assets/images/final-convergence.svg"
+             alt="Two aligned charts covering 1961 to 2023. The top chart shows dietary dissimilarity between countries falling steadily by two independent measures. The bottom chart shows the daily calorie supply of the best and worst fed countries, with a wide gap between them persisting across the entire period.">
+        <figcaption>Top: dietary dissimilarity between countries, 1961 to 2023,
+          by two independent methods. Bottom: daily calorie supply of the
+          highest and lowest country in each year. Diets converge in kind while
+          the gap in quantity persists.</figcaption>
+      </figure>
+
+      <p>
+        The direction of the convergence was tested rather than assumed. Against
+        a reference profile built from what six wealthy Western countries ate in
+        1961, the average distance of all countries falls 30 percent. Against
+        three alternative anchors built the same way from 1961 South Asian, East
+        Asian, and West African plates, distance rises 15 percent, rises 14
+        percent, and stays flat. The world moved toward one plate and away from
+        the others. That asymmetry is what justifies saying the convergence has
+        a direction, and it is the part of this project I could not have
+        asserted before running the numbers.
+      </p>
+
+      <h2>The unequal portion</h2>
+      <p>
+        The bottom panel is the necessary correction to the story above, and
+        the reason this page is not titled "the world now eats alike." In 1961
+        the best fed country had 3.0 times the daily calorie supply of the
+        worst fed; in 2023 the ratio was still 2.2. Composition converged far
+        faster than quantity. And because these figures measure food supplied
+        rather than food eaten, and waste rises with income, the true gap in
+        consumption is somewhat smaller than the supply gap shown, a caveat
+        printed on the chart itself rather than hidden here.
+      </p>
+
+      <h2>Why this is a humanities question</h2>
+      <p>
+        A cuisine is an inheritance of dishes, techniques, and agricultural
+        practice, and this data records its erosion at global scale. When
+        pulses fall by a quarter of their share worldwide, what recedes is not
+        a nutrient but dal, frijoles, and shiro, and the fields and knowledge
+        that produced them. Barry Popkin's nutrition transition names the
+        mechanism; what the visualization adds is the directional claim that
+        the transition has a destination, and that the destination is a
+        specific, datable cultural pattern rather than modernity in the
+        abstract. Ten commodity groups cannot see dishes, so convergence in
+        composition is a floor on cultural convergence, not a ceiling: two
+        countries can share macro-shares and still cook differently. The claim
+        here is the measurable one.
+      </p>
+
+      <h2>Method, choices, and their costs</h2>
+      <p>
+        Every number on this page can be regenerated from the data files
+        published in this site's repository. The choices that shaped the
+        analysis, and what each one costs, are recorded here in the spirit of
+        the decision log I have kept since Week 5.
+      </p>
+
+      <ul class="concept-list">
+        <li>
+          <span class="term">Supply, not intake</span>
+          <p>FAO food balance sheets measure food available for consumption,
+             including waste. Cross country and cross time comparisons are
+             robust to this; absolute levels are overstated, and the rich poor
+             gap more so, since waste rises with income.</p>
+        </li>
+        <li>
+          <span class="term">Balanced panel for all trend claims</span>
+          <p>The reporting sample grows from 146 countries to 176 over the
+             period, so every convergence figure was recomputed on the 133
+             countries present in all 63 years. The cost is excluding countries
+             that appear mid-period, including most former Soviet states.</p>
+        </li>
+        <li>
+          <span class="term">Two methods or no claim</span>
+          <p>The headline finding survives an independent recomputation by a
+             second distance measure. Had the methods disagreed, both results
+             would be reported here.</p>
+        </li>
+        <li>
+          <span class="term">Named anchors</span>
+          <p>The Western reference is the 1961 average of the United States,
+             the United Kingdom, France, Germany, Australia, and Canada. The
+             alternative anchors are built identically from named countries, so
+             the directional test can be checked or re-run with different
+             baskets.</p>
+        </li>
+        <li>
+          <span class="term">No causal language</span>
+          <p>This data shows that diets converged and toward what. It cannot
+             show why, so words like caused and drove do not appear in this
+             analysis.</p>
+        </li>
+      </ul>
+
+      <p class="muted">
+        Data: <a href="https://ourworldindata.org/diet-compositions" target="_blank" rel="noopener">Our
+        World in Data</a>, from FAO food balance sheets. Prepared datasets for
+        each figure are in <code>assets/data/final/</code>.
+      </p>
+
+      <!-- To replace the static figures with interactive Flourish versions:
+           1. flourish.studio -> new visualization
+           2. For the plates: "Bar chart (stacked)" template, upload
+              assets/data/final/plates.csv
+           3. For convergence: "Line chart" template, upload
+              assets/data/final/convergence.csv (and anchor-distances.csv
+              for the directional view; calorie-gap.csv for the gap band)
+           4. Publish, copy the iframe embed code, and replace the
+              corresponding <img> figure above.
+      -->
+
+      <hr>
+      <nav class="week-nav" aria-label="Site">
+        <a href="final-project.html"><span aria-hidden="true">←</span> The proposal</a>
+        <a class="spacer" href="index.html">All weeks <span aria-hidden="true">→</span></a>
+      </nav>
+    </article>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <p>Hand-built with HTML &amp; CSS for <em>DigHum 150B</em>, UC Berkeley,
+         Summer 2026.</p>
+      <p><a href="mailto:lawrencejrhee@gmail.com">lawrencejrhee@gmail.com</a></p>
+    </div>
+  </footer>
+</body>
+</html>

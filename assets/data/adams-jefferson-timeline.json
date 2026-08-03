@@ -1,0 +1,90 @@
+{
+  "title": {
+    "text": {
+      "headline": "The Adams and Jefferson Correspondence",
+      "text": "<p>333 surviving letters between John Adams and Thomas Jefferson, from 1777 to 1826, drawn from the Founders Online archive. The shape of this correspondence is unusual: two long stretches of intense exchange separated by a silence of ten years. Every count below comes from the archive itself.</p>"
+    }
+  },
+  "events": [
+    {
+      "start_date": { "year": "1777" },
+      "text": {
+        "headline": "First letters",
+        "text": "<p>Four letters pass between them during the Continental Congress. They are colleagues at this point rather than correspondents, and the exchange stays thin for the next several years.</p>"
+      }
+    },
+    {
+      "start_date": { "year": "1785" },
+      "end_date": { "year": "1787" },
+      "text": {
+        "headline": "Europe: 118 letters in three years",
+        "text": "<p>Adams is the American minister in London and Jefferson holds the equivalent post in Paris. This is the densest period in the entire correspondence: 54 letters in 1785 alone, then 32 in each of 1786 and 1787. They are writing as friends and as colleagues working the same problem from two capitals.</p>"
+      }
+    },
+    {
+      "start_date": { "year": "1796" },
+      "text": {
+        "headline": "The election that divides them",
+        "text": "<p>Adams becomes president and Jefferson, running against him, becomes vice president under the rules of the time. Four letters are exchanged this year. The political rupture that follows is visible in the archive almost immediately.</p>"
+      }
+    },
+    {
+      "start_date": { "year": "1797" },
+      "end_date": { "year": "1800" },
+      "text": {
+        "headline": "Silence during the Adams presidency",
+        "text": "<p>Four consecutive years with no surviving letters between them at all. They are the two highest officers of the same government and they are not writing to each other.</p>"
+      }
+    },
+    {
+      "start_date": { "year": "1801" },
+      "text": {
+        "headline": "Jefferson defeats Adams",
+        "text": "<p>Five letters, most of them concerning the transfer of power and unresolved grievances. Adams leaves Washington before the inauguration. After this year the correspondence stops completely.</p>"
+      }
+    },
+    {
+      "start_date": { "year": "1802" },
+      "end_date": { "year": "1811" },
+      "text": {
+        "headline": "Ten years of nothing",
+        "text": "<p>The longest silence in the correspondence, and the reason this timeline exists. From 1802 through 1811 the archive contains not a single letter between them. This is the absence that a network graph would render as a thin line and a chart of totals would hide entirely. Here it is simply a gap you can see.</p>"
+      }
+    },
+    {
+      "start_date": { "year": "1812", "month": "1", "day": "1" },
+      "text": {
+        "headline": "New Year's Day, 1812: the resumption",
+        "text": "<p>Adams writes to Jefferson after a decade, following years of quiet effort by their mutual friend Benjamin Rush to reconcile them. The Founders Online archive labels one of the documents from this moment \"Resumption of Correspondence with John Adams.\" Thirteen letters follow before the year is out.</p>"
+      }
+    },
+    {
+      "start_date": { "year": "1813" },
+      "text": {
+        "headline": "37 letters in one year",
+        "text": "<p>The second great peak of the correspondence, and the largest single year after 1785. Now in their seventies and out of office, they write about religion, aristocracy, grief, and the revolution they had both helped make.</p>"
+      }
+    },
+    {
+      "start_date": { "year": "1819" },
+      "text": {
+        "headline": "A late resurgence",
+        "text": "<p>Nineteen letters, the busiest year of the final decade. The late correspondence is steadier than the early one: smaller in volume but sustained across fourteen unbroken years.</p>"
+      }
+    },
+    {
+      "start_date": { "year": "1826", "month": "4", "day": "17" },
+      "text": {
+        "headline": "The last letter",
+        "text": "<p>Adams writes to Jefferson for the final time. Three letters pass between them in 1826, the last of them this one.</p>"
+      }
+    },
+    {
+      "start_date": { "year": "1826", "month": "7", "day": "4" },
+      "text": {
+        "headline": "Both men die on the same day",
+        "text": "<p>Seventy eight days after the final letter, Adams and Jefferson die within hours of each other, on the fiftieth anniversary of the Declaration of Independence. The correspondence ends because both correspondents do.</p>"
+      }
+    }
+  ]
+}

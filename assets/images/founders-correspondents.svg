@@ -1,0 +1,60 @@
+<svg viewBox="0 0 780 470" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Horizontal bar chart of the fourteen most frequent correspondents in Founders Online after removing duplicate records. Thomas Jefferson leads with 42,349 letters sent plus received and George Washington follows with 38,142. Two women appear: Abigail Adams seventh with 4,109 and Louisa Catherine Johnson Adams twelfth with 1,120. Both are members of the Adams family.">
+<style>
+ .bg{fill:#ffffff}.t{fill:#0f141c;font:700 17px system-ui,-apple-system,Segoe UI,sans-serif}
+ .sub{fill:#586170;font:13px system-ui,-apple-system,Segoe UI,sans-serif}
+ .nm{fill:#0f141c;font:12.5px system-ui,-apple-system,Segoe UI,sans-serif}
+ .vl{fill:#586170;font:11.5px system-ui,-apple-system,Segoe UI,sans-serif}
+ .src{fill:#8b94a3;font:11px system-ui,-apple-system,Segoe UI,sans-serif}
+ .lg{font:600 12px system-ui,-apple-system,Segoe UI,sans-serif}
+ @media (prefers-color-scheme:dark){.bg{fill:#0f141c}.t{fill:#e7eef7}.sub{fill:#94a1b2}
+ .nm{fill:#e7eef7}.vl{fill:#94a1b2}.src{fill:#6b7688}}
+</style>
+<rect class="bg" x="0" y="0" width="780" height="470" rx="10"/>
+<text class="t" x="24" y="30">The fourteen most frequent correspondents</text>
+<text class="sub" x="24" y="50">Letters sent plus received, 1725 to 1836, duplicates removed</text>
+<rect x="210" y="70.2" width="506.0" height="17.7" rx="3" fill="#3b6fe0" fill-opacity="0.8"/>
+<text class="nm" x="200" y="82.1" text-anchor="end">Jefferson, Thomas</text>
+<text class="vl" x="723.0" y="82.1">42,349</text>
+<rect x="210" y="96.2" width="455.7" height="17.7" rx="3" fill="#3b6fe0" fill-opacity="0.8"/>
+<text class="nm" x="200" y="108.1" text-anchor="end">Washington, George</text>
+<text class="vl" x="672.7" y="108.1">38,142</text>
+<rect x="210" y="122.2" width="292.0" height="17.7" rx="3" fill="#3b6fe0" fill-opacity="0.8"/>
+<text class="nm" x="200" y="134.1" text-anchor="end">Madison, James</text>
+<text class="vl" x="509.0" y="134.1">24,436</text>
+<rect x="210" y="148.2" width="194.5" height="17.7" rx="3" fill="#3b6fe0" fill-opacity="0.8"/>
+<text class="nm" x="200" y="160.1" text-anchor="end">Adams, John</text>
+<text class="vl" x="411.5" y="160.1">16,281</text>
+<rect x="210" y="174.2" width="147.2" height="17.7" rx="3" fill="#3b6fe0" fill-opacity="0.8"/>
+<text class="nm" x="200" y="186.1" text-anchor="end">Franklin, Benjamin</text>
+<text class="vl" x="364.2" y="186.1">12,318</text>
+<rect x="210" y="200.2" width="142.4" height="17.7" rx="3" fill="#3b6fe0" fill-opacity="0.8"/>
+<text class="nm" x="200" y="212.1" text-anchor="end">Hamilton, Alexander</text>
+<text class="vl" x="359.4" y="212.1">11,917</text>
+<rect x="210" y="226.2" width="49.1" height="17.7" rx="3" fill="#d1477a" fill-opacity="0.95"/>
+<text class="nm" x="200" y="238.1" text-anchor="end">Adams, Abigail Smith</text>
+<text class="vl" x="266.1" y="238.1">4,109</text>
+<rect x="210" y="252.2" width="30.8" height="17.7" rx="3" fill="#3b6fe0" fill-opacity="0.8"/>
+<text class="nm" x="200" y="264.1" text-anchor="end">Adams, John Quincy</text>
+<text class="vl" x="247.8" y="264.1">2,580</text>
+<rect x="210" y="278.2" width="19.8" height="17.7" rx="3" fill="#3b6fe0" fill-opacity="0.8"/>
+<text class="nm" x="200" y="290.1" text-anchor="end">Monroe, James</text>
+<text class="vl" x="236.8" y="290.1">1,656</text>
+<rect x="210" y="304.2" width="16.7" height="17.7" rx="3" fill="#3b6fe0" fill-opacity="0.8"/>
+<text class="nm" x="200" y="316.1" text-anchor="end">Gallatin, Albert</text>
+<text class="vl" x="233.7" y="316.1">1,397</text>
+<rect x="210" y="330.2" width="13.8" height="17.7" rx="3" fill="#3b6fe0" fill-opacity="0.8"/>
+<text class="nm" x="200" y="342.1" text-anchor="end">McHenry, James</text>
+<text class="vl" x="230.8" y="342.1">1,154</text>
+<rect x="210" y="356.2" width="13.4" height="17.7" rx="3" fill="#d1477a" fill-opacity="0.95"/>
+<text class="nm" x="200" y="368.1" text-anchor="end">Adams, Louisa Catherine Johnson</text>
+<text class="vl" x="230.4" y="368.1">1,120</text>
+<rect x="210" y="382.2" width="13.1" height="17.7" rx="3" fill="#3b6fe0" fill-opacity="0.8"/>
+<text class="nm" x="200" y="394.1" text-anchor="end">Heath, William</text>
+<text class="vl" x="230.1" y="394.1">1,093</text>
+<rect x="210" y="408.2" width="13.0" height="17.7" rx="3" fill="#3b6fe0" fill-opacity="0.8"/>
+<text class="nm" x="200" y="420.1" text-anchor="end">Pickering, Timothy</text>
+<text class="vl" x="230.0" y="420.1">1,087</text>
+<circle cx="30" cy="448" r="4" fill="#d1477a"/>
+<text class="lg" x="40" y="452" fill="#d1477a">Woman</text>
+<text class="src" x="756" y="452" text-anchor="end">Data: Founders Online via Kane (2020). 152,581 unique letters.</text>
+</svg>
