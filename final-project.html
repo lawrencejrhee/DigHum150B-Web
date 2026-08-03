@@ -38,19 +38,27 @@
            choices, and how the work will be evaluated.</p>
       </aside>
 
-      <h2>The question</h2>
+      <h2>The argument</h2>
       <p>
-        I want to know whether the world is converging on a single way of
-        eating, and if it is, whose way. This is a question I did not know the
-        answer to when I started, which is why I chose it. Food is one of the
-        most durable expressions of culture, and if national diets are becoming
-        interchangeable then something is happening to culture that can be
-        measured rather than merely asserted.
+        I argue that between 1961 and 2023 national diets did not converge on a
+        neutral global average. They converged on the plate that wealthy Western
+        countries were already eating in 1961, and they did so while the gap in
+        how much people eat stayed roughly as wide as it was. The visualization
+        has to carry both halves of that claim, because either one alone is
+        misleading.
       </p>
 
       <p>
-        The question breaks into three parts that can each be answered with
-        data. First, has the composition of national diets actually become more
+        This began as a question I did not know the answer to, which is why I
+        chose it. Food is one of the most durable expressions of culture, and if
+        national diets are becoming interchangeable then something is happening
+        to culture that can be measured rather than merely asserted. The claim
+        above is what the preliminary analysis produced, and it is contestable
+        in three specific places, which is how I have structured the work.
+      </p>
+
+      <p>
+        First, has the composition of national diets actually become more
         similar since 1961, or does it only seem that way because global brands
         are visible? Second, if diets are converging, are they converging toward
         an average, or toward a particular existing cuisine? Third, does
@@ -67,15 +75,25 @@
       </p>
 
       <p>
-        The world now eats considerably more. Global average supply rose from
-        2,185 calories per person per day in 1961 to 3,006 in 2023, an increase
-        of 38 percent. The growth is not evenly distributed across food types.
-        Oils and fats more than doubled, contributing the single largest
-        absolute gain, while meat nearly doubled and fruits and vegetables rose
-        by 141 percent. Two categories fell outright: pulses, meaning beans and
-        lentils, declined 23 percent, and starchy roots declined 7 percent.
-        Traditional plant staples are losing ground while fats and animal
-        products gain it.
+        The world now eats considerably more. Global average supply, taken from
+        the FAO world aggregate, rose from 2,185 calories per person per day in
+        1961 to 3,006 in 2023, an increase of 38 percent. The growth is not
+        evenly distributed across food types. Oils and fats rose 110 percent,
+        contributing the single largest absolute gain, while meat rose 97
+        percent and fruits and vegetables rose 141 percent. Two categories fell
+        outright: pulses, meaning beans and lentils, declined 23 percent, and
+        starchy roots declined 7 percent.
+      </p>
+
+      <p>
+        Cereals require a more careful statement, because the obvious summary is
+        wrong. Grains did not shrink. They grew 18 percent in absolute terms,
+        from 1,080 to 1,276 calories. What fell was their share of the plate,
+        from 49 percent of all calories in 1961 to 42 percent in 2023. So the
+        accurate claim is not that plant staples are disappearing but that they
+        are being diluted: the world still eats more grain than anything else,
+        while fats and animal products claim a growing portion of a growing
+        total.
       </p>
 
       <p>
@@ -88,13 +106,36 @@
       </p>
 
       <p>
+        That result has an obvious confound, which I tested rather than assumed
+        away. The number of countries reporting data grows from 146 in 1961 to
+        176 in 2023, so a falling dispersion could simply reflect which
+        countries entered the dataset rather than any change in how people eat.
+        Restricting the measurement to the 133 countries present in every single
+        year, convergence is 23.4 percent, against 25.4 percent for all
+        available countries. The finding survives, and it is not an artifact of
+        sample composition.
+      </p>
+
+      <p>
         The direction is the part I found most striking. I constructed a
-        reference profile representing what a group of wealthy Western countries
-        ate in 1961, and measured every country's distance from that profile
-        over time. That distance falls by 33 percent. The world is not
-        converging on a neutral midpoint. It is moving toward the plate that
-        rich Western countries were already eating sixty years ago, which was
-        heavy in oils, sugar, meat, and dairy, and nearly absent in pulses.
+        reference profile from what six wealthy Western countries ate in 1961,
+        namely the United States, the United Kingdom, France, Germany,
+        Australia, and Canada, chosen because they were already high-income and
+        high-fat at the start of the period and therefore represent a plausible
+        destination rather than a moving target. Measured against the balanced
+        panel, the average distance to that profile falls 30 percent.
+      </p>
+
+      <p>
+        A single anchor proves nothing on its own, since general convergence
+        would pull countries closer to any reference point. So I repeated the
+        measurement against three alternative 1961 anchors built the same way.
+        Distance to a South Asian profile rose 15 percent. Distance to an East
+        Asian profile rose 14 percent. Distance to a West African profile was
+        essentially unchanged at 2 percent. Only the Western anchor shows
+        substantial movement toward it. The world did not drift toward everyone
+        at once. It moved toward one plate and away from others, which is what
+        licenses the directional claim.
       </p>
 
       <p>
@@ -147,21 +188,35 @@
         sheets. It reports daily per capita calorie supply broken into ten
         commodity groups, including cereals, meat, sugar, oils and fats, pulses,
         and dairy, for 244 entities from 1961 through 2023. It contains 13,221
-        rows, far exceeding the hundred row minimum for quantitative data, and
+        rows, far exceeding the hundred-row minimum for quantitative data, and
         134 countries have complete records in both the first and final years.
       </p>
 
       <p>
         I am using the same source and retrieval method that worked reliably for
-        my Week 2 literacy project. I will restrict the analysis to entities
-        with valid country codes, excluding regional aggregates such as Africa
-        and Asia, so that no country is counted twice. A known limitation is
-        that food balance sheets measure supply available for consumption rather
-        than food actually eaten, so they include waste at the retail and
-        household level. This means absolute calorie figures run higher than
-        true intake. It does not undermine comparisons across countries or over
-        time, which is what my question requires, but it is a real caveat and I
-        will state it on the visualization rather than in a footnote.
+        my Week 2 literacy project. Two different conventions are at work in the
+        numbers above and I want to be explicit about which is which. The global
+        figures, such as the rise from 2,185 to 3,006 calories, come from the
+        FAO's own population-weighted world aggregate, so that a person in China
+        counts the same as a person in Iceland. Every country-level measurement,
+        including all of the convergence and distance results, instead uses
+        unweighted country observations restricted to entities with valid
+        three-letter country codes, with regional aggregates such as Africa and
+        Asia excluded so that no country is counted twice. Mixing the two would
+        be an error, so I am reporting which convention produced which number.
+      </p>
+
+      <p>
+        The most important limitation is that food balance sheets measure the
+        supply available for consumption rather than the food people actually
+        eat, so they include waste at the retail and household level. This
+        matters more than a generic caveat suggests, because waste rises with
+        income. Wealthy countries throw away a larger share of what reaches
+        them, which means the two-to-one supply gap between the United States
+        and Yemen overstates the true gap in what is eaten. The direction of
+        that comparison is robust; its magnitude is not. I will therefore label
+        the axis calories supplied rather than calories eaten, and state the
+        asymmetry on the visualization itself rather than in a footnote.
       </p>
 
       <h2>Tools, audience, and design</h2>
@@ -170,7 +225,7 @@
         <strong>Tableau</strong> as a secondary tool. Both are on the approved
         list. Flourish is the better fit for the central view because the
         argument is fundamentally about change over time across many countries,
-        and Flourish's animated and small multiple formats handle that
+        and Flourish's animated and small-multiple formats handle that
         comparison without requiring a reader to interpret a dense static chart.
         Tableau will handle the composition breakdowns, where its dashboard
         linking lets a reader select a country and see its plate change.
@@ -245,12 +300,17 @@
              I will change the encoding rather than add explanatory paragraphs.</p>
         </li>
         <li>
-          <span class="term">The convergence claim must survive a second method</span>
-          <p>My current result uses distance from the global average
-             composition. Before publishing I will recompute convergence with at
-             least one different measure. If the direction of the trend depends
-             on which method I chose, the finding is an artifact and I will say
-             so rather than present the version that looks best.</p>
+          <span class="term">Every claim must survive a second method</span>
+          <p>My convergence result uses mean Euclidean distance from the global
+             average composition. Before publishing I will recompute it as mean
+             pairwise cosine distance between country profiles, which measures
+             similarity of shape rather than of magnitude. If the direction of
+             the trend flips, I will report both rather than present whichever
+             looks better. I have already applied this standard twice: the
+             convergence finding was retested on a balanced panel of the 133
+             countries present in every year, and the directional finding was
+             retested against three alternative anchors. Both survived, and had
+             they not, this section would say so.</p>
         </li>
         <li>
           <span class="term">Convergence must not be shown as equality</span>
@@ -279,7 +339,7 @@
         On process, I will keep a decision log recording each analytical choice
         and its cost. I began this practice in Week 5, where I restricted a
         correspondence network to pairs exchanging ten or more letters, which
-        improved legibility but removed one time correspondents, and I stated
+        improved legibility but removed one-time correspondents, and I stated
         that tradeoff on the page rather than hiding it. Here the equivalent
         choices are which countries to include, which reference profile defines
         the Western plate, and how to treat missing years, and each will be

@@ -1,0 +1,1420 @@
+city,state,region,year,grant_usd,latitude,longitude
+Cincinnati,Ohio,Rest of country,1904,23000,39.1623965,-84.4517294
+Camden,New Jersey,Rest of country,1903,120000,39.9425241,-75.1164689
+Birmingham,Alabama,South,1905,10000,33.5116331,-86.8965344
+Detroit,Michigan,Rest of country,1901,750000,42.331427,-83.0457538
+Duluth,Minnesota,Rest of country,1899,125000,46.7866719,-92.1004852
+Waterloo,Iowa,Rest of country,1902,45000,42.492786,-92.3425775
+Montclair,New Jersey,Rest of country,1901,60000,40.8407016,-74.2045303
+Indianapolis,Indiana,Rest of country,1909,100000,39.76909,-86.158018
+Houston,Texas,South,1899,65000,29.7600771,-95.3701108
+Louisville,Kentucky,South,1899,450000,38.2468618,-85.7663724
+San Francisco,California,Rest of country,1901,750000,37.7749295,-122.4194155
+Washington,District of Columbia,Rest of country,1899,682000,38.9071923,-77.0368707
+Oakland,California,Rest of country,1899,190000,37.8043514,-122.2711639
+Santa Cruz,California,Rest of country,1902,29000,36.9741171,-122.0307963
+Bridgeport,Connecticut,Rest of country,1914,50000,41.1792258,-73.1894384
+Colorado City,Colorado,Rest of country,1903,10000,37.9452861,-104.8352628
+Dallas,Texas,South,1899,76000,32.7766642,-96.7969879
+Danville,Illinois,Rest of country,1901,65000,40.124481,-87.6300207
+Dayton,Ohio,Rest of country,1911,50000,39.7589478,-84.1916069
+East Chicago,Indiana,Rest of country,1903,40000,41.6392024,-87.4547635
+Elizabeth,New Jersey,Rest of country,1910,130810,40.6625722,-74.2066915
+Greensboro,North Carolina,South,1902,40446,36.0725632,-79.791534
+Kansas City,Kansas,Rest of country,1901,100000,39.1155314,-94.6267873
+Lincoln,Nebraska,Rest of country,1899,87000,40.8136634,-96.7025764
+Lynn,Massachusetts,Rest of country,1915,50000,42.466763,-70.9494938
+Madison,Wisconsin,Rest of country,1901,90000,43.0721661,-89.4007501
+Meridian,Mississippi,South,1904,38000,32.3643098,-88.703656
+Norfolk,Virginia,South,1901,70000,36.8507689,-76.2858726
+Racine,Wisconsin,Rest of country,1901,60000,42.7261309,-87.7828523
+Santa Monica,California,Rest of country,1903,25000,34.0194543,-118.4911912
+Savannah,Georgia,South,1910,87000,32.0808989,-81.091203
+Sioux City,Iowa,Rest of country,1911,85000,42.4963416,-96.4049408
+Saint Joseph,Missouri,Rest of country,1901,50000,39.7674578,-94.846681
+Superior,Wisconsin,Rest of country,1901,70000,46.7207737,-92.1040796
+East Orange,New Jersey,Rest of country,1900,116000,40.7609451,-74.2110209
+Evansville,Indiana,Rest of country,1911,60000,37.9715592,-87.5710898
+Gary,Indiana,Rest of country,1910,90000,41.6020403,-87.3371523
+Nashville,Tennessee,South,1901,175000,36.1626638,-86.7816016
+New Haven,Connecticut,Rest of country,1913,60000,41.308274,-72.9278835
+Somerville,Massachusetts,Rest of country,1907,123000,42.3875968,-71.0994968
+Saint Paul,Minnesota,Rest of country,1914,75000,44.9537029,-93.0899578
+Worcester,Massachusetts,Rest of country,1910,75000,42.3074242,-71.7990468
+Atlanta,Georgia,South,1898,202000,33.7501275,-84.3885209
+Minneapolis,Minnesota,Rest of country,1912,125000,44.977753,-93.2650108
+Spokane,Washington,Rest of country,1903,155000,47.6579711,-117.4235318
+Springfield,Massachusetts,Rest of country,1905,260000,42.1014831,-72.589811
+Toledo,Ohio,Rest of country,1905,125000,41.6528052,-83.5378674
+New Orleans,Louisiana,South,1902,350000,29.9508941,-90.0758356
+Portland,Oregon,Rest of country,1901,165000,45.515232,-122.6783853
+St. Louis,Missouri,Rest of country,1901,1000000,38.6270025,-90.1994042
+Los Angeles,California,Rest of country,1911,210000,34.0542204,-118.2458278
+Seattle,Washington,Rest of country,1901,430000,47.6061389,-122.3328481
+Denver,Colorado,Rest of country,1902,360000,39.7392358,-104.990251
+Pittsburgh,Pennsylvania,Rest of country,1890,1160614,40.4406248,-79.9958864
+Baltimore,Maryland,Rest of country,1906,500000,39.2903848,-76.6121893
+Cleveland,Ohio,Rest of country,1903,590000,41.49932,-81.6943605
+Philadelphia,Pennsylvania,Rest of country,1903,1500000,39.9525839,-75.1652215
+New York,New York,Rest of country,1899,5202621,40.7127753,-74.0059728
+Aberdeen,South Dakota,Rest of country,1901,15000,45.4615152,-98.4843654
+Aberdeen,Washington,Rest of country,1907,15000,46.975294,-123.817591
+Abilene,Kansas,Rest of country,1905,12500,38.9187393,-97.2154541
+Abilene,Texas,South,1907,17500,32.4508058,-99.7355491
+Adrian,Michigan,Rest of country,1904,27500,41.8984787,-84.0348996
+Aitkin,Minnesota,Rest of country,1908,6500,46.5326407,-93.7046777
+Akron,Indiana,Rest of country,1913,12500,41.0383195,-86.0267824
+Akron,Ohio,Rest of country,1901,82000,41.0834144,-81.5168817
+Alameda,California,Rest of country,1899,35000,37.76681,-122.2423415
+Alamosa,Colorado,Rest of country,1908,6000,37.4694491,-105.8700214
+Albany,Georgia,South,1905,10700,31.5781483,-84.1539749
+Albany,Missouri,Rest of country,1903,12500,40.247996,-94.331934
+Albany,Oregon,Rest of country,1911,12500,44.6353584,-123.1073643
+Albert Lea,Minnesota,Rest of country,1902,13000,43.6501257,-93.3667815
+Albia,Iowa,Rest of country,1905,10000,41.0300078,-92.811307
+Albion,Indiana,Rest of country,1916,10000,41.3956043,-85.4244241
+Albion,Michigan,Rest of country,1903,17500,42.2419499,-84.7525767
+Albion,Nebraska,Rest of country,1907,6000,41.689134,-97.9992807
+Alden,Iowa,Rest of country,1913,9000,42.5196606,-93.3745601
+Aledo,Illinois,Rest of country,1913,10000,41.1997568,-90.7493063
+Alexandria,Indiana,Rest of country,1902,14000,40.263373,-85.673599
+Alexandria,Louisiana,South,1907,10000,31.3093448,-92.4441488
+Alexandria,Minnesota,Rest of country,1903,12000,45.8836382,-95.3801133
+Algona,Iowa,Rest of country,1903,10000,43.0699663,-94.233019
+Allegan,Michigan,Rest of country,1913,10000,42.5274819,-85.8523806
+Pittsburgh,Pennsylvania,Rest of country,1890,481012,40.4450813,-80.0087746
+Alliance,Nebraska,Rest of country,1909,10000,42.0930235,-102.8702006
+Alliance,Ohio,Rest of country,1903,25000,40.9188562,-81.1023147
+Alma,Nebraska,Rest of country,1907,10000,40.0975108,-99.3620427
+Alturas,California,Rest of country,1908,10000,41.4863012,-120.5442761
+American Fork,Utah,Rest of country,1919,10000,40.37554,-111.796341
+Americus,Georgia,South,1908,20000,32.0723861,-84.2326876
+Ames,Iowa,Rest of country,1903,16000,42.0263983,-93.6125116
+Amherst,Ohio,Rest of country,1904,10000,41.3980136,-82.2223803
+Amsterdam,New York,Rest of country,1902,25000,42.9364055,-74.1890942
+Anacortes,Washington,Rest of country,1908,10000,48.5147855,-122.6165134
+Anaheim,California,Rest of country,1907,10000,33.8335942,-117.9135153
+Anderson,Indiana,Rest of country,1902,50000,40.1040475,-85.6777025
+Anderson,South Carolina,South,1905,18700,34.5062965,-82.6483314
+Andover,New York,Rest of country,1911,5000,42.1561104,-77.7954179
+Andrews,North Carolina,South,1914,5000,35.200454,-83.827153
+Angola,Indiana,Rest of country,1909,10000,41.6321842,-84.9998879
+Ann Arbor,Michigan,Rest of country,1903,30000,42.2781739,-83.7458934
+Anniston,Alabama,South,1916,20000,33.656922,-85.828209
+Anoka,Minnesota,Rest of country,1903,12500,45.1983144,-93.3862796
+Anthony,Kansas,Rest of country,1908,10000,37.1519822,-98.022687
+Antigo,Wisconsin,Rest of country,1903,15000,45.1413243,-89.1537701
+Antioch,California,Rest of country,1915,2500,38.0049214,-121.805789
+Arcadia,Nebraska,Rest of country,1916,7000,41.4230554,-99.1255491
+Arcadia,Wisconsin,Rest of country,1905,5000,44.2527405,-91.5015432
+Arcola,Illinois,Rest of country,1903,10000,39.684257,-88.303294
+Ardmore,Oklahoma,South,1903,15000,34.1742611,-97.1436254
+Arkansas City,Kansas,Rest of country,1906,18400,37.0610389,-97.0430221
+Armada,Michigan,Rest of country,1913,8000,42.841953,-82.8829889
+Armour,South Dakota,Rest of country,1914,7500,43.3204437,-98.3468681
+Ashland,Massachusetts,Rest of country,1903,10000,42.260802,-71.463236
+Ashland,Nebraska,Rest of country,1911,5500,41.0392645,-96.3677539
+Ashland,Oregon,Rest of country,1909,15000,42.1939598,-122.7097514
+Ashtabula,Ohio,Rest of country,1901,15000,41.8650534,-80.7898089
+Athens,Ohio,Rest of country,1903,30000,39.3254282,-82.1002278
+Athol,Massachusetts,Rest of country,1902,22000,42.5941507,-72.2284972
+Atlanta,Indiana,Rest of country,1916,10000,40.2153151,-86.0263746
+Atlantic City,New Jersey,Rest of country,1903,71075,39.3625901,-74.4281753
+Atlantic,Iowa,Rest of country,1902,12500,41.4054278,-95.0149071
+Attica,Indiana,Rest of country,1903,10000,40.2918498,-87.2494047
+Auburn,California,Rest of country,1907,10000,38.8999397,-121.0707878
+Auburn,Maine,Rest of country,1903,25000,44.098172,-70.229277
+Auburn,Washington,Rest of country,1912,9000,47.3073228,-122.2284532
+Audubon,Iowa,Rest of country,1911,9000,41.7215893,-94.9313697
+Aurora,Illinois,Rest of country,1901,50000,41.7570671,-88.3200308
+Aurora,Missouri,Rest of country,1913,9000,36.9737133,-93.7191953
+Aurora,Nebraska,Rest of country,1909,10000,40.8678338,-97.9971135
+Austin,Minnesota,Rest of country,1901,15000,43.6666296,-92.9746367
+Avon-by-the-Sea,New Jersey,Rest of country,1916,5000,40.1926842,-74.0215746
+Birmingham,Alabama,South,1907,10000,33.5232514,-86.7898321
+Azusa,California,Rest of country,1908,10000,34.1349978,-117.9051935
+Baker City,Oregon,Rest of country,1907,25000,44.7748748,-117.8343848
+Seattle,Washington,Rest of country,1903,15000,47.6792172,-122.3860312
+Ballinger,Texas,South,1908,17500,31.7399325,-99.9501219
+Baraboo,Wisconsin,Rest of country,1902,15000,43.4712667,-89.7456512
+Barnesville,Georgia,South,1909,10000,33.0517617,-84.1574819
+Barron,Wisconsin,Rest of country,1912,7000,45.4018783,-91.8536834
+Dewey,Oklahoma,South,1908,12500,36.7999054,-95.9372371
+Bartow,Florida,South,1911,8000,27.8975975,-81.8442519
+Basin,Wyoming,Rest of country,1908,17500,44.3814637,-108.0414216
+Bay City,Michigan,Rest of country,1916,35000,43.5973592,-83.8854985
+Bayfield,Wisconsin,Rest of country,1903,10000,46.8120528,-90.8176194
+Glenn,California,Rest of country,1916,4000,39.5827642,-122.0467339
+Bayonne,New Jersey,Rest of country,1903,81118,40.6717045,-74.1156939
+Beardstown,Illinois,Rest of country,1903,10000,40.0175483,-90.4242916
+Beatrice,Nebraska,Rest of country,1902,23000,40.2659269,-96.7466913
+Beaufort,South Carolina,South,1914,7500,32.432248,-80.6704285
+Beaumont,California,Rest of country,1913,10000,33.9320774,-116.9812044
+Beaver Falls,Pennsylvania,Rest of country,1899,50000,40.7542358,-80.3199275
+Beaver,Utah,Rest of country,1913,10000,38.273966,-112.6422498
+Bedford,Indiana,Rest of country,1902,20000,38.8636606,-86.4859563
+Bedford,Iowa,Rest of country,1907,10000,40.668111,-94.7209812
+Bellefontaine,Ohio,Rest of country,1903,14000,40.363738,-83.7590603
+Belleville,Illinois,Rest of country,1913,45000,38.5128531,-89.9818939
+Belleville,New Jersey,Rest of country,1909,20000,40.7873846,-74.152875
+Bellevue,Ohio,Rest of country,1903,13600,41.2729181,-82.838145
+Bellingham,Washington,Rest of country,1903,36000,48.7519112,-122.4786854
+Belmar,New Jersey,Rest of country,1914,13000,40.1785523,-74.0234015
+Beloit,Wisconsin,Rest of country,1901,25000,42.5083482,-89.0317765
+Belton,Texas,South,1903,10000,31.0584798,-97.4622896
+Belvidere,Illinois,Rest of country,1910,17500,42.2616345,-88.8460968
+Bemidji,Minnesota,Rest of country,1908,12500,47.474004,-94.8824252
+Benson,Minnesota,Rest of country,1912,7500,45.3149603,-95.6000349
+Benton Harbor,Michigan,Rest of country,1902,20000,42.1158504,-86.4533495
+Berkeley,California,Rest of country,1903,40000,37.8681512,-122.268463
+Berkley,Massachusetts,Rest of country,1915,5000,41.8469828,-71.0824268
+Berlin,New Hampshire,Rest of country,1902,17000,44.4714066,-71.1782385
+Berlin,Wisconsin,Rest of country,1903,12250,43.9694879,-88.9475979
+Bessemer,Alabama,South,1906,10000,33.4012478,-86.9537776
+Big Timber,Montana,Rest of country,1911,7500,45.8324442,-109.9530808
+Biggs,California,Rest of country,1906,5000,39.4134793,-121.710345
+Binghamton,New York,Rest of country,1902,75000,42.1003892,-75.906855
+Bismarck,North Dakota,Rest of country,1916,25000,46.8101706,-100.7836015
+Black River Falls,Wisconsin,Rest of country,1914,10000,44.2938012,-90.8505299
+Blair,Nebraska,Rest of country,1916,10000,41.5438622,-96.1385825
+Bloomfield,Indiana,Rest of country,1908,12000,39.025235,-86.938159
+Bloomfield,Iowa,Rest of country,1911,10000,40.7524147,-92.416603
+Bloomfield,Nebraska,Rest of country,1913,5000,42.5980898,-97.6461739
+Bloomington,Indiana,Rest of country,1901,31000,39.1667051,-86.5304803
+Blue Island,Illinois,Rest of country,1902,15000,41.6568927,-87.6814285
+Bluffton,Indiana,Rest of country,1903,13000,40.7384872,-85.1733856
+Boise,Idaho,Rest of country,1903,40000,43.6178501,-116.1994868
+Bolivar,Missouri,Rest of country,1913,8000,37.6134016,-93.4105803
+Bolivar,New York,Rest of country,1909,5000,42.0652351,-78.1676114
+Boonville,Indiana,Rest of country,1913,12000,38.0492131,-87.2741723
+Boston,Georgia,South,1912,6000,30.790397,-83.790492
+Boswell,Indiana,Rest of country,1910,8000,40.518508,-87.381545
+Boulder,Colorado,Rest of country,1904,15000,40.0200745,-105.2815126
+Boyne City,Michigan,Rest of country,1916,15000,45.2121563,-85.0129711
+Bozeman,Montana,Rest of country,1902,15000,45.6793119,-111.037259
+Braddock,Pennsylvania,Rest of country,1895,357782,40.4034024,-79.8683824
+Bradenton,Florida,South,1917,10000,27.4985874,-82.57472
+Bradford,Pennsylvania,Rest of country,1900,40000,41.9569702,-78.6543884
+Brainerd,Minnesota,Rest of country,1903,12000,46.3526733,-94.2020084
+Brazil,Indiana,Rest of country,1902,20000,39.524385,-87.128504
+Brigham City,Utah,Rest of country,1914,12500,41.5107421,-112.0147074
+Bristolville,Ohio,Rest of country,1911,6000,41.3869667,-80.8675231
+Britt,Iowa,Rest of country,1916,8000,43.0957336,-93.8021087
+Britton,South Dakota,Rest of country,1914,7500,45.7921941,-97.7510983
+Brockton,Massachusetts,Rest of country,1910,110000,42.0798006,-71.0222872
+Broken Bow,Nebraska,Rest of country,1914,10000,41.4032836,-99.6414235
+Bronson,Michigan,Rest of country,1910,8500,41.8734868,-85.195031
+Brook,Indiana,Rest of country,1913,7000,40.8664258,-87.3636368
+Brookfield,Illinois,Rest of country,1912,10000,41.8259991,-87.8487008
+Brookfield,Missouri,Rest of country,1916,12000,39.7857555,-93.0734258
+Brookings,South Dakota,Rest of country,1907,10000,44.30825,-96.7959622
+Brookston,Indiana,Rest of country,1915,10000,40.6035509,-86.8682083
+Brookville,Indiana,Rest of country,1910,10000,39.4246031,-85.012159
+Browns Valley,Minnesota,Rest of country,1914,5500,45.5946514,-96.832665
+Brownsburg,Indiana,Rest of country,1912,12500,39.8405406,-86.3879523
+Brownsville,Tennessee,South,1909,7500,35.5939671,-89.262291
+Brownwood,Texas,South,1903,15000,31.7093197,-98.9911611
+Brush,Colorado,Rest of country,1914,6000,40.25885,-103.6241149
+Bryan,Ohio,Rest of country,1903,10000,41.4749653,-84.5500867
+Bryan,Texas,South,1902,10000,30.6731084,-96.3722475
+Bucyrus,Ohio,Rest of country,1903,15000,40.8089983,-82.973789
+Buffalo,Wyoming,Rest of country,1909,12500,44.3491565,-106.7001629
+Burlington,Kansas,Rest of country,1911,9656,38.1976689,-95.7393086
+Burlington,Vermont,Rest of country,1901,50000,44.4769294,-73.2103817
+Burlington,Washington,Rest of country,1914,5000,48.4743244,-122.3237531
+Burwell,Nebraska,Rest of country,1913,5000,41.7818363,-99.1328277
+Butler,Indiana,Rest of country,1913,10000,41.4300661,-84.8704491
+Butler,Pennsylvania,Rest of country,1917,37000,40.863031,-79.8939931
+Cadillac,Michigan,Rest of country,1903,15000,44.2471925,-85.3994777
+Caldwell,Idaho,Rest of country,1912,12500,43.6615049,-116.6882367
+Caldwell,Kansas,Rest of country,1909,7000,37.0329918,-97.6098077
+Caldwell,New Jersey,Rest of country,1908,10000,40.8409414,-74.2747621
+Calexico,California,Rest of country,1915,10000,32.6695048,-115.4931757
+Cambridge,Ohio,Rest of country,1902,21000,40.0259332,-81.5899473
+Camden,South Carolina,South,1914,5000,34.2499989,-80.6067481
+Canastota,New York,Rest of country,1902,10000,43.07846,-75.755421
+Cañon City,Colorado,Rest of country,1901,13000,38.4413881,-105.2407193
+Canton,Kansas,Rest of country,1916,6000,38.3869498,-97.4269107
+Canton,Ohio,Rest of country,1901,60000,40.797956,-81.374289
+Canton,South Dakota,Rest of country,1904,10000,43.3024663,-96.5921142
+Cape Girardeau,Missouri,Rest of country,1916,25000,37.3058947,-89.5196425
+Carey,Ohio,Rest of country,1904,8000,40.9523324,-83.3796276
+Caribou,Maine,Rest of country,1910,10000,46.860921,-68.01103
+Carlisle,Indiana,Rest of country,1915,10000,38.9633164,-87.4025827
+Carmel,Indiana,Rest of country,1913,11000,39.9776284,-86.1217583
+Carmi,Illinois,Rest of country,1914,10000,38.0868588,-88.16451
+Carnegie,Pennsylvania,Rest of country,1898,310000,40.4068431,-80.085495
+Carroll,Iowa,Rest of country,1903,10000,42.0642674,-94.8667911
+Carrollton,Illinois,Rest of country,1901,10000,39.300692,-90.4079734
+Carthage,Missouri,Rest of country,1902,25000,37.1745408,-94.3136435
+Casper,Wyoming,Rest of country,1906,13000,42.8485297,-106.3220204
+Cassopolis,Michigan,Rest of country,1908,10000,41.9117133,-86.0100068
+Catskill,New York,Rest of country,1901,20000,42.2173102,-73.8645734
+Cedar City,Utah,Rest of country,1912,10000,37.6774769,-113.0618931
+Cedar Falls,Iowa,Rest of country,1902,15000,42.5337784,-92.4447322
+Cedar Rapids,Iowa,Rest of country,1901,75000,41.9796216,-91.6675776
+Celina,Ohio,Rest of country,1904,12000,40.5511861,-84.571183
+Centralia,Illinois,Rest of country,1901,20000,38.5260668,-89.1290579
+Centralia,Washington,Rest of country,1911,15000,46.7161753,-122.9566533
+Chadron,Nebraska,Rest of country,1910,5788,42.8262145,-103.0002163
+Chanute,Kansas,Rest of country,1904,14500,37.6829021,-95.4523401
+Chariton,Iowa,Rest of country,1903,11000,41.015806,-93.305643
+Charles City,Iowa,Rest of country,1903,12500,43.0658646,-92.6768809
+Charleston,Illinois,Rest of country,1901,15000,39.493357,-88.175956
+Charleston,South Carolina,South,1914,5000,32.7784426,-79.9327054
+Charlevoix,Michigan,Rest of country,1907,10000,45.316273,-85.263774
+Charlotte,Michigan,Rest of country,1902,12000,42.561204,-84.837902
+Charlotte,North Carolina,South,1901,40000,35.228894,-80.840217
+Chatfield,Minnesota,Rest of country,1913,6000,43.8446788,-92.1874144
+Chatham,New York,Rest of country,1901,15000,42.3616774,-73.6021326
+Chattanooga,Tennessee,South,1900,50000,35.0443573,-85.3105861
+Cheboygan,Michigan,Rest of country,1908,15000,45.64388,-84.480787
+Chehalis,Washington,Rest of country,1908,10000,46.6647222,-122.9675
+Chelsea,Massachusetts,Rest of country,1908,60000,42.3936389,-71.0321742
+Cherokee,Iowa,Rest of country,1903,12000,42.748721,-95.551838
+Cherryvale,Kansas,Rest of country,1912,10000,37.2681148,-95.5480421
+Cheyenne,Wyoming,Rest of country,1899,50000,41.1391588,-104.8187866
+Chicago Heights,Illinois,Rest of country,1902,15000,41.506146,-87.6355995
+Chickasha,Oklahoma,South,1903,10000,35.0472959,-97.9393602
+Chico,California,Rest of country,1904,10000,39.7277741,-121.8395118
+Chillicothe,Illinois,Rest of country,1915,10000,40.9222589,-89.4862025
+Chillicothe,Ohio,Rest of country,1903,30000,39.3305401,-82.9826928
+Chinook,Montana,Rest of country,1918,15000,48.5921701,-109.2319525
+Chippewa Falls,Wisconsin,Rest of country,1902,20000,44.9353049,-91.3938095
+Chula Vista,California,Rest of country,1916,10000,32.6408626,-117.0830511
+Cincinnati,Ohio,Rest of country,1902,286000,39.1031182,-84.5120196
+Claremont,New Hampshire,Rest of country,1903,15000,43.3718303,-72.336177
+Clarinda,Iowa,Rest of country,1907,15000,40.7419352,-95.038313
+Clarks,Nebraska,Rest of country,1917,7500,41.2167012,-97.8381127
+Clarksdale,Mississippi,South,1911,10000,34.2037846,-90.5750543
+Clarkston,Washington,Rest of country,1912,10000,46.4123781,-117.0438384
+Clarksville,Texas,South,1902,10000,33.6106648,-95.052722
+Clay Center,Kansas,Rest of country,1909,10000,39.3764793,-97.1242867
+Clay Center,Nebraska,Rest of country,1915,7000,40.5204718,-98.0552864
+Clear Lake,Iowa,Rest of country,1916,8500,43.13834,-93.3827046
+Clearwater,Florida,South,1915,10000,27.967485,-82.801525
+Cleburne,Texas,South,1903,20000,32.3474731,-97.3883972
+Clinton,Indiana,Rest of country,1908,12500,39.6569817,-87.3980741
+Clinton,Iowa,Rest of country,1901,45000,41.8444735,-90.1887379
+Clinton,Massachusetts,Rest of country,1901,25000,42.4232376,-71.6835888
+Clintonville,Wisconsin,Rest of country,1915,9000,44.621601,-88.764478
+Clovis,California,Rest of country,1914,7000,36.8252277,-119.7029194
+Clyde,Ohio,Rest of country,1904,12500,41.303849,-82.977622
+Coalinga,California,Rest of country,1912,20000,36.1414976,-120.3608588
+Coatesville,Indiana,Rest of country,1914,8000,39.6890868,-86.6703525
+Cody,Wyoming,Rest of country,1914,15000,44.5263422,-109.0565308
+Coffeyville,Kansas,Rest of country,1911,25000,37.0337181,-95.6201121
+Coleraine,Minnesota,Rest of country,1908,15000,47.2871353,-93.4242066
+Colfax,Indiana,Rest of country,1915,9000,40.193367,-86.6664352
+Colfax,Iowa,Rest of country,1904,6500,41.676912,-93.246255
+Lincoln,Nebraska,Rest of country,1914,7500,40.7722232,-96.6522376
+Collingswood,New Jersey,Rest of country,1916,15000,39.9158485,-75.0667163
+Collinsville,Oklahoma,South,1915,7500,36.3642015,-95.8401654
+Colorado Springs,Colorado,Rest of country,1903,60000,38.8476598,-104.8610135
+Colton,California,Rest of country,1906,10000,34.0717191,-117.3214594
+Columbus,Georgia,South,1902,30000,32.4586421,-84.987295
+Columbus,Indiana,Rest of country,1901,15000,39.2041629,-85.9187672
+Columbus,Kansas,Rest of country,1912,10000,37.1721776,-94.8429225
+Columbus,Nebraska,Rest of country,1913,13000,41.4305979,-97.3588983
+Columbus,Ohio,Rest of country,1901,200000,39.9612739,-82.9900467
+Columbus,Wisconsin,Rest of country,1903,10000,43.3391001,-89.0163317
+Colusa,California,Rest of country,1905,10000,39.2143343,-122.0094175
+Concord,California,Rest of country,1915,2500,37.9779776,-122.0310733
+Concordia,Kansas,Rest of country,1907,10000,39.5702008,-97.6595598
+Conneaut,Ohio,Rest of country,1904,25000,41.9452127,-80.5566462
+Connellsville,Pennsylvania,Rest of country,1899,75000,40.0157964,-79.5882597
+Connersville,Indiana,Rest of country,1907,20000,39.6411589,-85.1410748
+Converse,Indiana,Rest of country,1916,9000,40.5775996,-85.8735037
+Coos Bay,Oregon,Rest of country,1913,12500,43.3672213,-124.2131325
+Corbin,Kentucky,South,1914,6000,36.9495019,-84.0947628
+Cordele,Georgia,South,1903,17556,31.9692753,-83.7815967
+New Cordell,Oklahoma,South,1911,9000,35.2899492,-98.9905949
+Corning,California,Rest of country,1913,10000,39.9285583,-122.1798858
+Corona,California,Rest of country,1905,11500,33.8749353,-117.568178
+Corry,Pennsylvania,Rest of country,1916,15000,41.9221535,-79.643253
+Corsicana,Texas,South,1904,25000,32.09257,-96.4665975
+Corydon,Indiana,Rest of country,1912,7500,38.2108485,-86.1266237
+Corydon,Iowa,Rest of country,1917,8000,40.7573699,-93.319168
+Coshocton,Ohio,Rest of country,1902,17000,40.2720151,-81.8595756
+Council Bluffs,Iowa,Rest of country,1903,70000,41.2589589,-95.8496552
+Council Grove,Kansas,Rest of country,1903,10000,38.6611187,-96.4919473
+Covina,California,Rest of country,1905,9000,34.0882157,-117.8873877
+Covington,Indiana,Rest of country,1913,10000,40.140335,-87.395693
+Covington,Kentucky,South,1900,85000,39.0836712,-84.5085536
+Cozad,Nebraska,Rest of country,1917,6000,40.8563961,-99.9856776
+Cranford,New Jersey,Rest of country,1908,10000,40.6557451,-74.3044235
+Crawfordsville,Indiana,Rest of country,1901,25000,40.040128,-86.9018281
+Cresco,Iowa,Rest of country,1913,17500,43.3756752,-92.1160736
+Crete,Nebraska,Rest of country,1913,10000,40.6252173,-96.9615141
+Crookston,Minnesota,Rest of country,1903,17500,47.7733926,-96.6047198
+Crown Point,Indiana,Rest of country,1906,12000,41.4189336,-87.3641337
+Culver,Indiana,Rest of country,1915,10000,41.2172264,-86.4238482
+Cumberland,Wisconsin,Rest of country,1905,10000,45.5340385,-92.0220108
+Cuthbert,Georgia,South,1912,7000,31.7718713,-84.7889593
+Dallas,Oregon,Rest of country,1911,10000,44.9199952,-123.3163178
+Dallas,South Dakota,Rest of country,1913,5000,43.2361121,-99.517053
+Danville,Indiana,Rest of country,1902,10000,39.7597196,-86.5222122
+Darlington,Indiana,Rest of country,1915,10000,40.1095952,-86.7758437
+Darlington,South Carolina,South,1916,10000,34.3058287,-79.8726733
+Darlington,Wisconsin,Rest of country,1904,10000,42.6817909,-90.1168162
+Davenport,Iowa,Rest of country,1899,75000,41.5232107,-90.5751466
+David City,Nebraska,Rest of country,1916,10000,41.2525291,-97.1289749
+Dawson,Georgia,South,1913,10000,31.7735001,-84.4465826
+Dawson,Minnesota,Rest of country,1916,9000,44.9290911,-96.0556932
+De Land,Illinois,Rest of country,1911,8000,40.1217238,-88.6450895
+Deadwood,South Dakota,Rest of country,1902,15000,44.3763306,-103.7318497
+Decatur,Alabama,South,1903,12000,34.6059253,-86.9833417
+Decatur,Illinois,Rest of country,1901,60000,39.8418705,-88.9529025
+Decatur,Indiana,Rest of country,1904,12000,40.828836,-84.925326
+Defiance,Ohio,Rest of country,1903,22000,41.2876691,-84.3579483
+Delavan,Illinois,Rest of country,1913,10000,40.3742539,-89.5469002
+Delaware,Ohio,Rest of country,1902,21500,40.299705,-83.064633
+Dell Rapids,South Dakota,Rest of country,1908,6000,43.8250447,-96.7103655
+Delphi,Indiana,Rest of country,1904,10000,40.5865567,-86.6718451
+Delphos,Ohio,Rest of country,1911,12500,40.8434521,-84.3428718
+Delta,Colorado,Rest of country,1911,6500,38.7385469,-108.069824
+Denison,Iowa,Rest of country,1902,12500,42.0154609,-95.3533554
+Derby,Connecticut,Rest of country,1906,3400,41.3436395,-73.1152158
+Des Plaines,Illinois,Rest of country,1906,5000,42.0308879,-87.8847338
+Detroit Lakes,Minnesota,Rest of country,1911,10000,46.8171808,-95.8453253
+Devils Lake,North Dakota,Rest of country,1908,12500,48.1152083,-98.8593179
+DeWitt,Iowa,Rest of country,1907,7116,41.8239952,-90.5389662
+De Witt,Nebraska,Rest of country,1906,3000,40.3936136,-96.922806
+Dickinson,North Dakota,Rest of country,1908,12500,46.8817012,-102.7878603
+Dighton,Massachusetts,Rest of country,1905,6000,41.843859,-71.1567344
+Dillon,Montana,Rest of country,1902,7500,45.2163729,-112.637774
+Dinuba,California,Rest of country,1915,8000,36.5427236,-119.386335
+Dixon,California,Rest of country,1911,10000,38.4468779,-121.822206
+Dodge City,Kansas,Rest of country,1905,8500,37.7578835,-100.0195487
+Douglas,Wyoming,Rest of country,1908,10000,42.7610824,-105.3838591
+Dover,New Hampshire,Rest of country,1902,30000,43.1928898,-70.8763312
+Dowagiac,Michigan,Rest of country,1903,12500,41.9830262,-86.1105366
+Downers Grove,Illinois,Rest of country,1906,8500,41.8089191,-88.0111746
+Downs,Kansas,Rest of country,1905,6140,39.5002667,-98.5448188
+Dublin,Georgia,South,1903,10000,32.5382935,-82.9066142
+Dubuque,Iowa,Rest of country,1901,71500,42.5026363,-90.6698632
+Dunkirk,New York,Rest of country,1904,25000,42.479839,-79.333054
+Dunlap,Iowa,Rest of country,1911,10000,41.8542867,-95.6018613
+Duquesne,Pennsylvania,Rest of country,1901,310000,40.3731757,-79.8469532
+Durand,Wisconsin,Rest of country,1905,7500,44.6263543,-91.965726
+Durango,Colorado,Rest of country,1906,15000,37.2757823,-107.8762625
+Durham,North Carolina,South,1917,32000,35.9948123,-78.8968433
+Eagle Grove,Iowa,Rest of country,1902,10000,42.6637378,-93.9076998
+Los Angeles,California,Rest of country,1914,7500,34.1391256,-118.2140017
+Earl Park,Indiana,Rest of country,1911,7500,40.683635,-87.414575
+East Cleveland,Ohio,Rest of country,1904,35000,41.5282308,-81.5846273
+East Jordan,Michigan,Rest of country,1915,10000,45.1580628,-85.1242254
+East Liverpool,Ohio,Rest of country,1899,50000,40.6177793,-80.5775615
+San Diego,California,Rest of country,1915,10000,32.7494952,-117.1100315
+Easton,Pennsylvania,Rest of country,1901,57500,40.6921315,-75.2136665
+Eatonton,Georgia,South,1914,6000,33.3293646,-83.3924901
+Eau Claire,Wisconsin,Rest of country,1902,40000,44.8130359,-91.4990839
+Edgartown,Massachusetts,Rest of country,1902,4000,41.3890052,-70.5133599
+Edgerton,Wisconsin,Rest of country,1905,10000,42.8364361,-89.0715461
+Edgewater,New Jersey,Rest of country,1915,15000,40.8297434,-73.9743189
+Edgewood,Pennsylvania,Rest of country,1914,12500,40.4330681,-79.8847731
+Edmonds,Washington,Rest of country,1910,5000,47.8102171,-122.3727464
+Edwardsville,Illinois,Rest of country,1903,12500,38.811139,-89.953855
+El Centro,California,Rest of country,1909,10000,32.792,-115.5630514
+El Dorado,Kansas,Rest of country,1910,10000,37.81724,-96.8622524
+El Paso,Illinois,Rest of country,1905,6000,40.7396177,-89.0187174
+El Paso,Texas,South,1902,37500,31.7630332,-106.4873446
+El Reno,Oklahoma,South,1903,12500,35.531619,-97.951865
+Eldon,Iowa,Rest of country,1911,7500,40.919585,-92.2252607
+Eldora,Iowa,Rest of country,1901,10000,42.3613335,-93.0962143
+Elk City,Oklahoma,South,1914,10000,35.410895,-99.4072143
+Elkhart,Indiana,Rest of country,1901,35000,41.6843869,-85.9734868
+Ellensburg,Washington,Rest of country,1908,10000,46.9939048,-120.5446579
+Elmira,New York,Rest of country,1916,70000,42.090869,-76.805812
+Elroy,Wisconsin,Rest of country,1905,10000,43.740999,-90.2723231
+Elwood,Indiana,Rest of country,1901,30000,40.2773828,-85.8397055
+Emmetsburg,Iowa,Rest of country,1911,10000,43.1127427,-94.6830357
+Emporia,Kansas,Rest of country,1902,22000,38.4036579,-96.1799142
+Enfield,Connecticut,Rest of country,1910,20000,42.0027181,-72.5441445
+Englewood,New Jersey,Rest of country,1913,25000,40.8939023,-73.9715801
+Enid,Oklahoma,South,1904,25000,36.3955891,-97.8783911
+Enterprise,Oregon,Rest of country,1913,5000,45.4257542,-117.2760638
+Ephraim,Utah,Rest of country,1914,10000,39.3601777,-111.5829095
+Escanaba,Michigan,Rest of country,1902,21200,45.7461164,-87.0527971
+Escondido,California,Rest of country,1908,7500,33.1192068,-117.086421
+Estherville,Iowa,Rest of country,1902,10000,43.4031919,-94.8369483
+Etowah,Tennessee,South,1915,8000,35.3234065,-84.5249307
+Eufaula,Alabama,South,1903,10000,31.895085,-85.1453519
+Eugene,Oregon,Rest of country,1903,10000,44.0515719,-123.0901382
+Eureka Springs,Arkansas,South,1906,15500,36.4075416,-93.7366094
+Eureka,California,Rest of country,1901,20000,40.8030257,-124.1623614
+Eureka,Kansas,Rest of country,1913,9000,37.824883,-96.2937336
+Eureka,Utah,Rest of country,1907,11000,39.9541166,-112.1202235
+Evanston,Illinois,Rest of country,1903,50000,42.0487967,-87.6863191
+Evanston,Wyoming,Rest of country,1903,11000,41.2653454,-110.963834
+Eveleth,Minnesota,Rest of country,1911,15000,47.4624456,-92.5356884
+Everett,Washington,Rest of country,1903,25000,47.9789848,-122.2020795
+Excelsior Springs,Missouri,Rest of country,1913,10000,39.3391712,-94.2260559
+Exeter,California,Rest of country,1914,5000,36.2939733,-119.1386064
+Fairbury,Nebraska,Rest of country,1907,12500,40.1385674,-97.1782774
+Fairfield,Iowa,Rest of country,1892,30000,41.0044462,-91.9643352
+Fairfield,Nebraska,Rest of country,1913,6000,40.4312233,-98.105532
+Fair Haven,Vermont,Rest of country,1905,8000,43.594801,-73.2657155
+Fairmont,Minnesota,Rest of country,1903,10000,43.6521775,-94.4610832
+Fargo,North Dakota,Rest of country,1901,20000,46.8772812,-96.7840716
+Farmington,Illinois,Rest of country,1906,5600,40.6980932,-90.0059483
+Fayette,Missouri,Rest of country,1913,10000,39.1452446,-92.6821899
+Fergus Falls,Minnesota,Rest of country,1904,21475,46.2835212,-96.0777887
+Ferndale,California,Rest of country,1908,8000,40.579872,-124.261148
+Fitzgerald,Georgia,South,1914,12500,31.7157272,-83.2538836
+Flint,Michigan,Rest of country,1902,25000,43.0215471,-83.6793186
+Flora,Illinois,Rest of country,1903,10000,38.6701807,-88.4857932
+Flora,Indiana,Rest of country,1917,10000,40.5491149,-86.5235993
+Florence,Colorado,Rest of country,1917,10000,38.391505,-105.122184
+Fond du Lac,Wisconsin,Rest of country,1902,30000,43.7772893,-88.4454951
+Fort Benton,Montana,Rest of country,1916,15000,47.8188249,-110.6681005
+Fort Branch,Indiana,Rest of country,1916,10000,38.2472343,-87.5778549
+Fort Collins,Colorado,Rest of country,1903,12500,40.5849993,-105.0725807
+Fort Dodge,Iowa,Rest of country,1901,30000,42.50445,-94.192142
+Fort Fairfield,Maine,Rest of country,1911,10000,46.7722094,-67.8338431
+Fort Morgan,Colorado,Rest of country,1914,10000,40.2522933,-103.8008242
+Fort Scott,Kansas,Rest of country,1901,18000,37.8396534,-94.7069757
+Fort Smith,Arkansas,South,1906,25000,35.3828624,-94.4186018
+Fort Wayne,Indiana,Rest of country,1901,90000,41.0771709,-85.1432369
+Fort Worth,Texas,South,1899,50000,32.749253,-97.3308124
+Fortville,Indiana,Rest of country,1916,10000,39.9322625,-85.8480354
+Fostoria,Ohio,Rest of country,1903,20000,41.1609815,-83.416003
+Fowler,Indiana,Rest of country,1906,7500,40.6180334,-87.3199955
+Francesville,Indiana,Rest of country,1915,9000,40.985369,-86.883187
+Frankfort,Indiana,Rest of country,1905,22500,40.2809157,-86.5141393
+Franklin,Indiana,Rest of country,1913,17500,39.4806055,-86.0549863
+Franklin,Nebraska,Rest of country,1915,5000,40.0999291,-98.9532262
+Franklin,New Hampshire,Rest of country,1903,15000,43.4446037,-71.6472534
+Franklin,Texas,South,1913,7500,31.027187,-96.4841359
+Franklinville,New York,Rest of country,1914,2200,42.338157,-78.457221
+Frederick,Oklahoma,South,1914,10000,34.3894081,-99.0154571
+Freehold,New Jersey,Rest of country,1903,11000,40.2587557,-74.2726125
+Freeport,Illinois,Rest of country,1901,30000,42.3003572,-89.6206069
+Freeport,Maine,Rest of country,1905,6500,43.8573338,-70.1027576
+Fremont,Nebraska,Rest of country,1901,15000,41.4333909,-96.4981467
+Fresno,California,Rest of country,1901,30000,36.7377981,-119.7871247
+Fullerton,California,Rest of country,1905,10000,33.8735768,-117.9263603
+Fullerton,Nebraska,Rest of country,1912,6000,41.3634729,-97.9693882
+Fulton,Illinois,Rest of country,1908,5000,41.8674204,-90.1643313
+Fulton,Missouri,Rest of country,1911,12000,38.8501568,-91.9472841
+Fulton,New York,Rest of country,1902,15000,43.319606,-76.4158821
+Gadsden,Alabama,South,1903,10000,34.022352,-86.0456112
+Gaffney,South Carolina,South,1913,7500,35.0734175,-81.6485225
+Gainesville,Florida,South,1916,10000,29.653566,-82.3237375
+Gainesville,Texas,South,1912,15000,33.623241,-97.147726
+Galena,Illinois,Rest of country,1905,12500,42.4120697,-90.4318745
+Galesburg,Illinois,Rest of country,1901,50000,40.9471822,-90.3753238
+Galion,Ohio,Rest of country,1902,15000,40.7348145,-82.7890734
+Gallipolis,Ohio,Rest of country,1902,12500,38.8088923,-82.2025551
+Galva,Illinois,Rest of country,1908,8000,41.1678273,-90.0462639
+Garden City,Kansas,Rest of country,1909,10000,37.9716898,-100.8726618
+Gardiner,Maine,Rest of country,1897,2500,44.2300698,-69.7753222
+Garland,Utah,Rest of country,1912,8000,41.741222,-112.163711
+Garner,Iowa,Rest of country,1914,6500,43.101266,-93.602456
+Garrett,Indiana,Rest of country,1913,10000,41.3481712,-85.1360626
+Gas City,Indiana,Rest of country,1913,12500,40.4881533,-85.6136034
+Geneva,Illinois,Rest of country,1907,7500,41.8878136,-88.30877
+Geneva,Nebraska,Rest of country,1911,8000,40.5253688,-97.5995665
+Geneva,Ohio,Rest of country,1908,10000,41.8050539,-80.9481489
+Germantown,Ohio,Rest of country,1904,10000,39.6257803,-84.3722245
+Gibbon,Nebraska,Rest of country,1912,6000,40.7474035,-98.8451247
+Gilman,Illinois,Rest of country,1915,10000,40.7667015,-87.992262
+Gilroy,California,Rest of country,1906,10000,37.0051296,-121.5727007
+Girard,Kansas,Rest of country,1905,8000,37.5099448,-94.8449136
+Glasgow,Montana,Rest of country,1907,7500,48.1929064,-106.6362505
+Glen Ellyn,Illinois,Rest of country,1912,10000,41.8775293,-88.0670118
+Glendale,California,Rest of country,1911,12500,34.1440599,-118.2535921
+Glenwood,Iowa,Rest of country,1903,7000,41.0481763,-95.7415957
+Glenwood,Minnesota,Rest of country,1907,10000,45.6490603,-95.3881368
+Gloversville,New York,Rest of country,1901,50000,43.0505233,-74.3429386
+Goldendale,Washington,Rest of country,1913,8000,45.820244,-120.824351
+Goodland,Kansas,Rest of country,1908,10000,39.3470395,-101.7120722
+Goshen,Indiana,Rest of country,1901,25000,41.5891606,-85.8345639
+Gothenburg,Nebraska,Rest of country,1914,8000,40.929909,-100.1607901
+Graceville,Minnesota,Rest of country,1913,7000,45.5678082,-96.4367598
+Grafton,North Dakota,Rest of country,1903,10000,48.4179352,-97.4123531
+Granby,Massachusetts,Rest of country,1916,5000,42.2556294,-72.5171871
+Grand Forks,North Dakota,Rest of country,1901,22700,47.9252568,-97.0328547
+Grand Haven,Michigan,Rest of country,1903,12500,43.0641441,-86.2267532
+Grand Island,Nebraska,Rest of country,1902,20000,40.9263957,-98.3420118
+Grand Junction,Colorado,Rest of country,1899,8000,39.0708357,-108.5637817
+Grand Rapids,Minnesota,Rest of country,1905,10000,47.233012,-93.5258253
+Grandview,Indiana,Rest of country,1917,8000,37.9338601,-86.9807601
+Grants Pass,Oregon,Rest of country,1903,12500,42.4429784,-123.3267074
+Grass Valley,California,Rest of country,1915,15000,39.2168915,-121.0633288
+Grayville,Illinois,Rest of country,1911,6000,38.2568701,-87.9952708
+Great Bend,Kansas,Rest of country,1906,12500,38.3658574,-98.7671801
+Great Falls,Montana,Rest of country,1901,31700,47.5052849,-111.3007715
+Green Bay,Wisconsin,Rest of country,1901,45000,44.5147537,-88.0099139
+Green River,Wyoming,Rest of country,1905,20000,41.5299606,-109.4645462
+Greencastle,Indiana,Rest of country,1902,20165,39.6408545,-86.8637621
+Greeneville,Tennessee,South,1913,10000,36.1649505,-82.8296151
+Greenfield,Indiana,Rest of country,1904,10000,39.785043,-85.7694226
+Greenfield,Iowa,Rest of country,1915,7500,41.3038314,-94.4612167
+Greensburg,Indiana,Rest of country,1902,15000,39.3372722,-85.483581
+Greenup,Illinois,Rest of country,1904,8000,39.2467663,-88.1671239
+Greenville,Illinois,Rest of country,1903,11000,38.8918333,-89.4148533
+Greenville,Ohio,Rest of country,1901,25000,40.0991088,-84.6326584
+Greenville,Texas,South,1903,15000,33.1398034,-96.1072021
+Greenwood,Mississippi,South,1911,10000,33.518665,-90.185023
+Greenwood,South Carolina,South,1916,12500,34.1954001,-82.1617883
+Gridley,California,Rest of country,1913,7000,39.3637773,-121.6935833
+Griggsville,Illinois,Rest of country,1915,5000,39.7082018,-90.7265569
+Grundy Center,Iowa,Rest of country,1910,6000,42.3606599,-92.7723503
+Guilford,Maine,Rest of country,1908,5750,45.169783,-69.3833107
+Gulfport,Mississippi,South,1916,10000,30.3671436,-89.0912676
+Guthrie,Oklahoma,South,1901,26000,35.8793819,-97.4256719
+Halstead,Kansas,Rest of country,1909,7500,38.0032806,-97.5057144
+Hamburg,Iowa,Rest of country,1915,9000,40.6063168,-95.6574078
+Hamburg,New York,Rest of country,1914,5000,42.7189329,-78.8297141
+Hamburg,Pennsylvania,Rest of country,1903,10000,40.5559618,-75.9839998
+Hamilton,Montana,Rest of country,1914,9000,46.2461127,-114.1594626
+Hammond,Indiana,Rest of country,1904,27000,41.5833688,-87.5000412
+Hampton,Iowa,Rest of country,1902,10000,42.7415755,-93.2070739
+Hanford,California,Rest of country,1903,12500,36.3293428,-119.6454498
+Hardin,Montana,Rest of country,1916,7500,45.7332158,-107.6070963
+Harriman,Tennessee,South,1908,10000,35.9337675,-84.5512124
+Harrisburg,Illinois,Rest of country,1908,12500,37.7406829,-88.5406104
+Hartford City,Indiana,Rest of country,1902,16000,40.4533524,-85.3683054
+Hartington,Nebraska,Rest of country,1914,8000,42.6201229,-97.2648909
+Harvard,Nebraska,Rest of country,1914,6000,40.6193014,-98.0974167
+Harvey,Illinois,Rest of country,1905,13500,41.6085188,-87.6474061
+Hastings,Nebraska,Rest of country,1902,15000,40.5867252,-98.388463
+Havana,Illinois,Rest of country,1900,8000,40.299178,-90.062555
+Lincoln,Nebraska,Rest of country,1906,7000,40.8516699,-96.6290747
+Havre,Montana,Rest of country,1913,12000,48.5510333,-109.6767049
+Hawarden,Iowa,Rest of country,1901,5000,42.9969447,-96.483512
+Hays,Kansas,Rest of country,1910,8000,38.8791783,-99.3267702
+Hayward,California,Rest of country,1906,11750,37.6711205,-122.083445
+Hayward,Wisconsin,Rest of country,1903,10000,46.0130065,-91.4846208
+Healdsburg,California,Rest of country,1909,10000,38.6144066,-122.8701516
+Hebron,Indiana,Rest of country,1917,7500,41.3189357,-87.2017898
+Hemet,California,Rest of country,1910,7500,33.7497814,-116.9695462
+Henderson,Kentucky,South,1901,25000,37.8381615,-87.5944741
+Hendersonville,North Carolina,South,1911,10000,35.3155045,-82.4630152
+Herington,Kansas,Rest of country,1913,10000,38.6697316,-96.9433065
+Hermiston,Oregon,Rest of country,1915,5000,45.8404101,-119.2894604
+Hiawatha,Kansas,Rest of country,1906,10000,39.8526009,-95.5335283
+Hibbing,Minnesota,Rest of country,1906,25000,47.4271546,-92.9376887
+Hickman,Kentucky,South,1906,10000,36.5718922,-89.1935363
+Hickory,North Carolina,South,1917,13250,35.7327724,-81.3450012
+Highland Park,Illinois,Rest of country,1903,12000,42.1845026,-87.7967842
+Hillsboro,Illinois,Rest of country,1903,11000,39.1581222,-89.4937711
+Hillsboro,Oregon,Rest of country,1913,10000,45.5224914,-122.9893199
+Hinton,West Virginia,South,1907,12500,37.674043,-80.891075
+Hobart,Indiana,Rest of country,1914,16000,41.53361,-87.2562729
+Hobart,Oklahoma,South,1911,10000,35.0268669,-99.0926208
+Holdrege,Nebraska,Rest of country,1904,8500,40.4402885,-99.3698217
+Hollister,California,Rest of country,1910,10000,36.8518331,-121.4051229
+Holliston,Massachusetts,Rest of country,1903,10000,42.2003734,-71.4291196
+Los Angeles,California,Rest of country,1906,10000,34.0907315,-118.3266146
+Honea Path,South Carolina,South,1907,5000,34.4499121,-82.3951342
+Honolulu,Hawaii,Rest of country,1909,100000,21.30549,-157.8600524
+Hood River,Oregon,Rest of country,1912,17500,45.708857,-121.5122706
+Hoopeston,Illinois,Rest of country,1903,12500,40.4685395,-87.6648908
+Hopkinsville,Kentucky,South,1912,15000,36.865255,-87.49059
+Hoquiam,Washington,Rest of country,1909,20000,46.977191,-123.8871627
+Hornell,New York,Rest of country,1903,25000,42.3278477,-77.6611025
+Hot Springs,South Dakota,Rest of country,1907,10000,43.431646,-103.4743625
+Houghton,Michigan,Rest of country,1908,15000,47.1228469,-88.5685183
+Houlton,Maine,Rest of country,1903,10000,46.125245,-67.8376928
+Houston,Mississippi,South,1908,6000,33.8964329,-89.0009789
+Howell,Michigan,Rest of country,1902,15000,42.6087392,-83.9319532
+Hudson,Massachusetts,Rest of country,1903,12500,42.3916636,-71.5705038
+Hudson,Michigan,Rest of country,1903,10000,41.8538384,-84.3535275
+Hudson,Wisconsin,Rest of country,1903,12000,44.9771691,-92.7582308
+Humboldt,Iowa,Rest of country,1906,10000,42.7219485,-94.2164433
+Huntington Beach,California,Rest of country,1913,10000,33.6620932,-117.9991658
+Huntington,Indiana,Rest of country,1901,25000,40.881571,-85.497136
+Huntington,West Virginia,South,1901,35000,38.41962,-82.443895
+Huntsville,Alabama,South,1914,12500,34.7303688,-86.5861037
+Huntsville,Missouri,Rest of country,1914,10000,39.4399921,-92.5438168
+Huron,South Dakota,Rest of country,1907,10000,44.3603869,-98.2145482
+Hutchinson,Kansas,Rest of country,1902,32000,38.0608445,-97.9297743
+Hutchinson,Minnesota,Rest of country,1903,12500,44.8916871,-94.3681061
+Idaho Falls,Idaho,Rest of country,1909,15000,43.4914241,-112.0425214
+Idaho Springs,Colorado,Rest of country,1903,10443,39.7421145,-105.5182823
+Imperial,California,Rest of country,1909,10000,32.8482084,-115.571664
+Independence,Kansas,Rest of country,1905,22500,37.2225165,-95.7043982
+Indianola,Iowa,Rest of country,1903,12000,41.362071,-93.564094
+Inglewood,California,Rest of country,1916,10000,33.9620099,-118.3554388
+Iola,Kansas,Rest of country,1904,15000,37.9215778,-95.4016758
+Iowa City,Iowa,Rest of country,1902,35000,41.6590043,-91.5318803
+Iowa Falls,Iowa,Rest of country,1903,10000,42.5198868,-93.2645741
+Iron Mountain,Michigan,Rest of country,1901,17500,45.8204296,-88.0635264
+Ironwood,Michigan,Rest of country,1900,17000,46.4551202,-90.1670443
+Ishpeming,Michigan,Rest of country,1901,25000,46.4913803,-87.6695168
+Jackson,Michigan,Rest of country,1901,70000,42.2479398,-84.4109369
+Jackson,Mississippi,South,1911,25000,32.2981392,-90.18065
+Jackson,Tennessee,South,1901,30000,35.6153469,-88.8147983
+Jacksonville,Florida,South,1902,55000,30.3290141,-81.6584251
+Jacksonville,Illinois,Rest of country,1901,40000,39.7308222,-90.2289142
+Janesville,Minnesota,Rest of country,1911,5000,44.1174745,-93.7079896
+Janesville,Wisconsin,Rest of country,1901,30000,42.6792182,-89.0191268
+Jefferson City,Missouri,Rest of country,1900,25000,38.5747566,-92.1684265
+Jefferson,Iowa,Rest of country,1903,10000,42.0155627,-94.3766252
+Jefferson,Texas,South,1906,10000,32.7562375,-94.3473146
+Jefferson,Wisconsin,Rest of country,1911,10000,43.0027866,-88.8076502
+Jeffersonville,Indiana,Rest of country,1902,16000,38.275749,-85.740597
+Jennings,Louisiana,South,1907,10000,30.222768,-92.6588704
+Jerseyville,Illinois,Rest of country,1902,12000,39.118801,-90.3300898
+Johnson City,Tennessee,South,1902,25000,36.3134397,-82.3534727
+Johnstown,New York,Rest of country,1901,25000,43.004567,-74.372202
+Johnstown,Pennsylvania,Rest of country,1890,55332,40.3267323,-78.9223625
+Joplin,Missouri,Rest of country,1901,60000,37.0842271,-94.513281
+Kalispell,Montana,Rest of country,1901,10000,48.1963803,-114.3110559
+Kaukauna,Wisconsin,Rest of country,1902,12000,44.2780432,-88.2720503
+Kearney,Nebraska,Rest of country,1903,12000,40.6961959,-99.0835316
+Kearny,New Jersey,Rest of country,1906,27600,40.7613943,-74.1498321
+Kendallville,Indiana,Rest of country,1912,12500,41.4414384,-85.2649754
+Kent,Ohio,Rest of country,1901,11500,41.1533618,-81.3613253
+Kentland,Indiana,Rest of country,1909,10000,40.7689362,-87.4468275
+Kenton,Ohio,Rest of country,1902,20000,40.6485112,-83.604732
+Kewanee,Illinois,Rest of country,1901,25000,41.2432403,-89.9259414
+Kewanna,Indiana,Rest of country,1913,8000,41.0188367,-86.4123852
+Milwaukee,Wisconsin,Rest of country,1912,6000,43.0416932,-87.918983
+Kingman,Indiana,Rest of country,1913,8000,39.9672909,-87.2779782
+Kingman,Kansas,Rest of country,1913,10000,37.6462678,-98.1135166
+Kingston,New York,Rest of country,1902,30000,41.9270367,-73.9973608
+Kingstree,South Carolina,South,1915,6000,33.6655123,-79.8330827
+Kinsman,Ohio,Rest of country,1911,7000,41.4478922,-80.5879924
+Kirklin,Indiana,Rest of country,1914,7500,40.1931943,-86.3599292
+Klamath Falls,Oregon,Rest of country,1913,20000,42.224867,-121.7816704
+Knightstown,Indiana,Rest of country,1911,10000,39.795089,-85.527261
+Knoxville,Iowa,Rest of country,1910,10000,41.3173424,-93.0967421
+Knoxville,Tennessee,South,1916,10000,35.9623691,-83.9197273
+Kokomo,Indiana,Rest of country,1902,25000,40.4881071,-86.1296743
+La Grande,Oregon,Rest of country,1913,12500,45.3245771,-118.0877188
+La Grange,Illinois,Rest of country,1903,12500,41.8050314,-87.8692254
+La Harpe,Illinois,Rest of country,1904,5000,40.583188,-90.9669256
+La Porte,Indiana,Rest of country,1916,27500,41.611143,-86.7227195
+La Salle,Illinois,Rest of country,1904,25000,41.3305371,-89.0962977
+Buffalo,New York,Rest of country,1917,30000,42.8262285,-78.8309028
+Ladysmith,Wisconsin,Rest of country,1907,10000,45.4630231,-91.1040358
+LaGrange,Indiana,Rest of country,1916,12500,41.643399,-85.4194811
+Lake Andes,South Dakota,Rest of country,1911,5000,43.1558724,-98.5386308
+Lake Charles,Louisiana,South,1901,10000,30.2261327,-93.219231
+Lake City,Iowa,Rest of country,1908,7500,42.268424,-94.7333355
+Lake City,Minnesota,Rest of country,1917,13000,44.4492982,-92.2666914
+Lakeport,California,Rest of country,1914,8000,39.0431107,-122.9138643
+Lakeville,Massachusetts,Rest of country,1912,5000,41.8463518,-70.9505532
+Lakewood,New Jersey,Rest of country,1917,12500,40.0864132,-74.2152899
+Lakewood,Ohio,Rest of country,1907,44600,41.4846911,-81.8042385
+Lamar,Colorado,Rest of country,1907,12000,38.0848134,-102.6181227
+Lander,Wyoming,Rest of country,1906,15000,42.8361971,-108.7286228
+Lansing,Michigan,Rest of country,1902,35000,42.7374917,-84.5534696
+Lapeer,Michigan,Rest of country,1917,13750,43.0510741,-83.3181669
+Laramie,Wyoming,Rest of country,1903,20000,41.3113669,-105.5911007
+Las Vegas,New Mexico,Rest of country,1902,10000,35.597755,-105.2161669
+Latta,South Carolina,South,1912,5000,34.338974,-79.4343979
+Laurens,Iowa,Rest of country,1907,3800,42.8497027,-94.8517025
+Lavonia,Georgia,South,1910,5000,34.4347699,-83.1038636
+Lawrence,Kansas,Rest of country,1902,27500,38.9708079,-95.2377479
+Lawrenceburg,Indiana,Rest of country,1914,11000,39.0917945,-84.8494834
+Lawrenceburg,Kentucky,South,1908,5800,38.0383643,-84.8964231
+Lawton,Oklahoma,South,1916,20000,34.604582,-98.3961936
+Le Mars,Iowa,Rest of country,1903,12500,42.791385,-96.167506
+Leadville,Colorado,Rest of country,1901,20000,39.2531732,-106.2938377
+Leavenworth,Kansas,Rest of country,1900,30000,39.3105091,-94.9128205
+Lebanon,Indiana,Rest of country,1903,15000,40.0486006,-86.4674384
+Lebanon,New Hampshire,Rest of country,1907,12500,43.6424264,-72.2500556
+Lebanon,Ohio,Rest of country,1903,10000,39.433151,-84.2087307
+Lee,Massachusetts,Rest of country,1903,12000,42.3064274,-73.2495336
+Lehi,Utah,Rest of country,1917,10000,40.3916172,-111.8507662
+Leominster,Massachusetts,Rest of country,1906,27500,42.5264132,-71.7620267
+Leon,Iowa,Rest of country,1905,6000,40.7396829,-93.7481573
+Lewiston,Idaho,Rest of country,1903,10000,46.4222103,-117.0274381
+Lewiston,Maine,Rest of country,1901,60000,44.0954589,-70.2161981
+Lewistown,Illinois,Rest of country,1905,5400,40.3930973,-90.1548421
+Lewistown,Montana,Rest of country,1905,10000,47.0623095,-109.4303083
+Lexington,Kentucky,South,1902,60000,38.0520428,-84.4944822
+Lexington,Nebraska,Rest of country,1916,10000,40.7823188,-99.7419109
+Liberty,Indiana,Rest of country,1915,10000,39.6343367,-84.9293432
+Ligonier,Indiana,Rest of country,1907,10000,41.4633979,-85.58949
+Lima,Ohio,Rest of country,1901,34000,40.7416468,-84.1044642
+Lincoln,California,Rest of country,1907,6000,38.892093,-121.2913759
+Lincoln,Illinois,Rest of country,1901,25000,40.1468211,-89.3611277
+Lincoln,Kansas,Rest of country,1913,6000,39.0390358,-98.1458569
+Linden,Indiana,Rest of country,1916,7500,40.1880244,-86.9041982
+Linton,Indiana,Rest of country,1907,15000,39.032884,-87.164657
+Litchfield,Illinois,Rest of country,1903,15000,39.1753256,-89.6542579
+Litchfield,Minnesota,Rest of country,1903,10000,45.1283237,-94.5263984
+Little Falls,Minnesota,Rest of country,1902,10000,45.9763574,-94.3587437
+Little Falls Township,New Jersey,Rest of country,1917,10000,40.8831946,-74.2345454
+Little Rock,Arkansas,South,1906,88100,34.7460068,-92.2747068
+Littleton,Colorado,Rest of country,1915,8000,39.613321,-105.0166498
+Littleton,New Hampshire,Rest of country,1902,15000,44.3071784,-71.7736587
+Livermore,California,Rest of country,1909,10000,37.6818688,-121.7684732
+Livingston,Montana,Rest of country,1903,10000,45.660497,-110.562327
+Lodi,California,Rest of country,1907,9000,38.1369006,-121.2751532
+Logan,Iowa,Rest of country,1915,10000,41.6443791,-95.7893712
+Logansport,Indiana,Rest of country,1902,35000,40.7548203,-86.362196
+Lompoc,California,Rest of country,1909,10000,34.6391501,-120.4579409
+London,Ohio,Rest of country,1902,10000,39.8854996,-83.4455428
+Long Beach,California,Rest of country,1905,30000,33.7689561,-118.1942261
+Long Branch,New Jersey,Rest of country,1917,30000,40.3036603,-73.9942519
+Longmont,Colorado,Rest of country,1907,12500,40.1652023,-105.1004879
+Lorain,Ohio,Rest of country,1902,30000,41.4645866,-82.1772266
+Los Gatos,California,Rest of country,1901,10400,37.2358078,-121.9623751
+Louisiana,Missouri,Rest of country,1902,10000,39.450655,-91.0477588
+Loup City,Nebraska,Rest of country,1916,8000,41.275309,-98.966607
+Loveland,Colorado,Rest of country,1907,10000,40.395451,-105.0745837
+Lowell,Indiana,Rest of country,1918,12500,41.2914243,-87.4205903
+Ludington,Michigan,Rest of country,1903,15000,43.956163,-86.4453381
+Lusk,Wyoming,Rest of country,1914,11000,42.7624668,-104.4521747
+Luverne,Minnesota,Rest of country,1903,10000,43.6541806,-96.2114671
+Lyndon,Kansas,Rest of country,1909,8000,38.609031,-95.683423
+Lyons,Kansas,Rest of country,1909,6000,38.3479021,-98.2050839
+Macomb,Illinois,Rest of country,1903,15000,40.4566399,-90.6716523
+Madison,Maine,Rest of country,1904,8000,44.7967305,-69.8796978
+Madison,Minnesota,Rest of country,1905,8000,45.0124649,-96.193522
+Madison,Nebraska,Rest of country,1911,6000,41.8281826,-97.4566871
+Madison,Ohio,Rest of country,1915,10000,41.7711633,-81.049819
+Madison,South Dakota,Rest of country,1906,10000,44.0047346,-97.1117761
+Malta,Montana,Rest of country,1917,15000,48.3597197,-107.8742831
+Malvern,Iowa,Rest of country,1915,8000,41.0038621,-95.5848269
+Mancelona,Michigan,Rest of country,1916,10000,44.9026585,-85.0633628
+Manchester,Iowa,Rest of country,1902,10000,42.4860314,-91.4583851
+Manhattan,Kansas,Rest of country,1903,10000,39.1790626,-96.5662425
+Manistee,Michigan,Rest of country,1902,35000,44.2461998,-86.3234425
+Manitou Springs,Colorado,Rest of country,1909,6500,38.8573268,-104.9117583
+Manitowoc,Wisconsin,Rest of country,1902,25000,44.0908774,-87.6571339
+Mankato,Minnesota,Rest of country,1901,40000,44.1677258,-94.0022289
+Mansfield,Ohio,Rest of country,1903,37000,40.7577441,-82.5137595
+Mansfield,Pennsylvania,Rest of country,1911,5000,41.80903,-77.079154
+Manti,Utah,Rest of country,1910,11470,39.2650974,-111.6373959
+Mapleton,Minnesota,Rest of country,1905,5000,43.92855,-93.9577372
+Maquoketa,Iowa,Rest of country,1902,12500,42.0680625,-90.667082
+Marceline,Missouri,Rest of country,1917,12500,39.7158475,-92.9485617
+Marengo,Iowa,Rest of country,1903,10000,41.7988449,-92.068264
+Marietta,Ohio,Rest of country,1913,30000,39.4233119,-81.456706
+Marion,Illinois,Rest of country,1909,18000,37.7302704,-88.9281171
+Marion,Indiana,Rest of country,1901,50000,40.5554885,-85.6601638
+Marion,Iowa,Rest of country,1903,11500,42.0321935,-91.59746
+Marion,Ohio,Rest of country,1902,30000,40.5857223,-83.1282723
+Marion,South Carolina,South,1904,7500,34.177907,-79.3995224
+Marlborough,Massachusetts,Rest of country,1902,30000,42.3459271,-71.5522874
+Marlette,Michigan,Rest of country,1918,7500,43.3256972,-83.0803025
+Marseilles,Illinois,Rest of country,1904,10000,41.329981,-88.706907
+Marshall,Minnesota,Rest of country,1903,10000,44.448423,-95.7911916
+Marshalltown,Iowa,Rest of country,1901,30000,42.0461255,-92.9152965
+Marshfield,Missouri,Rest of country,1910,5000,37.3378546,-92.9082274
+Martinsville,Indiana,Rest of country,1906,12500,39.4255371,-86.4276673
+Marysville,Ohio,Rest of country,1906,10000,40.2344879,-83.3662258
+Maryville,Missouri,Rest of country,1903,14000,40.3499322,-94.8726057
+Mason City,Iowa,Rest of country,1902,20000,43.1490179,-93.1973462
+Mattoon,Illinois,Rest of country,1901,25000,39.4819077,-88.3742274
+Maumee,Ohio,Rest of country,1915,10000,41.5668734,-83.6464996
+Maywood,Illinois,Rest of country,1904,12500,41.8873546,-87.8389179
+McAlester,Oklahoma,South,1906,25000,34.9334298,-95.7697131
+McCook,Nebraska,Rest of country,1905,11000,40.2049748,-100.6261301
+McKeesport,Pennsylvania,Rest of country,1899,50000,40.345287,-79.8551881
+McMinnville,Oregon,Rest of country,1912,10000,45.2097515,-123.1996916
+McPherson,Kansas,Rest of country,1915,12500,38.370675,-97.668973
+Medford,Oregon,Rest of country,1911,20000,42.3257382,-122.8706129
+Medford,Wisconsin,Rest of country,1913,6000,45.1385798,-90.3401404
+Melrose,Massachusetts,Rest of country,1901,25000,42.456157,-71.070525
+Memphis,Texas,South,1912,10000,34.7247758,-100.5340144
+Mendon,Michigan,Rest of country,1905,10000,42.0071438,-85.4535955
+Mendota,Illinois,Rest of country,1904,10000,41.5472547,-89.1175851
+Merom,Indiana,Rest of country,1916,10000,39.0564308,-87.5675234
+Merrill,Wisconsin,Rest of country,1907,17500,45.1797681,-89.7014809
+Metropolis,Illinois,Rest of country,1912,9000,37.1495194,-88.731975
+Mexico,Missouri,Rest of country,1912,12500,39.172455,-91.885021
+Miami,Oklahoma,South,1916,10000,36.8779442,-94.8770626
+Miamisburg,Ohio,Rest of country,1908,12500,39.6392099,-84.2822722
+Middleport,Ohio,Rest of country,1911,8100,39.0006994,-82.0496525
+Middlesboro,Kentucky,South,1908,15000,36.6063804,-83.7143707
+Middletown,Ohio,Rest of country,1902,25000,39.5138992,-84.4049003
+Midland,Michigan,Rest of country,1917,12500,43.6155825,-84.2472116
+Midland,Pennsylvania,Rest of country,1914,20000,40.6367812,-80.4506653
+Milan,Ohio,Rest of country,1911,8000,41.2977778,-82.6047222
+Milbank,South Dakota,Rest of country,1905,7000,45.2166011,-96.6360855
+Miles City,Montana,Rest of country,1901,10000,46.407344,-105.845885
+Milford,Indiana,Rest of country,1915,10000,41.4283811,-85.8419371
+Milford,Illinois,Rest of country,1904,7000,40.6281962,-87.6933741
+Mill Valley,California,Rest of country,1910,10000,37.9059907,-122.5542859
+Millbury,Massachusetts,Rest of country,1915,12500,42.1904464,-71.7631478
+Milo,Maine,Rest of country,1908,8500,45.2536285,-68.9860489
+Milton-Freewater,Oregon,Rest of country,1915,7500,45.9326346,-118.3877435
+Minot,North Dakota,Rest of country,1908,15000,48.2338552,-101.2881171
+Mishawaka,Indiana,Rest of country,1915,30000,41.6606189,-86.17858
+Missoula,Montana,Rest of country,1903,21500,46.8698305,-113.9899158
+Missouri Valley,Iowa,Rest of country,1909,10000,41.5572793,-95.8894926
+Mitchell,Indiana,Rest of country,1914,15000,38.7321628,-86.4749303
+Mitchell,South Dakota,Rest of country,1902,12000,43.7112326,-98.0286196
+Moberly,Missouri,Rest of country,1902,20000,39.4183689,-92.4382367
+Moline,Illinois,Rest of country,1901,40000,41.5067003,-90.5151342
+Monon,Indiana,Rest of country,1913,10000,40.8639377,-86.87889
+Monroe City,Missouri,Rest of country,1916,7500,39.6541275,-91.7343831
+Monrovia,California,Rest of country,1905,10000,34.1485177,-118.0020418
+Monte Vista,Colorado,Rest of country,1916,10000,37.5799388,-106.1450321
+Monterey,California,Rest of country,1907,10000,36.5963932,-121.8968893
+Monterey,Indiana,Rest of country,1917,5000,41.156774,-86.481267
+Montevideo,Minnesota,Rest of country,1905,10000,44.9436951,-95.7234518
+Montezuma,Georgia,South,1906,10000,32.3051576,-84.0274072
+Montezuma,Iowa,Rest of country,1917,8000,41.5851462,-92.5220412
+Montgomery,Alabama,South,1901,50000,32.3792193,-86.3057508
+Monticello,Indiana,Rest of country,1906,10000,40.7443938,-86.7659117
+Monticello,Iowa,Rest of country,1903,10500,42.237623,-91.187522
+Montpelier,Indiana,Rest of country,1907,10000,40.5528532,-85.2781109
+Mooresville,Indiana,Rest of country,1913,10000,39.6122407,-86.3802503
+Moorhead,Minnesota,Rest of country,1904,12000,46.871224,-96.767145
+Morrilton,Arkansas,South,1915,10000,35.1526163,-92.7437844
+Morris,Illinois,Rest of country,1912,12500,41.3613758,-88.4240987
+Morris,Minnesota,Rest of country,1903,10000,45.5873477,-95.9125314
+Morristown,Vermont,Rest of country,1911,7000,44.5572744,-72.6237275
+Moscow,Idaho,Rest of country,1904,10000,46.7334609,-116.9982318
+Moultrie,Georgia,South,1906,10000,31.1799407,-83.7888387
+Mound Bayou,Mississippi,South,1909,4000,33.8781674,-90.7273204
+Mount Ayr,Iowa,Rest of country,1915,8000,40.7136268,-94.2385323
+Mount Carmel,Illinois,Rest of country,1909,15000,38.4148114,-87.7615317
+Mount Carroll,Illinois,Rest of country,1905,11000,42.1002441,-89.9791788
+Mount Clemens,Michigan,Rest of country,1902,17000,42.5976976,-82.8770232
+Mount Pleasant,Iowa,Rest of country,1903,12500,40.966692,-91.549229
+Mount Sterling,Ohio,Rest of country,1911,10000,39.7185638,-83.2666527
+Mount Vernon,Illinois,Rest of country,1903,15000,38.3175847,-88.8994427
+Mount Vernon,Indiana,Rest of country,1902,14000,37.9333329,-87.8966415
+Mount Vernon,New York,Rest of country,1901,72000,40.9105367,-73.8344479
+Mountain Home,Idaho,Rest of country,1907,6000,43.1329504,-115.6911975
+Mountain Iron,Minnesota,Rest of country,1914,8000,47.5328352,-92.6218997
+Mount Pleasant,Utah,Rest of country,1916,10000,39.5469073,-111.4554659
+Muncie,Indiana,Rest of country,1901,55000,40.1926169,-85.3839647
+Munhall,Pennsylvania,Rest of country,1896,322067,40.3922914,-79.9000499
+Murphy,North Carolina,South,1916,7500,35.086761,-84.031682
+Murray,Utah,Rest of country,1911,10000,40.6613745,-111.8832208
+Muskogee,Oklahoma,South,1910,60000,35.7478769,-95.3696909
+Nampa,Idaho,Rest of country,1907,10500,43.5788175,-116.55978
+Napoleon,Ohio,Rest of country,1911,10000,41.3913359,-84.1288904
+Nashua,Iowa,Rest of country,1905,5690,42.9530484,-92.5378395
+National City,California,Rest of country,1909,10000,32.6781085,-117.0991967
+Needham,Massachusetts,Rest of country,1903,10000,42.2809285,-71.2377548
+Neenah,Wisconsin,Rest of country,1901,12500,44.184971,-88.4577135
+Neillsville,Wisconsin,Rest of country,1913,10000,44.5591629,-90.5960219
+Neligh,Nebraska,Rest of country,1908,5000,42.1323817,-98.0302604
+Nevada City,California,Rest of country,1904,10000,39.2639237,-121.0181895
+Nevada,Missouri,Rest of country,1915,17500,37.8393878,-94.3581245
+New Albany,Indiana,Rest of country,1902,40000,38.2852692,-85.8260258
+New Brunswick,New Jersey,Rest of country,1902,52500,40.4966567,-74.4442802
+New Carlisle,Indiana,Rest of country,1917,9000,41.7003231,-86.509462
+New Castle,Indiana,Rest of country,1913,20000,39.929175,-85.366976
+New Hampton,Iowa,Rest of country,1908,10000,43.0581457,-92.3161627
+New London,Ohio,Rest of country,1914,10000,41.0839153,-82.3984478
+New London,Wisconsin,Rest of country,1903,10000,44.3894444,-88.7394444
+New Marlborough,Massachusetts,Rest of country,1917,5000,42.1111825,-73.2529464
+New Rochelle,New York,Rest of country,1901,60000,40.9114882,-73.7823549
+Newaygo,Michigan,Rest of country,1913,5000,43.4204254,-85.7985458
+Newberg,Oregon,Rest of country,1911,10000,45.3030817,-122.9693971
+Newburgh,Indiana,Rest of country,1916,10000,37.9444522,-87.4063854
+Newcastle,Wyoming,Rest of country,1911,12500,43.8556532,-104.2030102
+Newman,California,Rest of country,1914,8000,37.316418,-121.02771
+Newnan,Georgia,South,1901,10000,33.3743424,-84.8006904
+Newport,Kentucky,South,1899,26500,39.091449,-84.4957757
+Newton,Iowa,Rest of country,1902,10000,41.7019697,-93.0540823
+Newton,Kansas,Rest of country,1902,16000,38.0466779,-97.3450365
+Niagara Falls,New York,Rest of country,1901,50000,43.1023413,-79.0515031
+Niles,Michigan,Rest of country,1903,15000,41.829295,-86.2521529
+Noblesville,Indiana,Rest of country,1903,12500,40.0445621,-86.0149237
+Norfolk,Nebraska,Rest of country,1907,10000,42.0324339,-97.4178383
+North Bend,Nebraska,Rest of country,1911,7500,41.4619485,-96.7797515
+Penn Hills,Pennsylvania,Rest of country,1901,20600,40.4934014,-79.7972702
+North Judson,Indiana,Rest of country,1917,10000,41.2161278,-86.7759141
+North Manchester,Indiana,Rest of country,1910,10000,41.0028787,-85.7691467
+North Platte,Nebraska,Rest of country,1910,12000,41.1402759,-100.7601454
+North Tonawanda,New York,Rest of country,1902,20000,43.038668,-78.8642033
+North Vernon,Indiana,Rest of country,1918,20000,39.006165,-85.6235796
+Yakima,Washington,Rest of country,1903,15000,46.6044415,-120.5043262
+Northfield,Minnesota,Rest of country,1908,10000,44.4577908,-93.1588367
+Northport,New York,Rest of country,1913,10000,40.9009313,-73.3431727
+Norwalk,Connecticut,Rest of country,1901,20000,41.116696,-73.415462
+Norwalk,Ohio,Rest of country,1903,15000,41.2420959,-82.614972
+Nutley,New Jersey,Rest of country,1913,20000,40.8151107,-74.162512
+Nyack,New York,Rest of country,1901,15000,41.0886523,-73.9183613
+O'Neill,Nebraska,Rest of country,1912,10000,42.4572744,-98.6442893
+Oakdale,California,Rest of country,1916,7000,37.7666263,-120.8470308
+Oakland,Maine,Rest of country,1912,10000,44.5463075,-69.7196379
+Oakmont,Pennsylvania,Rest of country,1899,25000,40.522057,-79.8417112
+Ocala,Florida,South,1907,10000,29.1880517,-82.1391132
+Odebolt,Iowa,Rest of country,1904,4000,42.3118352,-95.2534791
+Ogden,Utah,Rest of country,1901,25000,41.223,-111.9738304
+Oil City,Pennsylvania,Rest of country,1900,44000,41.4289588,-79.71138
+Oklahoma City,Oklahoma,South,1899,60000,35.47129,-97.5168981
+Okolona,Mississippi,South,1914,7500,34.0044241,-88.7509464
+Olathe,Kansas,Rest of country,1909,10000,38.8838787,-94.8198352
+Old Town,Maine,Rest of country,1903,10000,44.935349,-68.648118
+Olean,New York,Rest of country,1906,40000,42.0791244,-78.4321212
+Olney,Illinois,Rest of country,1903,11500,38.7308811,-88.0853154
+Olympia,Washington,Rest of country,1903,25000,47.0413393,-122.8979925
+Onarga,Illinois,Rest of country,1906,5000,40.7150544,-88.0095342
+Onawa,Iowa,Rest of country,1907,10000,42.02618,-96.0934489
+Ontario,California,Rest of country,1905,12000,34.0660634,-117.6490765
+Ontario,Oregon,Rest of country,1912,7500,44.0253469,-116.968227
+Orange,California,Rest of country,1907,10000,33.7882511,-117.8495626
+City of Orange,New Jersey,Rest of country,1915,1500,40.7683805,-74.2407122
+Oregon City,Oregon,Rest of country,1911,12500,45.355345,-122.604155
+Oregon,Illinois,Rest of country,1905,10000,42.0135546,-89.3316929
+Orland,California,Rest of country,1913,8000,39.744874,-122.1936087
+Orleans,Indiana,Rest of country,1915,10000,38.6635,-86.4525526
+Orosi,California,Rest of country,1917,3000,36.5449741,-119.2904485
+Oroville,California,Rest of country,1911,10000,39.5127663,-121.5588966
+Ortonville,Minnesota,Rest of country,1913,10000,45.3084583,-96.4481972
+Osage,Iowa,Rest of country,1905,10000,43.2841382,-92.8190838
+Osawatomie,Kansas,Rest of country,1910,7500,38.4977419,-94.9498892
+Osborne,Kansas,Rest of country,1912,6000,39.4388993,-98.6947949
+Osceola,Iowa,Rest of country,1908,11000,41.0318027,-93.767862
+Osgood,Indiana,Rest of country,1913,9000,39.1293676,-85.292332
+Oskaloosa,Iowa,Rest of country,1902,22000,41.2964291,-92.6431775
+Ossining,New York,Rest of country,1911,26000,41.1641182,-73.8601847
+Oswego,Kansas,Rest of country,1909,5000,37.1668252,-95.1077286
+Ottawa,Kansas,Rest of country,1902,15000,38.615768,-95.2686366
+Ottumwa,Iowa,Rest of country,1900,50000,41.0197848,-92.4114454
+Owensboro,Kentucky,South,1903,30000,37.7687914,-87.1124344
+Owensville,Indiana,Rest of country,1915,12500,38.2718843,-87.6911456
+Owosso,Michigan,Rest of country,1913,20000,42.9979705,-84.1771459
+Oxford,Indiana,Rest of country,1914,8000,40.5202939,-87.2491109
+Oxnard,California,Rest of country,1906,12000,34.2009799,-119.178902
+Pacific Grove,California,Rest of country,1906,10000,36.6223357,-121.9163085
+Paducah,Kentucky,South,1901,35000,37.0841284,-88.5988468
+Palestine,Texas,South,1912,15000,31.7632897,-95.6342534
+Palmetto,Florida,South,1914,10000,27.5214269,-82.5723193
+Palo Alto,California,Rest of country,1903,10000,37.4447937,-122.1451991
+Pana,Illinois,Rest of country,1911,14000,39.3884418,-89.0784473
+Panguitch,Utah,Rest of country,1915,6000,37.8224187,-112.4312241
+Paoli,Indiana,Rest of country,1913,8000,38.5547501,-86.4688201
+Paris,Illinois,Rest of country,1902,18000,39.6158402,-87.6947932
+Paris,Kentucky,South,1903,12000,38.2106481,-84.2528289
+Park Rapids,Minnesota,Rest of country,1908,5000,46.9218677,-95.0612557
+Park Ridge,Illinois,Rest of country,1909,7500,42.0106813,-87.8305023
+Parkersburg,West Virginia,South,1903,34000,39.2667418,-81.5615135
+Parowan,Utah,Rest of country,1913,6000,37.8417169,-112.8280774
+Parsons,Kansas,Rest of country,1907,22500,37.338246,-95.261158
+Pasco,Washington,Rest of country,1909,10000,46.2305049,-119.0922316
+Paso Robles,California,Rest of country,1906,10000,35.6253963,-120.6906501
+Patchogue,New York,Rest of country,1905,15000,40.7655191,-73.0186932
+Patterson,California,Rest of country,1917,3000,37.4716546,-121.1299128
+Paulding,Ohio,Rest of country,1912,40000,41.1361648,-84.5791483
+Paw Paw,Michigan,Rest of country,1917,10000,42.2178171,-85.8911246
+Pawnee City,Nebraska,Rest of country,1904,7000,40.1102391,-96.1521755
+Paxton,Illinois,Rest of country,1903,10000,40.4589253,-88.0985859
+Peabody,Kansas,Rest of country,1913,10000,38.1670918,-97.106384
+Pecos,Texas,South,1911,9000,31.4247951,-103.4954681
+Pekin,Illinois,Rest of country,1900,17500,40.5675388,-89.640658
+Pelham,Georgia,South,1906,10000,31.1273948,-84.15332
+Pella,Iowa,Rest of country,1905,11000,41.4044306,-92.916925
+Pendleton,Indiana,Rest of country,1911,8000,40.0024979,-85.7456911
+Pendleton,Oregon,Rest of country,1915,25000,45.672075,-118.7885967
+Penn Yan,New York,Rest of country,1903,10000,42.6642976,-77.0562917
+Peoria,Illinois,Rest of country,1909,20000,40.6805245,-89.6143748
+Perry,Iowa,Rest of country,1903,10600,41.838173,-94.1061223
+Perry,New York,Rest of country,1912,12000,42.7202993,-77.9996649
+Perry,Oklahoma,South,1909,10000,36.286416,-97.287877
+Perth Amboy,New Jersey,Rest of country,1901,50450,40.5057992,-74.2652972
+Peru,Illinois,Rest of country,1910,15000,41.3343134,-89.1243724
+Peru,Indiana,Rest of country,1901,25000,40.7554681,-86.0660407
+Point Reyes Station,California,Rest of country,1903,12500,38.069659,-122.8064203
+Petersburg,Illinois,Rest of country,1906,8000,40.0096929,-89.8480801
+Petoskey,Michigan,Rest of country,1907,12500,45.3733428,-84.9553296
+Phoenix,Arizona,Rest of country,1902,25000,33.4483771,-112.0740373
+Phoenixville,Pennsylvania,Rest of country,1901,20000,40.1288377,-75.5141193
+Columbus,Ohio,Rest of country,1912,10000,39.8842304,-82.7535049
+Pierce,Nebraska,Rest of country,1911,4000,42.2002861,-97.5291977
+Pierceton,Indiana,Rest of country,1915,10000,41.19872,-85.705679
+Pierre,South Dakota,Rest of country,1903,12500,44.3671095,-100.346342
+Pipestone,Minnesota,Rest of country,1903,10000,43.9987967,-96.3154613
+Pittsburg,Kansas,Rest of country,1909,40000,37.41068,-94.70738
+Pittsburg,Texas,South,1898,5000,32.9954021,-94.9657688
+Pittsfield,Illinois,Rest of country,1905,7500,39.6081408,-90.8078733
+Pittsfield,Maine,Rest of country,1903,10000,44.7830774,-69.3821141
+Plainfield,Indiana,Rest of country,1911,9000,39.7027895,-86.4030019
+Plainfield,New Jersey,Rest of country,1911,50000,40.6178887,-74.4176391
+Plainview,Nebraska,Rest of country,1915,6000,42.3529036,-97.7889013
+Plainville,Kansas,Rest of country,1911,5000,39.2336459,-99.3000756
+Plano,Illinois,Rest of country,1904,10250,41.663159,-88.538132
+Platteville,Wisconsin,Rest of country,1914,12500,42.7344678,-90.4805974
+Plattsmouth,Nebraska,Rest of country,1915,12500,41.0120186,-95.8840724
+Plymouth,Indiana,Rest of country,1911,15000,41.3412309,-86.3108146
+Plymouth,Wisconsin,Rest of country,1908,10000,43.7483974,-87.9765839
+Pocatello,Idaho,Rest of country,1906,12000,42.860321,-112.4525546
+Polo,Illinois,Rest of country,1903,10000,41.9864478,-89.5805243
+Pomeroy,Ohio,Rest of country,1912,10000,39.0258929,-82.0370053
+Pomona,California,Rest of country,1902,25000,34.0539002,-117.7507398
+Ponca City,Oklahoma,South,1908,6500,36.7038368,-97.0778224
+Ponca,Nebraska,Rest of country,1911,4500,42.5639679,-96.7067321
+Port Angeles,Washington,Rest of country,1916,12500,48.1157637,-123.4324908
+Port Huron,Michigan,Rest of country,1902,45000,42.9708634,-82.4249142
+Port Jervis,New York,Rest of country,1901,30000,41.3762131,-74.6915412
+Port Townsend,Washington,Rest of country,1912,12500,48.1165973,-122.7635443
+Porterville,California,Rest of country,1907,10000,36.0657099,-119.0174511
+Portland,Indiana,Rest of country,1901,15000,40.4357653,-84.9801469
+Portland,Michigan,Rest of country,1905,10000,42.8678602,-84.9053951
+Portsmouth,Ohio,Rest of country,1901,50000,38.7317254,-82.992944
+Poseyville,Indiana,Rest of country,1904,5500,38.1683436,-87.7835904
+Pottsville,Pennsylvania,Rest of country,1916,45000,40.6849417,-76.1969176
+Prescott,Arizona,Rest of country,1899,4000,34.5416927,-112.467542
+Presque Isle,Maine,Rest of country,1906,10000,46.6807864,-68.013928
+Preston,Idaho,Rest of country,1914,10000,42.0938328,-111.8733418
+Preston,Minnesota,Rest of country,1909,8000,43.670138,-92.083604
+Price,Utah,Rest of country,1913,10000,39.5997689,-110.8079623
+Princeton,Indiana,Rest of country,1903,15000,38.3545298,-87.5683838
+Prosser,Washington,Rest of country,1909,5000,46.2047443,-119.7655421
+Provo,Utah,Rest of country,1907,17500,40.234901,-111.6529691
+Pueblo,Colorado,Rest of country,1902,70000,38.2595209,-104.619987
+Puyallup,Washington,Rest of country,1912,12500,47.1895629,-122.2954362
+Randolph,Nebraska,Rest of country,1916,6000,42.3822237,-97.3531115
+Rapid City,South Dakota,Rest of country,1914,12500,44.0784976,-103.2290446
+Raton,New Mexico,Rest of country,1911,12000,36.9015099,-104.4408009
+Ravenna,Nebraska,Rest of country,1916,7500,41.0261699,-98.9116053
+Raymond,New Hampshire,Rest of country,1906,2000,43.036861,-71.182867
+Reading,Massachusetts,Rest of country,1902,15000,42.5239561,-71.1075971
+Reading,Pennsylvania,Rest of country,1910,111180,40.3365257,-75.9243428
+Red Lodge,Montana,Rest of country,1914,15000,45.1900946,-109.2473554
+Red Oak,Iowa,Rest of country,1906,12500,41.0082833,-95.230106
+Red Wing,Minnesota,Rest of country,1901,17000,44.5660691,-92.5369563
+Redding,California,Rest of country,1903,10000,40.584696,-122.390572
+Redfield,South Dakota,Rest of country,1902,10000,44.8783219,-98.5180586
+Redwood City,California,Rest of country,1904,16000,37.4847955,-122.228141
+Redwood Falls,Minnesota,Rest of country,1903,10000,44.5373415,-95.1142372
+Reedsburg,Wisconsin,Rest of country,1911,10000,43.5308053,-90.0055421
+Reinbeck,Iowa,Rest of country,1916,6000,42.3239088,-92.5996998
+Remington,Indiana,Rest of country,1915,10000,40.761629,-87.150656
+Reno,Nevada,Rest of country,1902,15000,39.5225316,-119.8101561
+Rensselaer,Indiana,Rest of country,1903,12000,40.9387875,-87.154972
+Renton,Washington,Rest of country,1913,10000,47.4818586,-122.2020435
+Revere,Massachusetts,Rest of country,1901,20000,42.4080019,-71.0091811
+Rhinelander,Wisconsin,Rest of country,1903,15000,45.6393253,-89.4109026
+Rice Lake,Wisconsin,Rest of country,1903,10000,45.5042461,-91.7330798
+Richfield,Utah,Rest of country,1911,10000,38.7682832,-112.0832436
+Richland Center,Wisconsin,Rest of country,1903,10000,43.3376469,-90.384915
+Richmond,California,Rest of country,1909,17500,37.9364226,-122.3598496
+Richmond,Utah,Rest of country,1912,8000,41.9228653,-111.8096822
+Ridge Farm,Illinois,Rest of country,1909,9000,39.8966398,-87.6520245
+Ridley Park,Pennsylvania,Rest of country,1911,10000,39.8808316,-75.3232533
+Ripley,Ohio,Rest of country,1913,10000,38.745223,-83.845514
+Ripon,Wisconsin,Rest of country,1902,12000,43.8440874,-88.8422788
+Rising Sun,Indiana,Rest of country,1915,10000,38.949808,-84.858745
+Ritzville,Washington,Rest of country,1906,10500,47.126278,-118.382066
+Riverbank,California,Rest of country,1917,3000,37.7360111,-120.9357139
+Riverside,California,Rest of country,1901,52500,33.9806005,-117.3754942
+Roachdale,Indiana,Rest of country,1913,10000,39.8521377,-86.8007448
+Roann,Indiana,Rest of country,1914,10000,40.9100361,-85.9246802
+Robinson,Illinois,Rest of country,1904,11000,39.0053201,-87.7391935
+Rochelle,Illinois,Rest of country,1911,10000,41.9231263,-89.06846
+Rochester,Indiana,Rest of country,1904,15000,41.0675846,-86.21996
+Rochester,New Hampshire,Rest of country,1903,20000,43.30214,-70.9746948
+Rock Springs,Wyoming,Rest of country,1907,12500,41.5834424,-109.2188434
+Rockford,Illinois,Rest of country,1901,70000,42.2716416,-89.0962716
+Rockford,Ohio,Rest of country,1910,10000,40.6909271,-84.6460527
+Town of Rockingham,Vermont,Rest of country,1903,15000,43.1307787,-72.4446077
+Rockland,Maine,Rest of country,1902,20000,44.1034298,-69.1092732
+Rockland,Massachusetts,Rest of country,1903,12500,42.1321289,-70.916833
+Rockport,Indiana,Rest of country,1916,17000,37.8818286,-87.0469013
+Rockport,Massachusetts,Rest of country,1903,10000,42.657458,-70.617757
+Rockville Centre,New York,Rest of country,1903,10000,40.6587138,-73.6412406
+Rockville,Indiana,Rest of country,1914,12500,39.763153,-87.22948
+Rockwell City,Iowa,Rest of country,1908,8000,42.3959218,-94.634557
+Rocky Ford,Colorado,Rest of country,1907,10000,38.0502708,-103.7192205
+Rome,Georgia,South,1909,15000,34.2580521,-85.1690793
+Roseville,California,Rest of country,1911,10000,38.7517274,-121.289518
+Roswell,New Mexico,Rest of country,1903,10000,33.3936879,-104.5229602
+Royal Center,Indiana,Rest of country,1914,10000,40.8655873,-86.5005824
+Rumford,Maine,Rest of country,1903,10000,44.5471424,-70.5491649
+Rushville,Illinois,Rest of country,1906,7500,40.1211577,-90.5631829
+Russell,Kansas,Rest of country,1905,5800,38.8909831,-98.8589974
+Rutherford College,North Carolina,South,1907,2500,35.7500716,-81.5294716
+Sac City,Iowa,Rest of country,1911,8000,42.4219213,-94.9958762
+Sacramento,California,Rest of country,1914,100000,38.5816683,-121.4950844
+Salamanca,New York,Rest of country,1917,17500,42.1578412,-78.7150311
+Salem,Indiana,Rest of country,1904,16000,38.6074436,-86.1008911
+Salem,Ohio,Rest of country,1903,20000,40.9006205,-80.8493173
+Salem,Oregon,Rest of country,1907,27500,44.9451173,-123.036821
+Salida,Colorado,Rest of country,1905,9000,38.532766,-105.9930522
+Salina,Kansas,Rest of country,1902,15000,38.8401905,-97.6110845
+Salinas,California,Rest of country,1907,10000,36.6777372,-121.6555013
+Salt Lake City,Utah,Rest of country,1916,25000,40.756571,-111.916352
+San Anselmo,California,Rest of country,1914,10000,37.9745298,-122.5628015
+San Antonio,Texas,South,1900,70000,29.4233977,-98.4936438
+San Bernardino,California,Rest of country,1902,27600,34.106671,-117.2923577
+San Diego,California,Rest of country,1899,60000,32.7180606,-117.1579595
+San Jose,California,Rest of country,1901,57000,37.3354825,-121.8849995
+San Juan,Puerto Rico,Rest of country,1901,100000,18.4662817,-66.1090259
+San Leandro,California,Rest of country,1907,12000,37.72603,-122.1540461
+San Luis Obispo,California,Rest of country,1903,10000,35.282667,-120.6608825
+San Mateo,California,Rest of country,1905,12500,37.5622306,-122.3268275
+Los Angeles,California,Rest of country,1905,10375,33.7360696,-118.2923791
+San Rafael,California,Rest of country,1904,25000,37.975034,-122.532613
+Sanborn,Iowa,Rest of country,1911,4000,43.1840738,-95.6561393
+Sandusky,Ohio,Rest of country,1899,50000,41.4529426,-82.7109257
+Sanger,California,Rest of country,1914,10000,36.708006,-119.5559652
+Santa Ana,California,Rest of country,1902,15000,33.7454725,-117.867653
+Santa Barbara,California,Rest of country,1914,50000,34.4239841,-119.7033244
+Santa Maria,California,Rest of country,1908,10000,34.9492102,-120.4322973
+Santa Rosa,California,Rest of country,1902,26900,38.4412686,-122.7106577
+Sapulpa,Oklahoma,South,1916,25000,35.9988354,-96.1152323
+Saugerties,New York,Rest of country,1914,12500,42.0777169,-73.9493711
+Saugus,Massachusetts,Rest of country,1916,17000,42.4653527,-71.0100306
+Sauk Centre,Minnesota,Rest of country,1903,11000,45.734907,-94.952214
+Sault Ste. Marie,Michigan,Rest of country,1901,30000,46.4751996,-84.3240847
+Savanna,Illinois,Rest of country,1903,11350,42.0944069,-90.1551675
+Schenectady,New York,Rest of country,1901,50000,42.8146711,-73.9380335
+Schuyler,Nebraska,Rest of country,1911,9000,41.4485221,-97.0576579
+Scottsbluff,Nebraska,Rest of country,1917,15000,41.862407,-103.664352
+Scottsburg,Indiana,Rest of country,1917,12500,38.6845753,-85.7706294
+Sebastopol,California,Rest of country,1911,7500,38.4018671,-122.8254854
+Sedalia,Missouri,Rest of country,1899,50000,38.7084808,-93.2308273
+Sedro-Woolley,Washington,Rest of country,1913,10000,48.50389,-122.2361101
+Selma,Alabama,South,1903,11800,32.4069999,-87.0211
+Selma,California,Rest of country,1905,6000,36.5675355,-119.6094963
+Seward,Nebraska,Rest of country,1912,8000,40.9062121,-97.0986788
+Seymour,Indiana,Rest of country,1903,10000,38.9583462,-85.8921187
+Sharon,Massachusetts,Rest of country,1913,10000,42.1240926,-71.1782201
+Shawano,Wisconsin,Rest of country,1914,10000,44.7810086,-88.6071362
+Shawnee,Oklahoma,South,1904,15500,35.327707,-96.9191445
+Sheboygan,Wisconsin,Rest of country,1901,35000,43.7525577,-87.7136066
+Sheffield,Illinois,Rest of country,1911,4000,41.3565982,-89.7362858
+Shelbina,Missouri,Rest of country,1916,10000,39.693376,-92.041034
+Shelbyville,Illinois,Rest of country,1903,10000,39.407531,-88.7941284
+Shelbyville,Indiana,Rest of country,1901,20000,39.5225968,-85.7788784
+Shelbyville,Kentucky,South,1901,10000,38.2123763,-85.2197164
+Sheldon,Illinois,Rest of country,1915,9000,40.7706123,-87.5621198
+Sheldon,Iowa,Rest of country,1906,10000,43.17965,-95.8537314
+Shelton,Nebraska,Rest of country,1913,9000,40.7774043,-98.7336737
+Shenandoah,Iowa,Rest of country,1903,10000,40.764726,-95.3734868
+Sheridan,Indiana,Rest of country,1911,12500,40.1384118,-86.2217707
+Sheridan,Wyoming,Rest of country,1904,12500,44.8013193,-106.9577559
+Sherman,Texas,South,1912,20000,33.6359356,-96.6097325
+Shoals,Indiana,Rest of country,1913,10000,38.6659838,-86.7901043
+Sibley,Iowa,Rest of country,1915,10000,43.3994411,-95.7488225
+Sidney,Nebraska,Rest of country,1913,6500,41.1448219,-102.9774497
+Sigourney,Iowa,Rest of country,1913,10000,41.3333445,-92.2046255
+Silverton,Colorado,Rest of country,1905,12000,37.8117061,-107.6660818
+Sioux Falls,South Dakota,Rest of country,1901,30000,43.5492177,-96.7289395
+Sisseton,South Dakota,Rest of country,1914,7500,45.6639119,-97.0468249
+Smithfield,Utah,Rest of country,1918,12000,41.8370796,-111.8332778
+Snohomish,Washington,Rest of country,1909,10000,47.9128756,-122.0981847
+Solvay,New York,Rest of country,1903,10000,43.0576194,-76.2070554
+Somerset,Kentucky,South,1905,10000,37.0920222,-84.6041084
+Sonoma,California,Rest of country,1911,6000,38.291859,-122.4580356
+South Bend,Washington,Rest of country,1908,10000,46.666515,-123.8140475
+Cleveland,Ohio,Rest of country,1903,11800,41.4383531,-81.7071853
+South Hadley,Massachusetts,Rest of country,1905,10000,42.2151564,-72.6015018
+South Haven,Michigan,Rest of country,1904,12500,42.4026956,-86.2713889
+South Milwaukee,Wisconsin,Rest of country,1915,15000,42.9122336,-87.860253
+Norwalk,Connecticut,Rest of country,1908,20000,41.0937079,-73.4187303
+Omaha,Nebraska,Rest of country,1901,50000,41.2125017,-95.9765238
+South Pasadena,California,Rest of country,1906,18600,34.1141152,-118.1558454
+South San Francisco,California,Rest of country,1914,10000,37.656397,-122.4140239
+Sparta,Michigan,Rest of country,1916,10000,43.1619381,-85.7065978
+Sparta,Wisconsin,Rest of country,1902,12000,43.9465014,-90.8091344
+Spartanburg,South Carolina,South,1903,15000,34.9482922,-81.9304458
+Spencer,Indiana,Rest of country,1911,10000,39.2858038,-86.7634377
+Spencer,Iowa,Rest of country,1903,10000,43.140688,-95.14368
+Spencer,Nebraska,Rest of country,1915,8000,42.8740009,-98.7011534
+Spirit Lake,Iowa,Rest of country,1905,8000,43.4247707,-95.1008313
+Spring Valley,Illinois,Rest of country,1912,15000,41.3263756,-89.1972095
+Spring Valley,Minnesota,Rest of country,1903,8000,43.6890247,-92.3917879
+Springfield,Illinois,Rest of country,1901,75000,39.7832177,-89.6543177
+Springfield,Missouri,Rest of country,1901,50000,37.2176741,-93.2898568
+Springville,Utah,Rest of country,1916,10000,40.1662362,-111.610079
+St. Charles,Illinois,Rest of country,1906,12500,41.9141945,-88.3086867
+St. Cloud,Minnesota,Rest of country,1901,25000,45.5579451,-94.1632404
+St. George,Utah,Rest of country,1913,8000,37.0965278,-113.5684164
+St. Helena,California,Rest of country,1906,8362,38.5052429,-122.4703868
+St. Joseph,Michigan,Rest of country,1902,13500,42.0938577,-86.4895463
+Saint Peter,Minnesota,Rest of country,1903,10000,44.3258932,-93.955691
+St. Petersburg,Florida,South,1913,17500,27.7671271,-82.6384451
+Iron River,Michigan,Rest of country,1914,12500,46.0821043,-88.6272062
+Stamford,Texas,South,1908,15000,32.9449542,-99.7960255
+Stanton,Nebraska,Rest of country,1914,8000,41.9511112,-97.2247408
+Sterling,Colorado,Rest of country,1915,12500,40.6232793,-103.2112304
+Sterling,Illinois,Rest of country,1903,17500,41.789217,-89.6978511
+Sterling,Kansas,Rest of country,1916,10000,38.21128,-98.20654
+Steubenville,Ohio,Rest of country,1899,62000,40.3551403,-80.6181307
+Stevens Point,Wisconsin,Rest of country,1902,21859,44.5235792,-89.574563
+Stillwater,Minnesota,Rest of country,1901,27500,45.057612,-92.809996
+Stockton,Kansas,Rest of country,1909,5000,39.4374965,-99.2740587
+Stoneham,Massachusetts,Rest of country,1903,15000,42.4779014,-71.1006798
+Storm Lake,Iowa,Rest of country,1903,10000,42.6449226,-95.1989458
+Stoughton,Wisconsin,Rest of country,1905,13000,42.9164909,-89.2181539
+Streator,Illinois,Rest of country,1901,35000,41.1196162,-88.8344463
+Stromsburg,Nebraska,Rest of country,1915,7500,41.1138995,-97.5945139
+Stuart,Iowa,Rest of country,1906,6500,41.5034243,-94.3183715
+Sturgeon Bay,Wisconsin,Rest of country,1911,12500,44.8338255,-87.374375
+Sturgis,Michigan,Rest of country,1907,10000,41.8009168,-85.419761
+Sullivan,Indiana,Rest of country,1903,11000,39.0944092,-87.4115446
+Sulphur Springs,Texas,South,1909,12000,33.1384479,-95.6010668
+Summit,New Jersey,Rest of country,1909,21000,40.7151717,-74.3602186
+Sumter,South Carolina,South,1915,10000,33.9204354,-80.3414693
+Sunnyside,Washington,Rest of country,1910,5000,46.3210046,-120.011914
+Superior,Nebraska,Rest of country,1907,7000,40.0206764,-98.068966
+Sutton,Nebraska,Rest of country,1909,5700,40.6051824,-97.8598886
+Pittsburgh,Pennsylvania,Rest of country,1914,25000,40.4225531,-79.8911655
+Sycamore,Illinois,Rest of country,1903,12000,41.9886852,-88.6835359
+Syracuse,Indiana,Rest of country,1917,10000,41.4279752,-85.7516625
+Syracuse,New York,Rest of country,1901,200000,43.050679,-76.148829
+Tacoma,Washington,Rest of country,1901,75000,47.2522926,-122.4448471
+Tahlequah,Oklahoma,South,1905,10000,35.913099,-94.973178
+Talladega,Alabama,South,1906,12500,33.4338373,-86.0994663
+Tama,Iowa,Rest of country,1904,8500,41.9632047,-92.5797753
+Tampa,Florida,South,1901,50000,27.9510571,-82.4618519
+Taunton,Massachusetts,Rest of country,1902,70000,41.9036977,-71.0947845
+Taylorville,Illinois,Rest of country,1903,14000,39.550583,-89.295805
+Tecumseh,Michigan,Rest of country,1903,10000,42.0062904,-83.9441833
+Tecumseh,Nebraska,Rest of country,1906,6000,40.3667541,-96.1957864
+Tekamah,Nebraska,Rest of country,1914,8000,41.7768804,-96.2217002
+Tell City,Indiana,Rest of country,1916,10000,37.9514447,-86.7677663
+Temple,Texas,South,1902,15000,31.0983556,-97.3421056
+Terrell,Texas,South,1903,10000,32.7392266,-96.280809
+The Dalles,Oregon,Rest of country,1907,10000,45.6017716,-121.1848433
+Theresa,New York,Rest of country,1910,7500,44.2160912,-75.7997955
+Thermopolis,Wyoming,Rest of country,1917,12500,43.6460672,-108.2120432
+Thief River Falls,Minnesota,Rest of country,1914,12500,48.118491,-96.1795456
+Thorntown,Indiana,Rest of country,1912,10000,40.130292,-86.606029
+Three Rivers,Michigan,Rest of country,1902,12500,41.94582,-85.6350964
+Ticonderoga,New York,Rest of country,1904,7000,43.8486707,-73.4234531
+Tiffin,Ohio,Rest of country,1912,25000,41.115668,-83.1745739
+Tipton,Indiana,Rest of country,1902,13000,40.280773,-86.039901
+Tipton,Iowa,Rest of country,1902,10000,41.7673854,-91.1276185
+Tomah,Wisconsin,Rest of country,1915,10000,43.9798265,-90.5041068
+Tooele,Utah,Rest of country,1909,5000,40.5310073,-112.3022031
+Toulon,Illinois,Rest of country,1914,6000,41.0936481,-89.8648283
+Traer,Iowa,Rest of country,1914,10000,42.1931169,-92.4664656
+Traverse City,Michigan,Rest of country,1902,20000,44.7630567,-85.6206317
+Trinidad,Colorado,Rest of country,1903,15000,37.1689623,-104.5058375
+Troy,Alabama,South,1908,10000,31.8084004,-85.9656068
+Tucson,Arizona,Rest of country,1899,25000,32.222129,-110.9727574
+Tulare,California,Rest of country,1904,10000,36.2077288,-119.3473379
+Tulsa,Oklahoma,South,1910,55000,36.1495316,-95.9937513
+Turlock,California,Rest of country,1915,10000,37.4945743,-120.8459786
+Montague,Massachusetts,Rest of country,1903,13500,42.6051851,-72.5593562
+Tuscola,Illinois,Rest of country,1903,10000,39.8001016,-88.2868808
+Two Harbors,Minnesota,Rest of country,1908,15000,47.0220694,-91.6715808
+Two Rivers,Wisconsin,Rest of country,1913,12500,44.1434779,-87.5692019
+Tyler,Texas,South,1903,15000,32.3512305,-95.300158
+Tyndall,South Dakota,Rest of country,1915,7500,42.9924925,-97.8637969
+Ukiah,California,Rest of country,1911,8000,39.1501709,-123.2077831
+Union City,Indiana,Rest of country,1903,11000,40.2017355,-84.808221
+Union City,Tennessee,South,1910,10000,36.4242303,-89.0570096
+Union Springs,Alabama,South,1911,7000,32.1438336,-85.7164002
+Union,New Jersey,Rest of country,1904,25000,40.6976714,-74.2678202
+Union,Oregon,Rest of country,1911,5500,45.2099226,-117.8657142
+Union,South Carolina,South,1903,10000,34.7131281,-81.6205682
+Unionville,Connecticut,Rest of country,1914,8500,41.7602365,-72.8888458
+Lincoln,Nebraska,Rest of country,1915,12500,40.8403659,-96.6504493
+Upland,California,Rest of country,1911,10000,34.0988465,-117.6506482
+Upper Sandusky,Ohio,Rest of country,1911,10000,40.8271244,-83.2806624
+Vacaville,California,Rest of country,1905,12500,38.3574285,-121.9872514
+Valdosta,Georgia,South,1912,15000,30.8328597,-83.2771957
+Vallejo,California,Rest of country,1902,20000,38.101689,-122.2607094
+Valley City,North Dakota,Rest of country,1901,15000,46.9265774,-98.0027082
+Valparaiso,Indiana,Rest of country,1906,20000,41.4689663,-87.0593667
+Van Buren,Indiana,Rest of country,1917,10000,40.616848,-85.504698
+Vancouver,Washington,Rest of country,1908,10000,45.6331277,-122.6712237
+Vermillion,South Dakota,Rest of country,1903,10000,42.7794417,-96.9292104
+Vernon,Texas,South,1915,12500,34.1545306,-99.2650804
+Verona,New Jersey,Rest of country,1916,11000,40.8315121,-74.2450419
+Vevay,Indiana,Rest of country,1917,12500,38.746635,-85.067186
+Vicksburg,Mississippi,South,1914,25000,32.3466906,-90.8823909
+Vienna,Illinois,Rest of country,1908,6000,37.4138797,-88.896248
+Villisca,Iowa,Rest of country,1907,10000,40.9299657,-94.9774823
+Vinalhaven,Maine,Rest of country,1906,5200,44.0484538,-68.8312834
+Vincennes,Indiana,Rest of country,1910,35000,38.6791951,-87.5238252
+Vineland,New Jersey,Rest of country,1903,12000,39.4869392,-75.0430969
+Vinton,Iowa,Rest of country,1903,12500,42.16636,-92.022549
+Virginia,Minnesota,Rest of country,1904,10000,47.5216302,-92.539037
+Viroqua,Wisconsin,Rest of country,1904,10000,43.5550251,-90.8902362
+Visalia,California,Rest of country,1903,10000,36.3327814,-119.2940542
+Wabash,Indiana,Rest of country,1901,20000,40.7988178,-85.8239939
+Waco,Texas,South,1902,30000,31.5467586,-97.1437399
+Wagner,South Dakota,Rest of country,1915,5000,43.0805995,-98.2889407
+Wagoner,Oklahoma,South,1911,10000,35.9618469,-95.3764695
+Walla Walla,Washington,Rest of country,1903,25000,46.0672336,-118.3343177
+Wallace,Idaho,Rest of country,1910,12000,47.4741449,-115.9261562
+Walnut Creek,California,Rest of country,1915,2500,37.9100783,-122.0651819
+Walpole,Massachusetts,Rest of country,1901,15000,42.1447343,-71.2502526
+Walton,Indiana,Rest of country,1914,10000,40.6610947,-86.2426971
+Warren,Illinois,Rest of country,1910,7000,42.4962952,-89.9867834
+Warren,Indiana,Rest of country,1917,10000,40.6834845,-85.4254743
+Warren,Ohio,Rest of country,1903,28384,41.2377406,-80.818459
+Warsaw,Indiana,Rest of country,1915,15000,41.2384385,-85.8534601
+Warsaw,New York,Rest of country,1904,12500,42.7424964,-78.1322097
+Washburn,Wisconsin,Rest of country,1903,18000,46.6727173,-90.8953033
+WSHNGTN CT HS,Ohio,Rest of country,1901,15500,39.536485,-83.437068
+Washington,Indiana,Rest of country,1901,20000,38.657306,-87.179228
+Washington,Kansas,Rest of country,1908,5000,39.818719,-97.0502505
+Waterloo,Indiana,Rest of country,1913,9000,41.4297015,-85.0196301
+Waterman,Illinois,Rest of country,1913,3500,41.7690407,-88.7736458
+Watertown,South Dakota,Rest of country,1903,10000,44.8994088,-97.1150732
+Watertown,Wisconsin,Rest of country,1905,20000,43.1942087,-88.7264244
+Waterville,Maine,Rest of country,1902,20000,44.551279,-69.6319206
+Watsonville,California,Rest of country,1903,12000,36.9088267,-121.7556954
+Los Angeles,California,Rest of country,1913,10000,33.9432188,-118.2435083
+Waukegan,Illinois,Rest of country,1903,27500,42.3605363,-87.8331795
+Waukesha,Wisconsin,Rest of country,1902,15000,43.0081669,-88.2332031
+Waupaca,Wisconsin,Rest of country,1913,10000,44.3576619,-89.0842561
+Waupun,Wisconsin,Rest of country,1904,11653,43.6314111,-88.7314553
+Wausau,Wisconsin,Rest of country,1903,29000,44.9597456,-89.6305299
+Wauseon,Ohio,Rest of country,1903,8000,41.5459532,-84.1411639
+Wauwatosa,Wisconsin,Rest of country,1905,6000,43.0494572,-88.0075875
+Waveland,Indiana,Rest of country,1914,10000,39.8783037,-87.0443222
+Waverly,Illinois,Rest of country,1911,4500,39.5933908,-89.9536434
+Waverly,Iowa,Rest of country,1903,10000,42.7272032,-92.4668511
+Wayne,Nebraska,Rest of country,1911,9000,42.2332309,-97.0197805
+Waynesboro,Virginia,South,1914,8000,38.0684692,-78.8894682
+Webb City,Missouri,Rest of country,1913,25000,37.1445621,-94.464959
+Wellington,Kansas,Rest of country,1915,17500,37.266997,-97.399023
+Wellsville,Ohio,Rest of country,1912,10000,40.6041334,-80.6464999
+Wenatchee,Washington,Rest of country,1909,10000,47.4233722,-120.3147316
+Wessington Springs,South Dakota,Rest of country,1917,7000,44.0791261,-98.5722021
+West Allis,Wisconsin,Rest of country,1913,15000,43.0115809,-88.0054239
+Birmingham,Alabama,South,1909,10000,33.4903842,-86.8658243
+West Haven,Connecticut,Rest of country,1906,10000,41.2705484,-72.9469711
+Hoboken,New Jersey,Rest of country,1902,25000,40.7441216,-74.0326827
+West Lebanon,Indiana,Rest of country,1915,7500,40.2727798,-87.3869066
+West Liberty,Iowa,Rest of country,1904,7500,41.571495,-91.261555
+West Point,Mississippi,South,1913,10000,33.6039763,-88.6471548
+West Springfield,Massachusetts,Rest of country,1915,25000,42.1052147,-72.6221815
+Tampa,Florida,South,1913,17500,27.9533546,-82.4892617
+Westfield,Indiana,Rest of country,1910,9000,40.0427376,-86.1277491
+Westfield,New Jersey,Rest of country,1904,15000,40.6499023,-74.3502368
+Westville,Indiana,Rest of country,1913,8000,41.541354,-86.8988
+Wheatland,Wyoming,Rest of country,1916,12500,42.0565816,-104.9528945
+White Bear Lake,Minnesota,Rest of country,1912,5000,45.0502625,-93.015351
+White Plains,New York,Rest of country,1904,40000,41.0339862,-73.7629097
+Whitefield,New Hampshire,Rest of country,1903,7500,44.3739307,-71.610761
+Whiting,Indiana,Rest of country,1904,15000,41.681646,-87.4939406
+Whittier,California,Rest of country,1904,12500,33.9791793,-118.032844
+Wichita,Kansas,Rest of country,1912,75000,37.6868677,-97.3372306
+Williamsport,Indiana,Rest of country,1916,8000,40.2883704,-87.2938999
+Willits,California,Rest of country,1913,8000,39.4096079,-123.3555656
+Willmar,Minnesota,Rest of country,1903,11000,45.1193959,-95.0492804
+Willoughby,Ohio,Rest of country,1906,14500,41.6393985,-81.4073357
+Willows,California,Rest of country,1910,10000,39.522057,-122.200158
+Wilmette,Illinois,Rest of country,1903,11000,42.0722513,-87.7228384
+Wilmington,Ohio,Rest of country,1902,12500,39.4490149,-83.8277449
+Winamac,Indiana,Rest of country,1911,10000,41.0510852,-86.6006417
+Winchester,Illinois,Rest of country,1908,7500,39.6336593,-90.4564956
+Winchester,Indiana,Rest of country,1906,12000,40.1733487,-84.9802311
+Winfield,Kansas,Rest of country,1902,15000,37.2406132,-96.9957147
+Winnsboro,Texas,South,1908,10000,32.9560358,-95.2880006
+Winston-Salem,North Carolina,South,1903,15000,36.0998596,-80.244216
+Winterset,Iowa,Rest of country,1904,10000,41.3351499,-94.0120547
+Woodbine,Iowa,Rest of country,1909,7500,41.7368272,-95.7036826
+Woodburn,Oregon,Rest of country,1914,10000,45.1427953,-122.8585067
+Woodland,California,Rest of country,1903,22000,38.6791033,-121.7735483
+Woodward,Oklahoma,South,1915,10000,36.4336481,-99.3903862
+Wooster,Ohio,Rest of country,1903,15000,40.798237,-81.9399145
+Worthington,Indiana,Rest of country,1917,10000,39.1197547,-86.9755859
+Worthington,Minnesota,Rest of country,1903,10000,43.6219368,-95.5955929
+Wyandotte,Michigan,Rest of country,1911,17500,42.2142064,-83.1499239
+Wymore,Nebraska,Rest of country,1914,10000,40.1215667,-96.6632461
+Wyoming,Illinois,Rest of country,1913,5600,41.0625657,-89.7727578
+Xenia,Ohio,Rest of country,1902,23500,39.686549,-83.9288097
+Yankton,South Dakota,Rest of country,1902,12000,42.8733639,-97.3942113
+Yates Center,Kansas,Rest of country,1910,7500,37.8831428,-95.7321262
+Yolo,California,Rest of country,1917,3000,38.732968,-121.8072828
+Yonkers,New York,Rest of country,1901,50000,40.9292927,-73.897861
+Youngstown,Ohio,Rest of country,1908,50000,41.1030434,-80.6465925
+Yreka,California,Rest of country,1913,8000,41.732205,-122.6376832
+Yuma,Arizona,Rest of country,1917,10000,32.7238725,-114.6225714
+Zanesville,Ohio,Rest of country,1905,54000,39.943913,-82.005574
+Zumbrota,Minnesota,Rest of country,1906,6500,44.2956135,-92.6711015
