@@ -458,6 +458,63 @@ figure.media figcaption {
   margin-top: 0.6rem;
 }
 
+/* ---- Interactive network viewer ------------------------------------------- */
+
+.network-viz { position: relative; }
+
+.network-viz svg {
+  display: block;
+  width: 100%;
+  height: auto;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  background: #ffffff;
+  cursor: grab;
+  user-select: none;
+  touch-action: none;
+}
+.network-viz svg.nv-panning { cursor: grabbing; }
+
+.nv-controls {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+.nv-btn {
+  width: 30px;
+  height: 30px;
+  display: grid;
+  place-items: center;
+  font-family: var(--mono);
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: #333333;
+  background: #ffffff;
+  border: 1px solid #d4dbe6;
+  border-radius: 6px;
+  cursor: pointer;
+  padding: 0;
+}
+.nv-btn:hover { background: #eef2fa; }
+
+.nv-tip {
+  position: absolute;
+  pointer-events: none;
+  font-family: var(--mono);
+  font-size: 0.78rem;
+  background: var(--ink);
+  color: var(--bg);
+  padding: 0.25em 0.6em;
+  border-radius: 5px;
+  white-space: nowrap;
+  transform: translate(-50%, -130%);
+  z-index: 5;
+  display: none;
+}
+
 /* ---- Between-weeks navigation --------------------------------------------- */
 
 .week-nav {

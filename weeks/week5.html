@@ -74,9 +74,11 @@
         timeline, and it can be self hosted from a local JSON file, which means
         it will keep working as long as this site does. Palladio has no embed
         feature at all. It runs as a session in the browser and its only export
-        is a static image. That is a real constraint on using it for published
-        work, and it is the reason the network appears here as a figure rather
-        than as something a reader can manipulate.
+        is a static SVG image. That is a real constraint on using it for
+        published work, and working around it took extra effort: the network
+        below is Palladio's own export, with zoom, pan, and hover added back on
+        top of it in JavaScript so that a reader can explore what the session
+        could and the export alone could not.
       </p>
 
       <h2>The corpus, and whose boundaries it reflects</h2>
@@ -215,14 +217,18 @@
       </p>
 
       <figure class="media">
-        <img src="../assets/images/founders-network.svg"
-             alt="Palladio network graph of the founding era correspondence. Each labeled point is a correspondent and each line is a sustained exchange of fifty or more letters. The layout is a set of overlapping hubs: Washington, Jefferson, Madison, Adams, Hamilton and Franklin sit at the dense center with hundreds of correspondents radiating outward. Nearly all of the women in the archive, including Abigail Adams, Louisa Catherine Johnson Adams, Mary Smith Cranch, Elizabeth Smith Shaw Peabody and Harriet Welsh, sit together in one small peripheral cluster attached to the Adams family, and Franklin's French correspondents form a separate fringe of their own.">
+        <div id="network-viz" class="network-viz">
+          <img id="network-img" src="../assets/images/founders-network.svg"
+               alt="Palladio network graph of the founding era correspondence. Each labeled point is a correspondent and each line is a sustained exchange of fifty or more letters. The layout is a set of overlapping hubs: Washington, Jefferson, Madison, Adams, Hamilton and Franklin sit at the dense center with hundreds of correspondents radiating outward. Nearly all of the women in the archive, including Abigail Adams, Louisa Catherine Johnson Adams, Mary Smith Cranch, Elizabeth Smith Shaw Peabody and Harriet Welsh, sit together in one small peripheral cluster attached to the Adams family, and Franklin's French correspondents form a separate fringe of their own.">
+        </div>
         <figcaption>The 517 sustained correspondence ties, built in Palladio.
           The six founders form the dense center because the archive is built
           from their papers. The structure the layout finds on its own is the
           point: nearly every woman in the corpus sits together in one small
           peripheral cluster attached to the Adams household, while Franklin's
-          French correspondents form a separate fringe of their own.</figcaption>
+          French correspondents form a separate fringe of their own.
+          Interactive: scroll or use the buttons to zoom, drag to pan, and
+          hover a point to trace its correspondents.</figcaption>
       </figure>
 
       <h2>The chronology</h2>
@@ -306,6 +312,177 @@
       "../assets/data/adams-jefferson-timeline.json",
       { timenav_position: "bottom", initial_zoom: 2, hash_bookmark: false }
     );
+  </script>
+
+  <script>
+  // Interactive viewer for the Palladio network export: zoom, pan, and
+  // hover a node to trace its correspondents. Falls back to the static
+  // image if anything goes wrong.
+  (function () {
+    var box = document.getElementById("network-viz");
+    var img = document.getElementById("network-img");
+    if (!box || !img || !window.fetch || !window.DOMParser) return;
+
+    fetch(img.getAttribute("src")).then(function (r) {
+      if (!r.ok) throw new Error(r.status);
+      return r.text();
+    }).then(function (text) {
+      var doc = new DOMParser().parseFromString(text, "image/svg+xml");
+      var svg = doc.documentElement;
+      if (!svg || svg.nodeName !== "svg") return;
+
+      svg.setAttribute("role", "img");
+      svg.setAttribute("aria-label", img.getAttribute("alt"));
+      box.replaceChild(svg, img);
+
+      var vb0 = svg.getAttribute("viewBox").split(/\s+/).map(Number);
+      var vb = vb0.slice();
+      function apply() { svg.setAttribute("viewBox", vb.join(" ")); }
+
+      // controls
+      var ctr = document.createElement("div");
+      ctr.className = "nv-controls";
+      [["+", "Zoom in"], ["-", "Zoom out"], ["o", "Reset view"]].forEach(function (b, i) {
+        var el = document.createElement("button");
+        el.className = "nv-btn"; el.type = "button";
+        el.textContent = b[0]; el.setAttribute("aria-label", b[1]);
+        el.addEventListener("click", function () {
+          if (i === 2) { vb = vb0.slice(); apply(); return; }
+          zoomAt(vb[0] + vb[2] / 2, vb[1] + vb[3] / 2, i === 0 ? 1 / 1.4 : 1.4);
+        });
+        ctr.appendChild(el);
+      });
+      box.appendChild(ctr);
+
+      var tip = document.createElement("div");
+      tip.className = "nv-tip";
+      box.appendChild(tip);
+
+      function zoomAt(x, y, f) {
+        var w = vb[2] * f;
+        if (w < vb0[2] / 25 || w > vb0[2] * 2) return;
+        var h = vb[3] * f;
+        vb = [x - (x - vb[0]) * f, y - (y - vb[1]) * f, w, h];
+        apply();
+      }
+      function toSvg(e) {
+        var r = svg.getBoundingClientRect();
+        return [vb[0] + (e.clientX - r.left) / r.width * vb[2],
+                vb[1] + (e.clientY - r.top) / r.height * vb[3]];
+      }
+
+      svg.addEventListener("wheel", function (e) {
+        e.preventDefault();
+        var p = toSvg(e);
+        zoomAt(p[0], p[1], e.deltaY > 0 ? 1.25 : 0.8);
+      }, { passive: false });
+
+      var pan = null;
+      svg.addEventListener("pointerdown", function (e) {
+        pan = { x: e.clientX, y: e.clientY, vb: vb.slice() };
+        svg.classList.add("nv-panning");
+        svg.setPointerCapture(e.pointerId);
+      });
+      svg.addEventListener("pointermove", function (e) {
+        if (!pan) return;
+        var r = svg.getBoundingClientRect();
+        vb[0] = pan.vb[0] - (e.clientX - pan.x) / r.width * vb[2];
+        vb[1] = pan.vb[1] - (e.clientY - pan.y) / r.height * vb[3];
+        apply();
+      });
+      ["pointerup", "pointercancel"].forEach(function (t) {
+        svg.addEventListener(t, function () { pan = null; svg.classList.remove("nv-panning"); });
+      });
+
+      // index nodes, labels, and edges
+      function center(c) {
+        var cx = parseFloat(c.getAttribute("cx")), cy = parseFloat(c.getAttribute("cy"));
+        if (!isNaN(cx) && !isNaN(cy)) return [cx, cy];
+        var m = /translate\(([-\d.]+)[, ]+([-\d.]+)\)/.exec(c.getAttribute("transform") || (c.parentNode.getAttribute && c.parentNode.getAttribute("transform")) || "");
+        return m ? [+m[1], +m[2]] : null;
+      }
+      var nodes = [];
+      svg.querySelectorAll("circle").forEach(function (c) {
+        var p = center(c);
+        if (p) nodes.push({ el: c, x: p[0], y: p[1], r: parseFloat(c.getAttribute("r")) || 3, edges: [], label: null });
+      });
+      function nearest(x, y, max) {
+        var best = null, bd = max * max;
+        for (var i = 0; i < nodes.length; i++) {
+          var dx = nodes[i].x - x, dy = nodes[i].y - y, d = dx * dx + dy * dy;
+          if (d < bd) { bd = d; best = nodes[i]; }
+        }
+        return best;
+      }
+      svg.querySelectorAll("g").forEach(function (g) {
+        if (!/anchor-node/.test(g.getAttribute("class") || "")) return;
+        var m = /translate\(([-\d.]+)[, ]+([-\d.]+)\)/.exec(g.getAttribute("transform") || "");
+        var t = g.querySelector("text");
+        if (!m || !t) return;
+        var n = nearest(+m[1], +m[2], 30);
+        if (n && !n.label) n.label = t;
+      });
+      var edges = [];
+      svg.querySelectorAll("path").forEach(function (p) {
+        var pts = (p.getAttribute("d") || "").match(/-?[\d.]+[ ,]-?[\d.]+/g);
+        if (!pts || pts.length < 2) return;
+        function pair(s) { var q = s.split(/[ ,]/); return [+q[0], +q[1]]; }
+        var a = nearest.apply(null, pair(pts[0]).concat(12));
+        var b = nearest.apply(null, pair(pts[pts.length - 1]).concat(12));
+        var e = { el: p, a: a, b: b, w: p.style.strokeWidth || p.getAttribute("stroke-width") || "" };
+        edges.push(e);
+        if (a) a.edges.push(e);
+        if (b) b.edges.push(e);
+      });
+
+      var allLabels = [];
+      nodes.forEach(function (n) { if (n.label) allLabels.push(n.label); });
+
+      function clear() {
+        tip.style.display = "none";
+        nodes.forEach(function (n) {
+          n.el.setAttribute("r", n.r);
+          n.el.style.fill = "";
+        });
+        edges.forEach(function (e) {
+          e.el.style.stroke = ""; e.el.style.strokeWidth = e.w; e.el.style.opacity = "";
+        });
+        allLabels.forEach(function (t) { t.style.opacity = ""; t.style.fontWeight = ""; });
+      }
+
+      nodes.forEach(function (n) {
+        n.el.style.pointerEvents = "all";
+        n.el.style.cursor = "pointer";
+        n.el.addEventListener("pointerenter", function (e) {
+          clear();
+          var mates = {};
+          n.edges.forEach(function (ed) {
+            ed.el.style.stroke = "#2b50e0";
+            ed.el.style.strokeWidth = "2";
+            var other = ed.a === n ? ed.b : ed.a;
+            if (other) { mates[nodes.indexOf(other)] = true; }
+          });
+          edges.forEach(function (ed) { if (ed.a !== n && ed.b !== n) ed.el.style.opacity = "0.12"; });
+          allLabels.forEach(function (t) { t.style.opacity = "0.15"; });
+          nodes.forEach(function (m, i) {
+            if (m === n || mates[i]) {
+              if (m.label) { m.label.style.opacity = "1"; m.label.style.fontWeight = "700"; }
+            }
+          });
+          n.el.setAttribute("r", Math.max(n.r * 1.8, 6));
+          n.el.style.fill = "#2b50e0";
+          if (n.label) {
+            var r = box.getBoundingClientRect();
+            tip.textContent = n.label.textContent + " · " + n.edges.length + (n.edges.length === 1 ? " tie" : " ties");
+            tip.style.left = (e.clientX - r.left) + "px";
+            tip.style.top = (e.clientY - r.top) + "px";
+            tip.style.display = "block";
+          }
+        });
+        n.el.addEventListener("pointerleave", clear);
+      });
+    }).catch(function () { /* static image remains */ });
+  })();
   </script>
 </body>
 </html>
