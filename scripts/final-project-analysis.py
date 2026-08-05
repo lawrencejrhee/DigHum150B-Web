@@ -210,6 +210,7 @@ s.append('''<style>
  .yr{fill:#8b94a3;font:12.5px system-ui,-apple-system,Segoe UI,sans-serif}
  .num{fill:#0f141c;font:700 15px system-ui,-apple-system,Segoe UI,sans-serif}
  .axisl{stroke:#c7d0dc;stroke-width:1.2}
+ .segnum{fill:#ffffff;font:600 12.5px system-ui,-apple-system,Segoe UI,sans-serif}
  .tick2{fill:#5b6470;font:12px system-ui,-apple-system,Segoe UI,sans-serif}
  .lg{fill:#586170;font:13.5px system-ui,-apple-system,Segoe UI,sans-serif}
  .src{fill:#8b94a3;font:12px system-ui,-apple-system,Segoe UI,sans-serif}
@@ -235,7 +236,10 @@ for i, c in enumerate(order):
         acc = 0.0
         for vi, v in enumerate(vals):
             wpx = v/100*bw
-            s.append(f'<rect x="{bx+acc:.1f}" y="{by}" width="{max(wpx,0.8):.1f}" height="{bh}" fill="{GCOL[vi]}"/>')
+            tip = f'{GNAMES[vi]}, {yr}: {v:.1f} percent'
+            s.append(f'<rect x="{bx+acc:.1f}" y="{by}" width="{max(wpx,0.8):.1f}" height="{bh}" fill="{GCOL[vi]}"><title>{c}. {tip}</title></rect>')
+            if v >= 8:
+                s.append(f'<text class="segnum" x="{bx+acc+wpx/2:.1f}" y="{by+bh/2+4.5:.1f}" text-anchor="middle">{round(v)}</text>')
             acc += wpx
         west = round(vals[1] + vals[2])
         s.append(f'<text class="num" x="{bx+bw+10:.1f}" y="{by+bh/2+5}">{west}</text>')

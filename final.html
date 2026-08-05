@@ -67,7 +67,7 @@
       </p>
 
       <figure class="media wide">
-        <img src="assets/images/final-plates.svg?v=2"
+        <img id="plates-img" src="assets/images/final-plates.svg?v=3"
              alt="Twelve countries shown as pairs of stacked bars, their diets in 1961 and the most recent year, as shares of daily calories. Beside each bar is the share coming from oils, sugar, meat and dairy, the Western pattern. In 1961 that number is 64 for the United States but only 7 for South Korea and 10 for China. By 2023 South Korea reaches 54, China 33 and Brazil 57, while Nigeria and Senegal barely move.">
         <figcaption>Dietary composition of twelve countries in 1961 and the
           latest available year, as shares of daily calorie supply. The number
@@ -75,7 +75,7 @@
           from oils, sugar, meat and dairy. South Korea climbs from 7 to 54,
           the largest shift in the entire dataset; the United States sits still
           at 64 because it is the destination; Nigeria and Senegal barely
-          move.</figcaption>
+          move. Interactive: hover any segment for its exact share.</figcaption>
       </figure>
 
       <p>
@@ -149,7 +149,7 @@
       </p>
 
       <figure class="media wide">
-        <img src="assets/images/final-calorie-gap.svg?v=2"
+        <img src="assets/images/final-calorie-gap.svg?v=3"
              alt="Chart of daily calorie supply from 1961 to 2023 showing the best fed and worst fed country in each year. In 1961 the extremes were Jordan at 4,064 calories and Burkina Faso at 1,339, a ratio of 3.0 to 1. In 2023 they were the United States at 3,947 and Yemen at 1,811, a ratio of 2.2 to 1. The band between the lines narrows slowly but never closes.">
         <figcaption>Daily calorie supply of the highest and lowest country in
           each year. The countries at the extremes rotate, from Jordan and
@@ -254,5 +254,27 @@
       <p><a href="mailto:lawrencejrhee@gmail.com">lawrencejrhee@gmail.com</a></p>
     </div>
   </footer>
+  <script>
+  (function () {
+    var img = document.getElementById("plates-img");
+    if (!img || !window.fetch || !window.DOMParser) return;
+    fetch(img.getAttribute("src")).then(function (r) {
+      if (!r.ok) throw new Error(r.status);
+      return r.text();
+    }).then(function (text) {
+      var doc = new DOMParser().parseFromString(text, "image/svg+xml");
+      var svg = doc.documentElement;
+      if (!svg || svg.nodeName !== "svg") return;
+      svg.setAttribute("role", "img");
+      svg.setAttribute("aria-label", img.getAttribute("alt"));
+      svg.style.display = "block";
+      svg.style.width = "100%";
+      svg.style.height = "auto";
+      svg.style.borderRadius = "10px";
+      svg.style.border = "1px solid var(--border)";
+      img.parentNode.replaceChild(svg, img);
+    }).catch(function () { /* static image remains */ });
+  })();
+  </script>
 </body>
 </html>
