@@ -295,8 +295,13 @@ s.append(f'<text class="endv" x="{padL}" y="{Y(f0[1])-16:.1f}">{int(f0[1]):,} kc
 s.append(f'<circle cx="{X(f0[0]):.1f}" cy="{Y(f0[3]):.1f}" r="5" fill="#d1477a"/>')
 s.append(f'<text class="end" x="{padL}" y="{Y(f0[3])+34:.1f}">{f0[4]}</text>')
 s.append(f'<text class="endv" x="{padL}" y="{Y(f0[3])+52:.1f}">{int(f0[3]):,} kcal</text>')
-s.append(f'<text class="chip" x="{X(1964):.1f}" y="{Y((f0[1]+f0[3])/2):.1f}">3.0 to 1</text>')
-s.append(f'<text class="chip" x="{X(2015):.1f}" y="{Y((fN[1]+fN[3])/2):.1f}">2.2 to 1</text>')
+for (yr, hi, lo, ratio, anchor) in ((f0[0], f0[1], f0[3], f0[5], "start"), (fN[0], fN[1], fN[3], fN[5], "end")):
+    bx = X(yr)
+    s.append(f'<line x1="{bx:.1f}" y1="{Y(hi)+8:.1f}" x2="{bx:.1f}" y2="{Y(lo)-8:.1f}" stroke="#d1477a" stroke-width="1.6" stroke-dasharray="3 4" stroke-opacity="0.85"/>')
+    lx = bx + 14 if anchor == "start" else bx - 14
+    my = Y((hi+lo)/2)
+    s.append(f'<text class="endv" x="{lx:.1f}" y="{my-9:.1f}" text-anchor="{anchor}">calorie gap</text>')
+    s.append(f'<text class="chip" x="{lx:.1f}" y="{my+11:.1f}" text-anchor="{anchor}">{ratio:.1f} to 1</text>')
 for y in (1961, 1980, 2000, 2023):
     s.append(f'<text class="tick" x="{X(y):.1f}" y="{H-padB+22}" text-anchor="middle">{y}</text>')
 s.append(f'<line class="axis" x1="{padL}" y1="{H-padB}" x2="{W-padR}" y2="{H-padB}"/>')

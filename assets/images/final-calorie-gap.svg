@@ -42,8 +42,12 @@
 <circle cx="86.0" cy="433.1" r="5" fill="#d1477a"/>
 <text class="end" x="86" y="467.1">Burkina Faso</text>
 <text class="endv" x="86" y="485.1">1,339 kcal</text>
-<text class="chip" x="125.8" y="293.7">3.0 to 1</text>
-<text class="chip" x="801.9" y="275.6">2.2 to 1</text>
+<line x1="86.0" y1="162.4" x2="86.0" y2="425.1" stroke="#d1477a" stroke-width="1.6" stroke-dasharray="3 4" stroke-opacity="0.85"/>
+<text class="endv" x="100.0" y="284.7" text-anchor="start">calorie gap</text>
+<text class="chip" x="100.0" y="304.7" text-anchor="start">3.0 to 1</text>
+<line x1="908.0" y1="174.3" x2="908.0" y2="376.8" stroke="#d1477a" stroke-width="1.6" stroke-dasharray="3 4" stroke-opacity="0.85"/>
+<text class="endv" x="894.0" y="266.6" text-anchor="end">calorie gap</text>
+<text class="chip" x="894.0" y="286.6" text-anchor="end">2.2 to 1</text>
 <text class="tick" x="86.0" y="592" text-anchor="middle">1961</text>
 <text class="tick" x="337.9" y="592" text-anchor="middle">1980</text>
 <text class="tick" x="603.1" y="592" text-anchor="middle">2000</text>
