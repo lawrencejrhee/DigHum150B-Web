@@ -195,9 +195,9 @@ for r in pl:
     c = r["country"]
     if c not in order: order.append(c)
     PD[c][r["year"]] = [float(r[g]) for g in GNAMES]
-COLS = 3
-tw, th = 340, 255; gx, gy = 26, 30; padL = 28; padT = 128; padB = 64
-NROWS = 4
+COLS = 2
+tw, th = 520, 252; gx, gy = 32, 34; padL = 28; padT = 128; padB = 64
+NROWS = 6
 W = padL*2 + COLS*tw + (COLS-1)*gx
 H = padT + NROWS*th + (NROWS-1)*gy + padB
 s = [f'<svg viewBox="0 0 {W} {H}" xmlns="http://www.w3.org/2000/svg" role="img" '
@@ -256,10 +256,8 @@ for i, c in enumerate(order):
         for q in (25, 50, 75):
             qx = bx + q/100*bw
             s.append(f'<line class="axisl" x1="{qx:.1f}" y1="{by+bh}" x2="{qx:.1f}" y2="{by+bh+4}"/>')
-for col in range(COLS):
-    acx = padL + col*(tw+gx)
-    ay = padT + (NROWS-1)*(th+gy) + 222
-    abx = acx + 44; abw = tw - 44 - 14
+    ay = cy + 222
+    abx = cx + 44; abw = tw - 44 - 14
     s.append(f'<line class="axisl" x1="{abx}" y1="{ay}" x2="{abx+abw}" y2="{ay}"/>')
     for q in (0, 25, 50, 75, 100):
         qx = abx + q/100*abw
