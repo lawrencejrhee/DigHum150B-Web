@@ -8,6 +8,7 @@ Reads the FAO-derived datasets committed in assets/data/ and rebuilds:
   assets/data/final/calorie-gap.csv       best and worst fed country, yearly
   assets/images/final-plates.svg          the plates figure
   assets/images/final-calorie-gap.svg     the unequal portion figure
+  assets/images/final-anchors.svg         the directional test figure
 
 Run from anywhere: python scripts/final-project-analysis.py
 """
@@ -132,6 +133,58 @@ with open(os.path.join(OUT, "calorie-gap.csv"), "w", newline="", encoding="utf-8
     w.writerow(["year","highest_kcal","highest_country","lowest_kcal","lowest_country","ratio"])
     for r in gap: w.writerow(r)
 print(f"calorie gap ratio: {gap[0][5]} (1961) -> {gap[-1][5]} (2023)")
+
+
+# ---------------- figure: toward whose plate ------------------------------
+a2 = [(int(r["year"]), float(r["distance_to_western_1961_plate"]),
+       float(r["distance_to_south_asian_1961_plate"]),
+       float(r["distance_to_west_african_1961_plate"]),
+       float(r["distance_to_east_asian_1961_plate"]))
+      for r in csv.DictReader(open(os.path.join(OUT, "anchor-distances.csv"), encoding="utf-8"))]
+W, H = 1128, 640; padL, padR, padT, padB = 96, 300, 120, 70
+pw, ph = W-padL-padR, H-padT-padB
+Y0, Y1 = 1961, 2023; V0, V1 = 0.20, 0.37
+X = lambda y: padL + (y-Y0)/(Y1-Y0)*pw
+Y = lambda v: padT + (V1-v)/(V1-V0)*ph
+SER = [("Western 1961 plate", 1, "#2b50e0", 3.4, "", "down 30 percent"),
+       ("South Asian 1961 plate", 2, "#d1477a", 2.2, "6 4", "up 15 percent"),
+       ("East Asian 1961 plate", 4, "#e0862b", 2.2, "6 4", "up 14 percent"),
+       ("West African 1961 plate", 3, "#12a594", 2.2, "6 4", "flat")]
+s = [f'<svg viewBox="0 0 {W} {H}" xmlns="http://www.w3.org/2000/svg" role="img" '
+     f'aria-label="Line chart from 1961 to 2023 of the average distance between the diets of 133 countries and four reference plates fixed at their 1961 composition. Distance to the Western plate falls 30 percent, the only line that falls substantially. Distance to the South Asian and East Asian plates rises about 15 percent and distance to the West African plate stays flat. The world moved toward one plate and away from the others.">']
+s.append("""<style>
+ .bg{fill:#ffffff}
+ .t{fill:#0f141c;font:700 26px system-ui,-apple-system,Segoe UI,sans-serif}
+ .sub{fill:#586170;font:15px system-ui,-apple-system,Segoe UI,sans-serif}
+ .grid{stroke:#e6ebf3;stroke-width:1}.axis{stroke:#c7d0dc;stroke-width:1.2}
+ .tick{fill:#5b6470;font:13px system-ui,-apple-system,Segoe UI,sans-serif}
+ .end{font:600 14.5px system-ui,-apple-system,Segoe UI,sans-serif}
+ .endv{fill:#586170;font:13px system-ui,-apple-system,Segoe UI,sans-serif}
+ .src{fill:#8b94a3;font:12px system-ui,-apple-system,Segoe UI,sans-serif}
+ @media (prefers-color-scheme:dark){.bg{fill:#0f141c}.t{fill:#e7eef7}.sub{fill:#94a1b2}
+ .grid{stroke:#223047}.axis{stroke:#33415a}.tick{fill:#94a1b2}.endv{fill:#94a1b2}.src{fill:#6b7688}}
+</style>""")
+s.append(f'<rect class="bg" width="{W}" height="{H}" rx="12"/>')
+s.append(f'<text class="t" x="{padL}" y="44">Toward whose plate?</text>')
+s.append(f'<text class="sub" x="{padL}" y="72">Average distance of the diets of 133 countries from four plates frozen at their 1961 composition</text>')
+for v in (0.20, 0.25, 0.30, 0.35):
+    s.append(f'<line class="grid" x1="{padL}" y1="{Y(v):.1f}" x2="{W-padR}" y2="{Y(v):.1f}"/>')
+    s.append(f'<text class="tick" x="{padL-10}" y="{Y(v)+4:.1f}" text-anchor="end">{v:.2f}</text>')
+for name, idx, col, wdt, dash, verdict in SER:
+    pts = " ".join(f"{X(r[0]):.1f},{Y(r[idx]):.1f}" for r in a2)
+    d = f' stroke-dasharray="{dash}"' if dash else ""
+    s.append(f'<polyline points="{pts}" fill="none" stroke="{col}" stroke-width="{wdt}"{d} stroke-linejoin="round"/>')
+    last = a2[-1]
+    s.append(f'<circle cx="{X(last[0]):.1f}" cy="{Y(last[idx]):.1f}" r="5" fill="{col}"/>')
+    s.append(f'<text class="end" x="{W-padR+12}" y="{Y(last[idx])+1:.1f}" fill="{col}">{name}</text>')
+    s.append(f'<text class="endv" x="{W-padR+12}" y="{Y(last[idx])+19:.1f}">{verdict}</text>')
+for y in (1961, 1980, 2000, 2023):
+    s.append(f'<text class="tick" x="{X(y):.1f}" y="{H-padB+22}" text-anchor="middle">{y}</text>')
+s.append(f'<line class="axis" x1="{padL}" y1="{H-padB}" x2="{W-padR}" y2="{H-padB}"/>')
+s.append(f'<text class="src" x="{padL}" y="{H-20}">Balanced panel of 133 countries. Distance is euclidean distance between ten part compositions of daily calorie supply.</text>')
+s.append('</svg>')
+open(os.path.join(IMG, "final-anchors.svg"), "w", encoding="utf-8").write("\n".join(s))
+print("final-anchors.svg written")
 
 # ---------------- figure: twelve plates -----------------------------------
 GCOL = ["#8a7a4e","#e0862b","#d1477a","#12a594","#8b94a3"]
