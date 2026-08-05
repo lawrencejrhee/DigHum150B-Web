@@ -195,9 +195,9 @@ for r in pl:
     c = r["country"]
     if c not in order: order.append(c)
     PD[c][r["year"]] = [float(r[g]) for g in GNAMES]
-COLS = 2
-tw, th = 520, 252; gx, gy = 32, 34; padL = 28; padT = 128; padB = 64
-NROWS = 6
+COLS = 1
+tw, th = 1072, 262; gx, gy = 32, 34; padL = 28; padT = 128; padB = 64
+NROWS = 12
 W = padL*2 + COLS*tw + (COLS-1)*gx
 H = padT + NROWS*th + (NROWS-1)*gy + padB
 s = [f'<svg viewBox="0 0 {W} {H}" xmlns="http://www.w3.org/2000/svg" role="img" '
@@ -211,7 +211,7 @@ s.append('''<style>
  .num{fill:#0f141c;font:700 15px system-ui,-apple-system,Segoe UI,sans-serif}
  .axisl{stroke:#c7d0dc;stroke-width:1.2}
  .segnum{fill:#ffffff;font:600 12.5px system-ui,-apple-system,Segoe UI,sans-serif}
- .segsm{font:600 11px system-ui,-apple-system,Segoe UI,sans-serif}
+ .segsm{fill:#ffffff;font:600 9.5px system-ui,-apple-system,Segoe UI,sans-serif}
  .tick2{fill:#5b6470;font:12px system-ui,-apple-system,Segoe UI,sans-serif}
  .lg{fill:#586170;font:13.5px system-ui,-apple-system,Segoe UI,sans-serif}
  .src{fill:#8b94a3;font:12px system-ui,-apple-system,Segoe UI,sans-serif}
@@ -221,7 +221,7 @@ s.append('''<style>
 s.append(f'<rect class="bg" width="{W}" height="{H}" rx="12"/>')
 s.append(f'<text class="t" x="{padL}" y="42">Twelve plates, then and now</text>')
 s.append(f'<text class="sub" x="{padL}" y="68">Share of daily calories by food group, 1961 (top bar) and the latest year (bottom bar).</text>')
-s.append(f'<text class="sub" x="{padL}" y="88">Every number is a percent of daily calories. Small segments are numbered just below their bar.</text>')
+s.append(f'<text class="sub" x="{padL}" y="88">Every segment is numbered with its percent of daily calories. Hover any segment for the exact value.</text>')
 lx = padL
 for name, col in zip(GNAMES, GCOL):
     s.append(f'<rect x="{lx}" y="{100}" width="13" height="13" rx="3" fill="{col}"/>')
@@ -232,10 +232,9 @@ for i, c in enumerate(order):
     s.append(f'<text class="cty" x="{cx}" y="{cy+20}">{c}</text>')
     for bi, yr in enumerate(sorted(PD[c])):
         vals = PD[c][yr]
-        by = cy + 44 + bi*92; bh = 48; bx = cx + 44; bw = tw - 44 - 14
+        by = cy + 44 + bi*98; bh = 54; bx = cx + 44; bw = tw - 44 - 14
         s.append(f'<text class="yr" x="{cx}" y="{by+bh/2+4}">{yr}</text>')
         acc = 0.0
-        below = []
         for vi, v in enumerate(vals):
             wpx = v/100*bw
             tip = f'{GNAMES[vi]}, {yr}: {v:.1f} percent'
@@ -243,20 +242,12 @@ for i, c in enumerate(order):
             if wpx >= 20:
                 s.append(f'<text class="segnum" x="{bx+acc+wpx/2:.1f}" y="{by+bh/2+4.5:.1f}" text-anchor="middle">{round(v)}</text>')
             else:
-                below.append((bx+acc+wpx/2, round(v), GCOL[vi]))
+                s.append(f'<text class="segsm" x="{bx+acc+wpx/2:.1f}" y="{by+bh/2+3.5:.1f}" text-anchor="middle">{max(round(v),1)}</text>')
             acc += wpx
-        lastA = lastB = -99.0
-        for lx, lv, lcol in below:
-            if lx - lastA >= 15:
-                ly = by + bh + 16; lastA = lx
-            else:
-                ly = by + bh + 29; lastB = lx
-            s.append(f'<line x1="{lx:.1f}" y1="{by+bh+1:.1f}" x2="{lx:.1f}" y2="{ly-9:.1f}" stroke="{lcol}" stroke-width="1.4"/>')
-            s.append(f'<text class="segsm" x="{lx:.1f}" y="{ly:.1f}" text-anchor="middle" fill="{lcol}">{lv}</text>')
         for q in (25, 50, 75):
             qx = bx + q/100*bw
             s.append(f'<line class="axisl" x1="{qx:.1f}" y1="{by+bh}" x2="{qx:.1f}" y2="{by+bh+4}"/>')
-    ay = cy + 222
+    ay = cy + 232
     abx = cx + 44; abw = tw - 44 - 14
     s.append(f'<line class="axisl" x1="{abx}" y1="{ay}" x2="{abx+abw}" y2="{ay}"/>')
     for q in (0, 25, 50, 75, 100):
