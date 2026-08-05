@@ -47,8 +47,8 @@
         plate that wealthy Western countries were already eating in 1961, heavy
         in oils, sugar, meat, and dairy, and nearly empty of pulses. At the same
         time, the gap in how much food people actually have has narrowed far
-        less: the best fed country consumed three times the calories of the
-        worst fed in 1961, and still consumes more than twice as much today.
+        less: the best fed country had three times the daily calorie supply of
+        the worst fed in 1961, and still has more than twice as much today.
         The world increasingly eats one kind of meal, in very unequal portions.
       </p>
 
@@ -67,24 +67,24 @@
       </p>
 
       <figure class="media wide">
-        <img id="plates-img" src="assets/images/final-plates.svg?v=7"
-             alt="Twelve countries shown as pairs of stacked bars, their diets in 1961 and the most recent year, as shares of daily calories. Every segment is numbered with its percent of daily calories. Summing the oils and sugar segment with the meat, dairy and eggs segment gives the Western pattern share: 64 percent for the United States in 1961 but only 7 for South Korea and 10 for China. By 2023 South Korea reaches 54, China 33 and Brazil 57, while Nigeria and Senegal barely move.">
+        <img id="plates-img" src="assets/images/final-plates.svg?v=8"
+             alt="Twelve countries shown as pairs of stacked bars, their diets in 1961 and the most recent year, as shares of daily calories. Every segment is numbered, and a bracket under each bar sums the oils, sugar, meat and dairy segments into that plate's Western pattern share: 64 for the United States in 1961 and 65 now, but rising from 7 to 54 in South Korea and 10 to 33 in China, while Nigeria and Senegal barely move.">
         <figcaption>Dietary composition of twelve countries in 1961 and the
           latest available year. Every segment is numbered with its percent of
-          daily calories. Add the orange and pink segments, oils and sugar plus
-          meat and dairy, and you get each plate's Western pattern share: South
-          Korea climbs from 7 to 54 percent, the largest shift in the dataset;
-          the United States sits still at 64 because it is the destination;
-          Nigeria and Senegal barely move. Interactive: hover any segment for
-          its exact share.</figcaption>
+          daily calories, and the bracket under each bar sums the oils, sugar,
+          meat and dairy segments into that plate's Western pattern share:
+          South Korea climbs from 7 to 54, the largest shift in the dataset;
+          the United States moves only from 64 to 65 because it is the
+          destination; Nigeria and Senegal barely move. In a browser, hover
+          any segment for its exact share.</figcaption>
       </figure>
 
       <p>
         The twelve countries were not chosen to flatter the argument. They
         include the destination itself (the United States, the United Kingdom,
         France), the fastest mover in the whole dataset (South Korea, whose
-        composition shifted more than any of the 134 countries with complete
-        records), large countries that carry most of the world's population
+        composition shifted more than any other country with records in both
+        1961 and the latest year), large countries that carry most of the world's population
         (China, India, Brazil, Mexico, Egypt, Nigeria), Japan as a wealthy
         non-Western comparison, and Senegal, which changed less than almost
         anyone and shows what resisting the trend looks like.
@@ -92,7 +92,7 @@
 
       <h2>Convergence, measured two ways</h2>
       <p>
-        Small multiples can be cherry picked, so the claim needs a measurement
+        Small multiples can be cherry-picked, so the claim needs a measurement
         that uses every country at once. The chart below measures how far
         each country's dietary composition sits from the global average, then
         averages that distance: it falls about 23 percent between 1961 and 2023
@@ -101,23 +101,27 @@
         with a second, independent measure, the average pairwise cosine distance
         between every pair of country profiles. It falls 29 percent. Both
         methods, applied to a panel where no country enters or leaves, agree:
-        the world's diets are genuinely becoming more alike, smoothly and
-        almost without interruption.
+        the world's diets are genuinely becoming more alike, steadily across
+        the whole period. The one visible break, a step near 2010, is an FAO
+        methodology revision rather than a change in eating, and it is noted
+        on the charts.
       </p>
 
       <figure class="media wide">
-        <div class="flourish-embed flourish-chart" data-src="visualisation/29872820"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/29872820/thumbnail" width="100%" alt="Line chart of dietary dissimilarity between countries from 1961 to 2023, falling steadily by three independent measures." /></noscript></div>
-        <figcaption>Dietary dissimilarity between countries, 1961 to 2023, by
-          three independent measures, built in Flourish. The two distance
-          methods track each other almost exactly, and the balanced panel rules
-          out changes in which countries report. Interactive: hover a line for
-          the value in any year.</figcaption>
+        <div class="flourish-embed flourish-chart" data-src="visualisation/29872820"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/29872820/thumbnail" width="100%" alt="Line chart of dietary dissimilarity between countries from 1961 to 2023, falling steadily by two independent measures shown as three series." /></noscript></div>
+        <figcaption>Dietary dissimilarity between countries, 1961 to 2023, built
+          in Flourish: two independent measures shown as three series, the
+          distance method on all countries and on the balanced panel, plus the
+          cosine method. The two measures track each other, and the balanced
+          panel rules out changes in which countries report. Interactive: hover
+          a line for the value in any year.</figcaption>
       </figure>
 
       <p>
         The direction of the convergence was tested rather than assumed. Against
         a reference profile built from what six wealthy Western countries ate in
-        1961, the average distance of all countries falls 30 percent. Against
+        1961, the average distance of the 133 panel countries falls 30
+        percent. Against
         three alternative anchors built the same way from 1961 South Asian, East
         Asian, and West African plates, distance rises 15 percent, rises 14
         percent, and stays flat. The world moved toward one plate and away from
@@ -127,7 +131,7 @@
       </p>
 
       <figure class="media wide">
-        <img src="assets/images/final-anchors.svg"
+        <img src="assets/images/final-anchors.svg?v=2"
              alt="Line chart from 1961 to 2023 of the average distance between the diets of 133 countries and four reference plates fixed at their 1961 composition. Distance to the Western plate falls 30 percent, the only line that falls substantially. Distance to the South Asian and East Asian plates rises about 15 percent and distance to the West African plate stays flat. The world moved toward one plate and away from the others.">
         <figcaption>The directional test. Each line is the average distance
           between the world's diets and one plate frozen at its 1961
@@ -150,7 +154,7 @@
       </p>
 
       <figure class="media wide">
-        <img src="assets/images/final-calorie-gap.svg?v=3"
+        <img src="assets/images/final-calorie-gap.svg?v=4"
              alt="Chart of daily calorie supply from 1961 to 2023 showing the best fed and worst fed country in each year. In 1961 the extremes were Jordan at 4,064 calories and Burkina Faso at 1,339, a ratio of 3.0 to 1. In 2023 they were the United States at 3,947 and Yemen at 1,811, a ratio of 2.2 to 1. The band between the lines narrows slowly but never closes.">
         <figcaption>Daily calorie supply of the highest and lowest country in
           each year. The countries at the extremes rotate, from Jordan and
@@ -187,8 +191,8 @@
         <li>
           <span class="term">Availability vs consumption</span>
           <p>FAO food balance sheets measure food available for consumption,
-             including waste. Cross country and cross time comparisons are
-             robust to this; absolute levels are overstated, and the rich poor
+             including waste. Cross-country and cross-time comparisons are
+             robust to this; absolute levels are overstated, and the rich-poor
              gap more so, since waste rises with income.</p>
         </li>
         <li>
@@ -228,17 +232,6 @@
         is <code>scripts/final-project-analysis.py</code>.
       </p>
 
-      <!-- Remaining Flourish swaps:
-           1. Plates: "Bar chart (stacked)" template, upload
-              assets/data/final/plates.csv, Labels = A, Values = C-G,
-              Grid of charts = B. Publish and replace the final-plates.svg
-              figure above with the embed.
-           2. Optional: calorie gap as a Flourish line chart from
-              assets/data/final/calorie-gap.csv (Values = B and D), replacing
-              the final-calorie-gap.svg figure.
-           3. Optional: anchor-distances.csv as a fourth chart for the
-              directional finding.
-      -->
 
       <hr>
       <nav class="week-nav" aria-label="Site">

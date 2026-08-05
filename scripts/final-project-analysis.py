@@ -147,9 +147,9 @@ Y0, Y1 = 1961, 2023; V0, V1 = 0.20, 0.37
 X = lambda y: padL + (y-Y0)/(Y1-Y0)*pw
 Y = lambda v: padT + (V1-v)/(V1-V0)*ph
 SER = [("Western 1961 plate", 1, "#2b50e0", 3.4, "", "down 30 percent"),
-       ("South Asian 1961 plate", 2, "#d1477a", 2.2, "6 4", "up 15 percent"),
-       ("East Asian 1961 plate", 4, "#e0862b", 2.2, "6 4", "up 14 percent"),
-       ("West African 1961 plate", 3, "#12a594", 2.2, "6 4", "flat")]
+       ("South Asian 1961 plate", 2, "#8b95a6", 2.2, "7 4", "up 15 percent"),
+       ("East Asian 1961 plate", 4, "#6e7787", 2.2, "2 4", "up 14 percent"),
+       ("West African 1961 plate", 3, "#a9b1bd", 2.2, "11 4", "flat")]
 s = [f'<svg viewBox="0 0 {W} {H}" xmlns="http://www.w3.org/2000/svg" role="img" '
      f'aria-label="Line chart from 1961 to 2023 of the average distance between the diets of 133 countries and four reference plates fixed at their 1961 composition. Distance to the Western plate falls 30 percent, the only line that falls substantially. Distance to the South Asian and East Asian plates rises about 15 percent and distance to the West African plate stays flat. The world moved toward one plate and away from the others.">']
 s.append("""<style>
@@ -166,7 +166,7 @@ s.append("""<style>
 </style>""")
 s.append(f'<rect class="bg" width="{W}" height="{H}" rx="12"/>')
 s.append(f'<text class="t" x="{padL}" y="44">Toward whose plate?</text>')
-s.append(f'<text class="sub" x="{padL}" y="72">Average distance of the diets of 133 countries from four plates frozen at their 1961 composition</text>')
+s.append(f'<text class="sub" x="{padL}" y="72">Average dissimilarity, as Euclidean distance across ten food groups, between 133 countries and four plates frozen at 1961</text>')
 for v in (0.20, 0.25, 0.30, 0.35):
     s.append(f'<line class="grid" x1="{padL}" y1="{Y(v):.1f}" x2="{W-padR}" y2="{Y(v):.1f}"/>')
     s.append(f'<text class="tick" x="{padL-10}" y="{Y(v)+4:.1f}" text-anchor="end">{v:.2f}</text>')
@@ -181,13 +181,13 @@ for name, idx, col, wdt, dash, verdict in SER:
 for y in (1961, 1980, 2000, 2023):
     s.append(f'<text class="tick" x="{X(y):.1f}" y="{H-padB+22}" text-anchor="middle">{y}</text>')
 s.append(f'<line class="axis" x1="{padL}" y1="{H-padB}" x2="{W-padR}" y2="{H-padB}"/>')
-s.append(f'<text class="src" x="{padL}" y="{H-20}">Balanced panel of 133 countries. Distance is euclidean distance between ten part compositions of daily calorie supply.</text>')
+s.append(f'<text class="src" x="{padL}" y="{H-20}">Balanced panel of 133 countries. The axis begins at 0.20, not zero. The step at 2010 is an FAO methodology revision. Gray lines are the control anchors.</text>')
 s.append('</svg>')
 open(os.path.join(IMG, "final-anchors.svg"), "w", encoding="utf-8").write("\n".join(s))
 print("final-anchors.svg written")
 
 # ---------------- figure: twelve plates -----------------------------------
-GCOL = ["#8a7a4e","#e0862b","#d1477a","#12a594","#8b94a3"]
+GCOL = ["#7d6f45","#c86a10","#c93d70","#0d8577","#6e7787"]
 GNAMES = list(GROUPS)
 pl = list(csv.DictReader(open(os.path.join(OUT, "plates.csv"), encoding="utf-8")))
 PD = defaultdict(dict); order = []
@@ -201,27 +201,29 @@ NROWS = 12
 W = padL*2 + COLS*tw + (COLS-1)*gx
 H = padT + NROWS*th + (NROWS-1)*gy + padB
 s = [f'<svg viewBox="0 0 {W} {H}" xmlns="http://www.w3.org/2000/svg" role="img" '
-     f'aria-label="Twelve countries shown as pairs of stacked bars, their diets in 1961 and in the most recent year, as shares of daily calories. Beside each bar is the share coming from oils, sugar, meat and dairy, the Western pattern. In 1961 that number is 64 for the United States but only 7 for South Korea and 10 for China. By 2023 South Korea reaches 54, China 33, and Brazil 57, while Nigeria and Senegal barely move. The plates converge toward the Western pattern.">']
+     f'aria-label="Twelve countries shown as pairs of stacked bars, their diets in 1961 and in the most recent year, as shares of daily calories. Every segment is numbered with its percent, and a bracket under each bar sums the oils, sugar, meat and dairy segments into that plate Western pattern share. That share is 64 for the United States in 1961 and 65 now, but rises from 7 to 54 in South Korea and from 10 to 33 in China, while Nigeria and Senegal barely move. The plates converge toward the Western pattern.">']
 s.append('''<style>
  .bg{fill:#ffffff}
  .t{fill:#0f141c;font:700 26px system-ui,-apple-system,Segoe UI,sans-serif}
  .sub{fill:#586170;font:15px system-ui,-apple-system,Segoe UI,sans-serif}
  .cty{fill:#0f141c;font:600 18px system-ui,-apple-system,Segoe UI,sans-serif}
  .yr{fill:#8b94a3;font:12.5px system-ui,-apple-system,Segoe UI,sans-serif}
- .num{fill:#0f141c;font:700 15px system-ui,-apple-system,Segoe UI,sans-serif}
  .axisl{stroke:#c7d0dc;stroke-width:1.2}
  .segnum{fill:#ffffff;font:600 12.5px system-ui,-apple-system,Segoe UI,sans-serif}
  .segsm{fill:#ffffff;font:600 9.5px system-ui,-apple-system,Segoe UI,sans-serif}
+ .segxs{fill:#ffffff;font:600 8px system-ui,-apple-system,Segoe UI,sans-serif}
+ .bkt{stroke:#586170;stroke-width:1.3;fill:none}
+ .bktl{fill:#586170;font:600 11.5px system-ui,-apple-system,Segoe UI,sans-serif}
  .tick2{fill:#5b6470;font:12px system-ui,-apple-system,Segoe UI,sans-serif}
  .lg{fill:#586170;font:13.5px system-ui,-apple-system,Segoe UI,sans-serif}
  .src{fill:#8b94a3;font:12px system-ui,-apple-system,Segoe UI,sans-serif}
  @media (prefers-color-scheme:dark){.bg{fill:#0f141c}.t{fill:#e7eef7}.sub{fill:#94a1b2}
- .cty{fill:#e7eef7}.yr{fill:#6b7688}.num{fill:#e7eef7}.axisl{stroke:#33415a}.tick2{fill:#94a1b2}.lg{fill:#94a1b2}.src{fill:#6b7688}}
+ .cty{fill:#e7eef7}.yr{fill:#6b7688}.axisl{stroke:#33415a}.tick2{fill:#94a1b2}.lg{fill:#94a1b2}.src{fill:#6b7688}.bkt{stroke:#8b95a6}.bktl{fill:#8b95a6}}
 </style>''')
 s.append(f'<rect class="bg" width="{W}" height="{H}" rx="12"/>')
 s.append(f'<text class="t" x="{padL}" y="42">Twelve plates, then and now</text>')
 s.append(f'<text class="sub" x="{padL}" y="68">Share of daily calories by food group, 1961 (top bar) and the latest year (bottom bar).</text>')
-s.append(f'<text class="sub" x="{padL}" y="88">Every segment is numbered with its percent of daily calories. Hover any segment for the exact value.</text>')
+s.append(f'<text class="sub" x="{padL}" y="88">Every segment is numbered with its percent of daily calories. The bracket under each bar sums the Western pattern: oils, sugar, meat and dairy.</text>')
 lx = padL
 for name, col in zip(GNAMES, GCOL):
     s.append(f'<rect x="{lx}" y="{100}" width="13" height="13" rx="3" fill="{col}"/>')
@@ -234,16 +236,30 @@ for i, c in enumerate(order):
         vals = PD[c][yr]
         by = cy + 44 + bi*98; bh = 54; bx = cx + 44; bw = tw - 44 - 14
         s.append(f'<text class="yr" x="{cx}" y="{by+bh/2+4}">{yr}</text>')
+        floors = [int(v) for v in vals]
+        remq = round(sum(vals)) - sum(floors)
+        order2 = sorted(range(len(vals)), key=lambda i: vals[i]-floors[i], reverse=True)
+        disp = list(floors)
+        for i in order2[:remq]:
+            disp[i] += 1
         acc = 0.0
         for vi, v in enumerate(vals):
             wpx = v/100*bw
             tip = f'{GNAMES[vi]}, {yr}: {v:.1f} percent'
             s.append(f'<rect x="{bx+acc:.1f}" y="{by}" width="{max(wpx,0.8):.1f}" height="{bh}" fill="{GCOL[vi]}"><title>{c}. {tip}</title></rect>')
             if wpx >= 20:
-                s.append(f'<text class="segnum" x="{bx+acc+wpx/2:.1f}" y="{by+bh/2+4.5:.1f}" text-anchor="middle">{round(v)}</text>')
+                s.append(f'<text class="segnum" x="{bx+acc+wpx/2:.1f}" y="{by+bh/2+4.5:.1f}" text-anchor="middle">{disp[vi]}</text>')
+            elif wpx >= 9:
+                s.append(f'<text class="segsm" x="{bx+acc+wpx/2:.1f}" y="{by+bh/2+3.5:.1f}" text-anchor="middle">{max(disp[vi],1)}</text>')
             else:
-                s.append(f'<text class="segsm" x="{bx+acc+wpx/2:.1f}" y="{by+bh/2+3.5:.1f}" text-anchor="middle">{max(round(v),1)}</text>')
+                s.append(f'<text class="segxs" x="{bx+acc+wpx/2:.1f}" y="{by+bh/2+3:.1f}" text-anchor="middle">{max(disp[vi],1)}</text>')
             acc += wpx
+        wx1 = bx + vals[0]/100*bw
+        wx2 = bx + (vals[0]+vals[1]+vals[2])/100*bw
+        wy = by + bh + 7
+        wshare = disp[1] + disp[2]
+        s.append(f'<path class="bkt" d="M {wx1:.1f} {wy-3} V {wy} H {wx2:.1f} V {wy-3}"/>')
+        s.append(f'<text class="bktl" x="{(wx1+wx2)/2:.1f}" y="{wy+14:.1f}" text-anchor="middle">Western pattern {wshare}</text>')
         for q in (25, 50, 75):
             qx = bx + q/100*bw
             s.append(f'<line class="axisl" x1="{qx:.1f}" y1="{by+bh}" x2="{qx:.1f}" y2="{by+bh+4}"/>')
@@ -255,7 +271,7 @@ for i, c in enumerate(order):
         s.append(f'<line class="axisl" x1="{qx:.1f}" y1="{ay}" x2="{qx:.1f}" y2="{ay+5}"/>')
         lab = "100%" if q == 100 else str(q)
         s.append(f'<text class="tick2" x="{qx:.1f}" y="{ay+20}" text-anchor="middle">{lab}</text>')
-s.append(f'<text class="src" x="{padL}" y="{H-22}">Data: FAO food balance sheets via Our World in Data. Latest year is 2023, or 2022 for Japan. Each bar spans 0 to 100 percent of daily calories.</text>')
+s.append(f'<text class="src" x="{padL}" y="{H-22}">Data: FAO food balance sheets via Our World in Data. Latest year is 2023, or 2022 for Japan. The five groups aggregate the ten FAO commodity groups used in the distance measures; numbers are rounded to sum to 100.</text>')
 s.append('</svg>')
 open(os.path.join(IMG, "final-plates.svg"), "w", encoding="utf-8").write("\n".join(s))
 print("final-plates.svg written")
@@ -266,7 +282,7 @@ g2 = [(int(r["year"]), float(r["highest_kcal"]), r["highest_country"],
       for r in csv.DictReader(open(os.path.join(OUT, "calorie-gap.csv"), encoding="utf-8"))]
 W, H = 1128, 640; padL, padR, padT, padB = 86, 220, 120, 70
 pw, ph = W-padL-padR, H-padT-padB
-Y0, Y1 = 1961, 2023; K0, K1 = 0, 4400
+Y0, Y1 = 1961, 2023; K0, K1 = 0, 5000
 X = lambda y: padL + (y-Y0)/(Y1-Y0)*pw
 Y = lambda v: padT + (K1-v)/(K1-K0)*ph
 s = [f'<svg viewBox="0 0 {W} {H}" xmlns="http://www.w3.org/2000/svg" role="img" '
@@ -281,15 +297,16 @@ s.append('''<style>
  .end{fill:#0f141c;font:600 14.5px system-ui,-apple-system,Segoe UI,sans-serif}
  .endv{fill:#586170;font:13px system-ui,-apple-system,Segoe UI,sans-serif}
  .chip{fill:#0f141c;font:700 15px system-ui,-apple-system,Segoe UI,sans-serif}
+ .ann{fill:#586170;font:600 11.5px system-ui,-apple-system,Segoe UI,sans-serif}
  .src{fill:#8b94a3;font:12px system-ui,-apple-system,Segoe UI,sans-serif}
  @media (prefers-color-scheme:dark){.bg{fill:#0f141c}.t{fill:#e7eef7}.sub{fill:#94a1b2}
  .grid{stroke:#223047}.axis{stroke:#33415a}.tick{fill:#94a1b2}
- .end{fill:#e7eef7}.endv{fill:#94a1b2}.chip{fill:#e7eef7}.src{fill:#6b7688}}
+ .end{fill:#e7eef7}.endv{fill:#94a1b2}.chip{fill:#e7eef7}.ann{fill:#8b95a6}.src{fill:#6b7688}}
 </style>''')
 s.append(f'<rect class="bg" width="{W}" height="{H}" rx="12"/>')
 s.append(f'<text class="t" x="{padL}" y="44">The unequal portion</text>')
 s.append(f'<text class="sub" x="{padL}" y="72">Daily calorie supply of the best fed and worst fed country in each year, 1961 to 2023</text>')
-for v in (1000, 2000, 3000, 4000):
+for v in (0, 1000, 2000, 3000, 4000, 5000):
     s.append(f'<line class="grid" x1="{padL}" y1="{Y(v):.1f}" x2="{W-padR}" y2="{Y(v):.1f}"/>')
     s.append(f'<text class="tick" x="{padL-10}" y="{Y(v)+4:.1f}" text-anchor="end">{v:,}</text>')
 top = " ".join(f"{X(y):.1f},{Y(h):.1f}" for y, h, _, l, _, _ in g2)
@@ -302,11 +319,13 @@ ex = W - padR + 12
 s.append(f'<circle cx="{X(fN[0]):.1f}" cy="{Y(fN[1]):.1f}" r="5" fill="#d1477a"/>')
 s.append(f'<text class="end" x="{ex}" y="{Y(fN[1])-8:.1f}">{fN[2]}</text>')
 s.append(f'<text class="endv" x="{ex}" y="{Y(fN[1])+10:.1f}">{int(fN[1]):,} kcal</text>')
-s.append(f'<text class="lg" x="{ex}" y="{Y(fN[1])+28:.1f}" fill="#d1477a">best fed country</text>')
+s.append(f'<text class="lg" x="{ex}" y="{Y(fN[1])+28:.1f}" fill="#d1477a">best-fed country</text>')
+pk = max(g2, key=lambda r: r[1])
+s.append(f'<text class="ann" x="{X(pk[0]):.1f}" y="{Y(pk[1])-10:.1f}" text-anchor="middle">{pk[2]}, {pk[0]}: {int(pk[1]):,} kcal</text>')
 s.append(f'<circle cx="{X(fN[0]):.1f}" cy="{Y(fN[3]):.1f}" r="5" fill="#d1477a"/>')
 s.append(f'<text class="end" x="{ex}" y="{Y(fN[3])-8:.1f}">{fN[4]}</text>')
 s.append(f'<text class="endv" x="{ex}" y="{Y(fN[3])+10:.1f}">{int(fN[3]):,} kcal</text>')
-s.append(f'<text class="lg" x="{ex}" y="{Y(fN[3])+28:.1f}" fill="#d1477a">worst fed country</text>')
+s.append(f'<text class="lg" x="{ex}" y="{Y(fN[3])+28:.1f}" fill="#d1477a">worst-fed country</text>')
 s.append(f'<circle cx="{X(f0[0]):.1f}" cy="{Y(f0[1]):.1f}" r="5" fill="#d1477a"/>')
 s.append(f'<text class="end" x="{padL}" y="{Y(f0[1])-34:.1f}">{f0[2]}</text>')
 s.append(f'<text class="endv" x="{padL}" y="{Y(f0[1])-16:.1f}">{int(f0[1]):,} kcal</text>')
