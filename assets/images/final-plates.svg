@@ -6,10 +6,12 @@
  .cty{fill:#0f141c;font:600 18px system-ui,-apple-system,Segoe UI,sans-serif}
  .yr{fill:#8b94a3;font:12.5px system-ui,-apple-system,Segoe UI,sans-serif}
  .num{fill:#0f141c;font:700 15px system-ui,-apple-system,Segoe UI,sans-serif}
+ .axisl{stroke:#c7d0dc;stroke-width:1.2}
+ .tick2{fill:#5b6470;font:12px system-ui,-apple-system,Segoe UI,sans-serif}
  .lg{fill:#586170;font:13.5px system-ui,-apple-system,Segoe UI,sans-serif}
  .src{fill:#8b94a3;font:12px system-ui,-apple-system,Segoe UI,sans-serif}
  @media (prefers-color-scheme:dark){.bg{fill:#0f141c}.t{fill:#e7eef7}.sub{fill:#94a1b2}
- .cty{fill:#e7eef7}.yr{fill:#6b7688}.num{fill:#e7eef7}.lg{fill:#94a1b2}.src{fill:#6b7688}}
+ .cty{fill:#e7eef7}.yr{fill:#6b7688}.num{fill:#e7eef7}.axisl{stroke:#33415a}.tick2{fill:#94a1b2}.lg{fill:#94a1b2}.src{fill:#6b7688}}
 </style>
 <rect class="bg" width="1128" height="1302" rx="12"/>
 <text class="t" x="28" y="42">Twelve plates, then and now</text>
@@ -33,6 +35,9 @@
 <rect x="297.8" y="172" width="12.5" height="48" fill="#12a594"/>
 <rect x="310.2" y="172" width="11.5" height="48" fill="#8b94a3"/>
 <text class="num" x="332.0" y="201.0">64</text>
+<line class="axisl" x1="134.5" y1="220" x2="134.5" y2="224"/>
+<line class="axisl" x1="197.0" y1="220" x2="197.0" y2="224"/>
+<line class="axisl" x1="259.5" y1="220" x2="259.5" y2="224"/>
 <text class="yr" x="28" y="292.0">2023</text>
 <rect x="72.0" y="264" width="62.5" height="48" fill="#8a7a4e"/>
 <rect x="134.5" y="264" width="101.2" height="48" fill="#e0862b"/>
@@ -40,6 +45,9 @@
 <rect x="297.0" y="264" width="14.2" height="48" fill="#12a594"/>
 <rect x="311.2" y="264" width="11.0" height="48" fill="#8b94a3"/>
 <text class="num" x="332.0" y="293.0">65</text>
+<line class="axisl" x1="134.5" y1="312" x2="134.5" y2="316"/>
+<line class="axisl" x1="197.0" y1="312" x2="197.0" y2="316"/>
+<line class="axisl" x1="259.5" y1="312" x2="259.5" y2="316"/>
 <text class="cty" x="394" y="148">United Kingdom</text>
 <text class="yr" x="394" y="200.0">1961</text>
 <rect x="438.0" y="172" width="75.2" height="48" fill="#8a7a4e"/>
@@ -48,6 +56,9 @@
 <rect x="666.5" y="172" width="8.8" height="48" fill="#12a594"/>
 <rect x="675.2" y="172" width="12.8" height="48" fill="#8b94a3"/>
 <text class="num" x="698.0" y="201.0">61</text>
+<line class="axisl" x1="500.5" y1="220" x2="500.5" y2="224"/>
+<line class="axisl" x1="563.0" y1="220" x2="563.0" y2="224"/>
+<line class="axisl" x1="625.5" y1="220" x2="625.5" y2="224"/>
 <text class="yr" x="394" y="292.0">2023</text>
 <rect x="438.0" y="264" width="84.2" height="48" fill="#8a7a4e"/>
 <rect x="522.2" y="264" width="73.5" height="48" fill="#e0862b"/>
@@ -55,6 +66,9 @@
 <rect x="655.0" y="264" width="13.2" height="48" fill="#12a594"/>
 <rect x="668.2" y="264" width="20.0" height="48" fill="#8b94a3"/>
 <text class="num" x="698.0" y="293.0">53</text>
+<line class="axisl" x1="500.5" y1="312" x2="500.5" y2="316"/>
+<line class="axisl" x1="563.0" y1="312" x2="563.0" y2="316"/>
+<line class="axisl" x1="625.5" y1="312" x2="625.5" y2="316"/>
 <text class="cty" x="760" y="148">France</text>
 <text class="yr" x="760" y="200.0">1961</text>
 <rect x="804.0" y="172" width="92.8" height="48" fill="#8a7a4e"/>
@@ -63,6 +77,9 @@
 <rect x="1013.8" y="172" width="13.8" height="48" fill="#12a594"/>
 <rect x="1027.5" y="172" width="26.5" height="48" fill="#8b94a3"/>
 <text class="num" x="1064.0" y="201.0">47</text>
+<line class="axisl" x1="866.5" y1="220" x2="866.5" y2="224"/>
+<line class="axisl" x1="929.0" y1="220" x2="929.0" y2="224"/>
+<line class="axisl" x1="991.5" y1="220" x2="991.5" y2="224"/>
 <text class="yr" x="760" y="292.0">2023</text>
 <rect x="804.0" y="264" width="72.8" height="48" fill="#8a7a4e"/>
 <rect x="876.8" y="264" width="78.8" height="48" fill="#e0862b"/>
@@ -70,6 +87,9 @@
 <rect x="1017.2" y="264" width="14.0" height="48" fill="#12a594"/>
 <rect x="1031.2" y="264" width="23.0" height="48" fill="#8b94a3"/>
 <text class="num" x="1064.0" y="293.0">56</text>
+<line class="axisl" x1="866.5" y1="312" x2="866.5" y2="316"/>
+<line class="axisl" x1="929.0" y1="312" x2="929.0" y2="316"/>
+<line class="axisl" x1="991.5" y1="312" x2="991.5" y2="316"/>
 <text class="cty" x="28" y="433">Japan</text>
 <text class="yr" x="28" y="485.0">1961</text>
 <rect x="72.0" y="457" width="168.2" height="48" fill="#8a7a4e"/>
@@ -78,6 +98,9 @@
 <rect x="303.2" y="457" width="9.3" height="48" fill="#12a594"/>
 <rect x="312.5" y="457" width="9.5" height="48" fill="#8b94a3"/>
 <text class="num" x="332.0" y="486.0">25</text>
+<line class="axisl" x1="134.5" y1="505" x2="134.5" y2="509"/>
+<line class="axisl" x1="197.0" y1="505" x2="197.0" y2="509"/>
+<line class="axisl" x1="259.5" y1="505" x2="259.5" y2="509"/>
 <text class="yr" x="28" y="577.0">2022</text>
 <rect x="72.0" y="549" width="98.2" height="48" fill="#8a7a4e"/>
 <rect x="170.2" y="549" width="77.0" height="48" fill="#e0862b"/>
@@ -85,6 +108,9 @@
 <rect x="297.0" y="549" width="12.2" height="48" fill="#12a594"/>
 <rect x="309.2" y="549" width="12.8" height="48" fill="#8b94a3"/>
 <text class="num" x="332.0" y="578.0">51</text>
+<line class="axisl" x1="134.5" y1="597" x2="134.5" y2="601"/>
+<line class="axisl" x1="197.0" y1="597" x2="197.0" y2="601"/>
+<line class="axisl" x1="259.5" y1="597" x2="259.5" y2="601"/>
 <text class="cty" x="394" y="433">South Korea</text>
 <text class="yr" x="394" y="485.0">1961</text>
 <rect x="438.0" y="457" width="217.0" height="48" fill="#8a7a4e"/>
@@ -93,6 +119,9 @@
 <rect x="672.2" y="457" width="7.5" height="48" fill="#12a594"/>
 <rect x="679.8" y="457" width="8.2" height="48" fill="#8b94a3"/>
 <text class="num" x="698.0" y="486.0">7</text>
+<line class="axisl" x1="500.5" y1="505" x2="500.5" y2="509"/>
+<line class="axisl" x1="563.0" y1="505" x2="563.0" y2="509"/>
+<line class="axisl" x1="625.5" y1="505" x2="625.5" y2="509"/>
 <text class="yr" x="394" y="577.0">2023</text>
 <rect x="438.0" y="549" width="84.0" height="48" fill="#8a7a4e"/>
 <rect x="522.0" y="549" width="94.8" height="48" fill="#e0862b"/>
@@ -100,6 +129,9 @@
 <rect x="657.0" y="549" width="15.8" height="48" fill="#12a594"/>
 <rect x="672.8" y="549" width="15.2" height="48" fill="#8b94a3"/>
 <text class="num" x="698.0" y="578.0">54</text>
+<line class="axisl" x1="500.5" y1="597" x2="500.5" y2="601"/>
+<line class="axisl" x1="563.0" y1="597" x2="563.0" y2="601"/>
+<line class="axisl" x1="625.5" y1="597" x2="625.5" y2="601"/>
 <text class="cty" x="760" y="433">China</text>
 <text class="yr" x="760" y="485.0">1961</text>
 <rect x="804.0" y="457" width="211.5" height="48" fill="#8a7a4e"/>
@@ -108,6 +140,9 @@
 <rect x="1040.8" y="457" width="11.8" height="48" fill="#12a594"/>
 <rect x="1052.5" y="457" width="1.5" height="48" fill="#8b94a3"/>
 <text class="num" x="1064.0" y="486.0">10</text>
+<line class="axisl" x1="866.5" y1="505" x2="866.5" y2="509"/>
+<line class="axisl" x1="929.0" y1="505" x2="929.0" y2="509"/>
+<line class="axisl" x1="991.5" y1="505" x2="991.5" y2="509"/>
 <text class="yr" x="760" y="577.0">2023</text>
 <rect x="804.0" y="549" width="125.8" height="48" fill="#8a7a4e"/>
 <rect x="929.8" y="549" width="37.0" height="48" fill="#e0862b"/>
@@ -115,6 +150,9 @@
 <rect x="1011.8" y="549" width="32.8" height="48" fill="#12a594"/>
 <rect x="1044.5" y="549" width="9.5" height="48" fill="#8b94a3"/>
 <text class="num" x="1064.0" y="578.0">33</text>
+<line class="axisl" x1="866.5" y1="597" x2="866.5" y2="601"/>
+<line class="axisl" x1="929.0" y1="597" x2="929.0" y2="601"/>
+<line class="axisl" x1="991.5" y1="597" x2="991.5" y2="601"/>
 <text class="cty" x="28" y="718">Brazil</text>
 <text class="yr" x="28" y="770.0">1961</text>
 <rect x="72.0" y="742" width="141.0" height="48" fill="#8a7a4e"/>
@@ -123,6 +161,9 @@
 <rect x="306.2" y="742" width="11.8" height="48" fill="#12a594"/>
 <rect x="318.0" y="742" width="3.8" height="48" fill="#8b94a3"/>
 <text class="num" x="332.0" y="771.0">37</text>
+<line class="axisl" x1="134.5" y1="790" x2="134.5" y2="794"/>
+<line class="axisl" x1="197.0" y1="790" x2="197.0" y2="794"/>
+<line class="axisl" x1="259.5" y1="790" x2="259.5" y2="794"/>
 <text class="yr" x="28" y="862.0">2023</text>
 <rect x="72.0" y="834" width="84.2" height="48" fill="#8a7a4e"/>
 <rect x="156.2" y="834" width="82.8" height="48" fill="#e0862b"/>
@@ -130,6 +171,9 @@
 <rect x="299.2" y="834" width="12.8" height="48" fill="#12a594"/>
 <rect x="312.0" y="834" width="10.0" height="48" fill="#8b94a3"/>
 <text class="num" x="332.0" y="863.0">57</text>
+<line class="axisl" x1="134.5" y1="882" x2="134.5" y2="886"/>
+<line class="axisl" x1="197.0" y1="882" x2="197.0" y2="886"/>
+<line class="axisl" x1="259.5" y1="882" x2="259.5" y2="886"/>
 <text class="cty" x="394" y="718">Mexico</text>
 <text class="yr" x="394" y="770.0">1961</text>
 <rect x="438.0" y="742" width="163.0" height="48" fill="#8a7a4e"/>
@@ -138,6 +182,9 @@
 <rect x="675.0" y="742" width="8.2" height="48" fill="#12a594"/>
 <rect x="683.2" y="742" width="4.8" height="48" fill="#8b94a3"/>
 <text class="num" x="698.0" y="771.0">30</text>
+<line class="axisl" x1="500.5" y1="790" x2="500.5" y2="794"/>
+<line class="axisl" x1="563.0" y1="790" x2="563.0" y2="794"/>
+<line class="axisl" x1="625.5" y1="790" x2="625.5" y2="794"/>
 <text class="yr" x="394" y="862.0">2023</text>
 <rect x="438.0" y="834" width="108.2" height="48" fill="#8a7a4e"/>
 <rect x="546.2" y="834" width="65.5" height="48" fill="#e0862b"/>
@@ -145,6 +192,9 @@
 <rect x="661.8" y="834" width="17.2" height="48" fill="#12a594"/>
 <rect x="679.0" y="834" width="9.0" height="48" fill="#8b94a3"/>
 <text class="num" x="698.0" y="863.0">46</text>
+<line class="axisl" x1="500.5" y1="882" x2="500.5" y2="886"/>
+<line class="axisl" x1="563.0" y1="882" x2="563.0" y2="886"/>
+<line class="axisl" x1="625.5" y1="882" x2="625.5" y2="886"/>
 <text class="cty" x="760" y="718">Egypt</text>
 <text class="yr" x="760" y="770.0">1961</text>
 <rect x="804.0" y="742" width="181.8" height="48" fill="#8a7a4e"/>
@@ -153,6 +203,9 @@
 <rect x="1035.2" y="742" width="17.2" height="48" fill="#12a594"/>
 <rect x="1052.5" y="742" width="1.2" height="48" fill="#8b94a3"/>
 <text class="num" x="1064.0" y="771.0">20</text>
+<line class="axisl" x1="866.5" y1="790" x2="866.5" y2="794"/>
+<line class="axisl" x1="929.0" y1="790" x2="929.0" y2="794"/>
+<line class="axisl" x1="991.5" y1="790" x2="991.5" y2="794"/>
 <text class="yr" x="760" y="862.0">2023</text>
 <rect x="804.0" y="834" width="165.5" height="48" fill="#8a7a4e"/>
 <rect x="969.5" y="834" width="38.8" height="48" fill="#e0862b"/>
@@ -160,6 +213,9 @@
 <rect x="1029.2" y="834" width="23.3" height="48" fill="#12a594"/>
 <rect x="1052.5" y="834" width="1.5" height="48" fill="#8b94a3"/>
 <text class="num" x="1064.0" y="863.0">24</text>
+<line class="axisl" x1="866.5" y1="882" x2="866.5" y2="886"/>
+<line class="axisl" x1="929.0" y1="882" x2="929.0" y2="886"/>
+<line class="axisl" x1="991.5" y1="882" x2="991.5" y2="886"/>
 <text class="cty" x="28" y="1003">India</text>
 <text class="yr" x="28" y="1055.0">1961</text>
 <rect x="72.0" y="1027" width="187.3" height="48" fill="#8a7a4e"/>
@@ -168,6 +224,9 @@
 <rect x="313.2" y="1027" width="6.8" height="48" fill="#12a594"/>
 <rect x="320.0" y="1027" width="1.7" height="48" fill="#8b94a3"/>
 <text class="num" x="332.0" y="1056.0">22</text>
+<line class="axisl" x1="134.5" y1="1075" x2="134.5" y2="1079"/>
+<line class="axisl" x1="197.0" y1="1075" x2="197.0" y2="1079"/>
+<line class="axisl" x1="259.5" y1="1075" x2="259.5" y2="1079"/>
 <text class="yr" x="28" y="1147.0">2023</text>
 <rect x="72.0" y="1119" width="146.0" height="48" fill="#8a7a4e"/>
 <rect x="218.0" y="1119" width="57.0" height="48" fill="#e0862b"/>
@@ -175,6 +234,9 @@
 <rect x="301.0" y="1119" width="15.5" height="48" fill="#12a594"/>
 <rect x="316.5" y="1119" width="5.2" height="48" fill="#8b94a3"/>
 <text class="num" x="332.0" y="1148.0">33</text>
+<line class="axisl" x1="134.5" y1="1167" x2="134.5" y2="1171"/>
+<line class="axisl" x1="197.0" y1="1167" x2="197.0" y2="1171"/>
+<line class="axisl" x1="259.5" y1="1167" x2="259.5" y2="1171"/>
 <text class="cty" x="394" y="1003">Nigeria</text>
 <text class="yr" x="394" y="1055.0">1961</text>
 <rect x="438.0" y="1027" width="165.2" height="48" fill="#8a7a4e"/>
@@ -183,6 +245,9 @@
 <rect x="665.8" y="1027" width="16.0" height="48" fill="#12a594"/>
 <rect x="681.8" y="1027" width="6.5" height="48" fill="#8b94a3"/>
 <text class="num" x="698.0" y="1056.0">25</text>
+<line class="axisl" x1="500.5" y1="1075" x2="500.5" y2="1079"/>
+<line class="axisl" x1="563.0" y1="1075" x2="563.0" y2="1079"/>
+<line class="axisl" x1="625.5" y1="1075" x2="625.5" y2="1079"/>
 <text class="yr" x="394" y="1147.0">2023</text>
 <rect x="438.0" y="1119" width="167.5" height="48" fill="#8a7a4e"/>
 <rect x="605.5" y="1119" width="56.7" height="48" fill="#e0862b"/>
@@ -190,6 +255,9 @@
 <rect x="668.8" y="1119" width="15.5" height="48" fill="#12a594"/>
 <rect x="684.2" y="1119" width="3.5" height="48" fill="#8b94a3"/>
 <text class="num" x="698.0" y="1148.0">25</text>
+<line class="axisl" x1="500.5" y1="1167" x2="500.5" y2="1171"/>
+<line class="axisl" x1="563.0" y1="1167" x2="563.0" y2="1171"/>
+<line class="axisl" x1="625.5" y1="1167" x2="625.5" y2="1171"/>
 <text class="cty" x="760" y="1003">Senegal</text>
 <text class="yr" x="760" y="1055.0">1961</text>
 <rect x="804.0" y="1027" width="169.2" height="48" fill="#8a7a4e"/>
@@ -198,6 +266,9 @@
 <rect x="1047.8" y="1027" width="3.3" height="48" fill="#12a594"/>
 <rect x="1051.0" y="1027" width="3.0" height="48" fill="#8b94a3"/>
 <text class="num" x="1064.0" y="1056.0">30</text>
+<line class="axisl" x1="866.5" y1="1075" x2="866.5" y2="1079"/>
+<line class="axisl" x1="929.0" y1="1075" x2="929.0" y2="1079"/>
+<line class="axisl" x1="991.5" y1="1075" x2="991.5" y2="1079"/>
 <text class="yr" x="760" y="1147.0">2023</text>
 <rect x="804.0" y="1119" width="161.2" height="48" fill="#8a7a4e"/>
 <rect x="965.2" y="1119" width="61.2" height="48" fill="#e0862b"/>
@@ -205,5 +276,41 @@
 <rect x="1040.8" y="1119" width="11.2" height="48" fill="#12a594"/>
 <rect x="1052.0" y="1119" width="2.0" height="48" fill="#8b94a3"/>
 <text class="num" x="1064.0" y="1148.0">30</text>
-<text class="src" x="28" y="1280">Data: FAO food balance sheets via Our World in Data. Latest year is 2023, or 2022 for Japan.</text>
+<line class="axisl" x1="866.5" y1="1167" x2="866.5" y2="1171"/>
+<line class="axisl" x1="929.0" y1="1167" x2="929.0" y2="1171"/>
+<line class="axisl" x1="991.5" y1="1167" x2="991.5" y2="1171"/>
+<line class="axisl" x1="72" y1="1191" x2="322" y2="1191"/>
+<line class="axisl" x1="72.0" y1="1191" x2="72.0" y2="1196"/>
+<text class="tick2" x="72.0" y="1211" text-anchor="middle">0</text>
+<line class="axisl" x1="134.5" y1="1191" x2="134.5" y2="1196"/>
+<text class="tick2" x="134.5" y="1211" text-anchor="middle">25</text>
+<line class="axisl" x1="197.0" y1="1191" x2="197.0" y2="1196"/>
+<text class="tick2" x="197.0" y="1211" text-anchor="middle">50</text>
+<line class="axisl" x1="259.5" y1="1191" x2="259.5" y2="1196"/>
+<text class="tick2" x="259.5" y="1211" text-anchor="middle">75</text>
+<line class="axisl" x1="322.0" y1="1191" x2="322.0" y2="1196"/>
+<text class="tick2" x="322.0" y="1211" text-anchor="middle">100%</text>
+<line class="axisl" x1="438" y1="1191" x2="688" y2="1191"/>
+<line class="axisl" x1="438.0" y1="1191" x2="438.0" y2="1196"/>
+<text class="tick2" x="438.0" y="1211" text-anchor="middle">0</text>
+<line class="axisl" x1="500.5" y1="1191" x2="500.5" y2="1196"/>
+<text class="tick2" x="500.5" y="1211" text-anchor="middle">25</text>
+<line class="axisl" x1="563.0" y1="1191" x2="563.0" y2="1196"/>
+<text class="tick2" x="563.0" y="1211" text-anchor="middle">50</text>
+<line class="axisl" x1="625.5" y1="1191" x2="625.5" y2="1196"/>
+<text class="tick2" x="625.5" y="1211" text-anchor="middle">75</text>
+<line class="axisl" x1="688.0" y1="1191" x2="688.0" y2="1196"/>
+<text class="tick2" x="688.0" y="1211" text-anchor="middle">100%</text>
+<line class="axisl" x1="804" y1="1191" x2="1054" y2="1191"/>
+<line class="axisl" x1="804.0" y1="1191" x2="804.0" y2="1196"/>
+<text class="tick2" x="804.0" y="1211" text-anchor="middle">0</text>
+<line class="axisl" x1="866.5" y1="1191" x2="866.5" y2="1196"/>
+<text class="tick2" x="866.5" y="1211" text-anchor="middle">25</text>
+<line class="axisl" x1="929.0" y1="1191" x2="929.0" y2="1196"/>
+<text class="tick2" x="929.0" y="1211" text-anchor="middle">50</text>
+<line class="axisl" x1="991.5" y1="1191" x2="991.5" y2="1196"/>
+<text class="tick2" x="991.5" y="1211" text-anchor="middle">75</text>
+<line class="axisl" x1="1054.0" y1="1191" x2="1054.0" y2="1196"/>
+<text class="tick2" x="1054.0" y="1211" text-anchor="middle">100%</text>
+<text class="src" x="28" y="1280">Data: FAO food balance sheets via Our World in Data. Latest year is 2023, or 2022 for Japan. Each bar spans 0 to 100 percent of daily calories.</text>
 </svg>

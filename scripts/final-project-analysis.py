@@ -209,10 +209,12 @@ s.append('''<style>
  .cty{fill:#0f141c;font:600 18px system-ui,-apple-system,Segoe UI,sans-serif}
  .yr{fill:#8b94a3;font:12.5px system-ui,-apple-system,Segoe UI,sans-serif}
  .num{fill:#0f141c;font:700 15px system-ui,-apple-system,Segoe UI,sans-serif}
+ .axisl{stroke:#c7d0dc;stroke-width:1.2}
+ .tick2{fill:#5b6470;font:12px system-ui,-apple-system,Segoe UI,sans-serif}
  .lg{fill:#586170;font:13.5px system-ui,-apple-system,Segoe UI,sans-serif}
  .src{fill:#8b94a3;font:12px system-ui,-apple-system,Segoe UI,sans-serif}
  @media (prefers-color-scheme:dark){.bg{fill:#0f141c}.t{fill:#e7eef7}.sub{fill:#94a1b2}
- .cty{fill:#e7eef7}.yr{fill:#6b7688}.num{fill:#e7eef7}.lg{fill:#94a1b2}.src{fill:#6b7688}}
+ .cty{fill:#e7eef7}.yr{fill:#6b7688}.num{fill:#e7eef7}.axisl{stroke:#33415a}.tick2{fill:#94a1b2}.lg{fill:#94a1b2}.src{fill:#6b7688}}
 </style>''')
 s.append(f'<rect class="bg" width="{W}" height="{H}" rx="12"/>')
 s.append(f'<text class="t" x="{padL}" y="42">Twelve plates, then and now</text>')
@@ -237,7 +239,20 @@ for i, c in enumerate(order):
             acc += wpx
         west = round(vals[1] + vals[2])
         s.append(f'<text class="num" x="{bx+bw+10:.1f}" y="{by+bh/2+5}">{west}</text>')
-s.append(f'<text class="src" x="{padL}" y="{H-22}">Data: FAO food balance sheets via Our World in Data. Latest year is 2023, or 2022 for Japan.</text>')
+        for q in (25, 50, 75):
+            qx = bx + q/100*bw
+            s.append(f'<line class="axisl" x1="{qx:.1f}" y1="{by+bh}" x2="{qx:.1f}" y2="{by+bh+4}"/>')
+for col in range(COLS):
+    acx = padL + col*(tw+gx)
+    ay = padT + (NROWS-1)*(th+gy) + 208
+    abx = acx + 44; abw = tw - 44 - 46
+    s.append(f'<line class="axisl" x1="{abx}" y1="{ay}" x2="{abx+abw}" y2="{ay}"/>')
+    for q in (0, 25, 50, 75, 100):
+        qx = abx + q/100*abw
+        s.append(f'<line class="axisl" x1="{qx:.1f}" y1="{ay}" x2="{qx:.1f}" y2="{ay+5}"/>')
+        lab = "100%" if q == 100 else str(q)
+        s.append(f'<text class="tick2" x="{qx:.1f}" y="{ay+20}" text-anchor="middle">{lab}</text>')
+s.append(f'<text class="src" x="{padL}" y="{H-22}">Data: FAO food balance sheets via Our World in Data. Latest year is 2023, or 2022 for Japan. Each bar spans 0 to 100 percent of daily calories.</text>')
 s.append('</svg>')
 open(os.path.join(IMG, "final-plates.svg"), "w", encoding="utf-8").write("\n".join(s))
 print("final-plates.svg written")
